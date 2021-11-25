@@ -3,7 +3,7 @@ layout: page
 ---
 
 <span style="display:block; margin-top:-30px;">
-![My face](https://avatars.githubusercontent.com/u/2119355?v=3)
+![My face](https://avatars.githubusercontent.com/u/2119354)
 </span>
 
 
