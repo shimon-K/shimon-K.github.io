@@ -92,7 +92,7 @@ either plan specifically for some task, or we can think more generally -
 how some AI can understand the data/system for multiple use/tasks. AI
 that actually learn the data and plan for us.
 
-![How to control over some system?](Motivation01.PNG)
+![How to control over some system?](/Graphics/Motivation01.PNG)
 
 ### Specific
 
@@ -437,7 +437,7 @@ Fig. [\[fig:AGI05\]](#fig:AGI05)(a). It is a functional framework.
 A general sketch of the first draft describing the AGI model/structure
 is shown in Fig. [2](#fig:AGI02).
 
-![AGI possible architecture.](Architecture02.png)
+![AGI possible architecture.](/Graphics/Architecture02.png)
 
 is based on global workspace theory (GWT) , only here there is no
 competition among independent agents in the system, but rather
@@ -455,7 +455,7 @@ between them are not so well defined and are changing, see
 Fig. [3](#fig:AGI02b).
 
 ![AGI possible architecture in 3d hierarchical pyramid
-form.](AGI_ver02.jpeg)
+form.](/Graphics/AGI_ver02.jpeg)
 
 There is sequential processing of 1D and multi-D data separately, for
 data identification. Eventually using it in the working memory. And when
@@ -512,7 +512,7 @@ beings using the meaning-based language, which in our case is 1D
 sequential type of data. Illustrated in Fig. [4](#fig:obj_subj01).
 
 ![Objective (right) verse Subjective inner representation
-(left).](inner_outer_representations02.png)
+(left).](/Graphics/inner_outer_representations02.png)
 
 This is the reason why there are no labeled outputs in DNN in reality,
 other than the one that represent meaning, which is given by the 1D
@@ -680,7 +680,7 @@ expand as a tree: in different locations of a given NN, and in a
 different structures, depths and so on. An illustration of multiple
 hierarchies formed in a given NN is in Fig. [4](#fig:obj_subj01).
 
-![Branching due to multiple hierarchies.](branching.png)
+![Branching due to multiple hierarchies.](/Graphics/branching.png)
 
 Also the structure update can be done during "sleeping" periods/mode,
 when the frequency of neuron excitement trajectories are stored in the
@@ -927,7 +927,7 @@ amount of triggering of the different tasks (or features if we want to
 include them). This DNN is actually perpendicular to the original DNN.
 See Fig. [6](#fig:hierarchical_learning2).
 
-![Learn features of features](hierarchical_learning02.PNG)
+![Learn features of features](/Graphics/hierarchical_learning02.PNG)
 
 It does not have to end here, we can continue extract this new DNN’s
 feature perpendicularly likewise, ending with a multidimensional NN
@@ -1036,7 +1036,7 @@ possible.
 This idea can be related metaphorically also to the PID controller, as
 illustrated in Fig. [7](#fig:PID01).
 
-![PID error as a function of time, taken from . ](pid_gorbe_en.jpg)
+![PID error as a function of time, taken from . ](/Graphics/pid_gorbe_en.jpg)
 
 Where integrated operation expressed using integral is converging using
 the past, and differential operation expressed using derivative predicts
@@ -1062,7 +1062,7 @@ is AGI’s neural network, which decide upon the control. Also illustrated
 in Fig. [8](#fig:plant_model).
 
 ![State-feedback Controllers implementation on a
-plant.](_plant_model.JPG)
+plant.](/Graphics/_plant_model.JPG)
 
 ### NN black-box issue
 
@@ -1139,7 +1139,7 @@ explainable since it’s not built for that. The explainable part will be
 if we combine textual NN. The NN is actually a system of nested
 conditional operators, so it is not so unexplainable.
 
-In Fig. [9](#fig:time_models) there is a scheme representing how current
+In Fig. [9](./Graphics/#fig:time_models) there is a scheme representing how current
 action is decided. On what it depends.  
 PID is based on closed-loop error correction control, where I=integral
 correcting based on accumulating error from the past, P=proportional is
