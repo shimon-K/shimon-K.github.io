@@ -11,7 +11,7 @@ This page acts as a directory for major posts I created on [Twitter](https://twi
 
 ## Masters
 
-Robust control [Abstract](https://twitter.com/alfcnz) [Full pdf](https://twitter.com/alfcnz)
+Robust control [[Abstract](https://twitter.com/alfcnz)] [[Full pdf](https://twitter.com/alfcnz)]
 - Life & philosophy
 - Unix utilities
 - Productivity & organisation
