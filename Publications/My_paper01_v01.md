@@ -92,7 +92,7 @@ either plan specifically for some task, or we can think more generally -
 how some AI can understand the data/system for multiple use/tasks. AI
 that actually learn the data and plan for us.
 
-![How to control over some system?](/Graphics/Motivation01.PNG)
+![How to control over some system?](/Graphics/Motivation01.png)
 
 ### Specific
 
@@ -1139,7 +1139,7 @@ explainable since it’s not built for that. The explainable part will be
 if we combine textual NN. The NN is actually a system of nested
 conditional operators, so it is not so unexplainable.
 
-In Fig. [9](./Graphics/#fig:time_models) there is a scheme representing how current
+In Fig. [9](#fig:time_models) there is a scheme representing how current
 action is decided. On what it depends.  
 PID is based on closed-loop error correction control, where I=integral
 correcting based on accumulating error from the past, P=proportional is
