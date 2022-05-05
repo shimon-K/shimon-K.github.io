@@ -267,10 +267,10 @@ prior knowledge and efficiency, similar to the effect of hand feature
 engineering. It also removes redundancy.
 
 
-<p align="center" width="100%">
+<figure align="center" width="100%">
     <img width="33%" src="/Graphics/NoFreeLunch.png" alt="No free Lunch for highly-designed AI.">
     <img width="33%" src="/Graphics/NN03b.png" alt="Performance verse the.."> 
-</p>
+</figure>
 
 There is an issue to define the problem of AI. Unlike regular
 classification problem well defined in DNNs, it is difficult to know
