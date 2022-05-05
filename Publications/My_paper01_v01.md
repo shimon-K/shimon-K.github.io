@@ -680,7 +680,7 @@ expand as a tree: in different locations of a given NN, and in a
 different structures, depths and so on. An illustration of multiple
 hierarchies formed in a given NN is in Fig. [4](#fig:obj_subj01).
 
-![Branching due to multiple hierarchies.](/Graphics/branching.png)
+![Branching due to multiple hierarchies.](/Graphics/branching.PNG)
 
 Also the structure update can be done during "sleeping" periods/mode,
 when the frequency of neuron excitement trajectories are stored in the
@@ -1167,7 +1167,7 @@ RNN however, introduce the ability to account for not only past learning
 but also past dependence for current reaction. Which is important for
 evaluation of the forming situation before our eyes.
 
-![How current action is decided, in different models.](time_models.JPG)
+![How current action is decided, in different models.](/Graphics/time_models.JPG)
 
 ### Stimulated AGI (high objective)
 
@@ -1353,7 +1353,7 @@ satisfied fully and immediately.
 
 ADD THIS:
 
-![](heb01.JPG)
+![](/Graphics/heb01.JPG)
 
 Just like back-propagating and feed-forward can not act simultaneously,
 similarly wakening absorbing data and process it cannot occur together
