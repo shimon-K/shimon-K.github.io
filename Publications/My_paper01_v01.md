@@ -92,7 +92,11 @@ either plan specifically for some task, or we can think more generally -
 how some AI can understand the data/system for multiple use/tasks. AI
 that actually learn the data and plan for us.
 
-![How to control over some system?](/Graphics/motivation01.png)
+
+<p align="center" width="100%">
+    <img width="33%" src="/Graphics/.png">
+    <How to control over some system?/>
+</p>
 
 ### Specific
 
