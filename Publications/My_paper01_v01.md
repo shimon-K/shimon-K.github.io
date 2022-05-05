@@ -268,7 +268,7 @@ engineering. It also removes redundancy.
 
 
 <p align="center" width="100%">
-    <img width="33%" src="/Graphics/NoFreeLunch.png" alt="No free Lunch for highly-designed AI.">
+    <img alt="No free Lunch for highly-designed AI." width="33%" src="/Graphics/NoFreeLunch.png">
     <img width="33%" src="/Graphics/NN03b.png" alt="Performance verse the..">
     <br>
     <em>Comparison between AI methods to comprehend the environment.</em>
