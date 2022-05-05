@@ -268,9 +268,9 @@ engineering. It also removes redundancy.
 
 
 <p align="center" width="100%">
-    <img width="33%" src="/Graphics/NoFreeLunch.png" No free Lunch for highly-designed AI.>
-    <img width="33%" src="/Graphics/NN03b.png" Performance verse the..>
-    <Comparison between AI methods to comprehend the environment./>
+    <img width="33%" src="/Graphics/NoFreeLunch.png" alt="No free Lunch for highly-designed AI.">
+    <img width="33%" src="/Graphics/NN03b.png" alt="Performance verse the..">
+    <caption>Comparison between AI methods to comprehend the environment.</caption>
 </p>
 
 There is an issue to define the problem of AI. Unlike regular
