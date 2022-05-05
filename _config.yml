@@ -1,4 +1,4 @@
-title: Alfredo Canziani
+title: Shimon Komarovsky
 plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
@@ -6,9 +6,9 @@ minima:
   skin: dark
   social_links:
     twitter: alfcnz
-    github:  Atcold
+    github:  shimon-K
     youtube_channel: UCupQLyNchb9-2Z5lmUOIijw
-    youtube_channel_name: Alfredo Canziani
+    youtube_channel_name: Shimon Komarovsky
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
