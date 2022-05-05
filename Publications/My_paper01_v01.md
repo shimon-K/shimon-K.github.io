@@ -94,7 +94,7 @@ that actually learn the data and plan for us.
 
 
 <p align="center" width="100%">
-    <img width="33%" src="/Graphics/.png">
+    <img width="33%" src="/Graphics/motivation01.png">
     <How to control over some system?/>
 </p>
 
