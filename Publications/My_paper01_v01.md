@@ -268,8 +268,8 @@ engineering. It also removes redundancy.
 
 
 <p align="center" width="100%">
-    <img width="33%" src="/Graphics/NofreeLunch.PNG" No free Lunch for highly-designed AI.>
-    <img width="33%" src="/Graphics/NN03b.PNG" Performance verse the..>
+    <img width="33%" src="/Graphics/NofreeLunch.png" No free Lunch for highly-designed AI.>
+    <img width="33%" src="/Graphics/NN03b.png" Performance verse the..>
     <Comparison between AI methods to comprehend the environment./>
 </p>
 
