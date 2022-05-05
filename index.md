@@ -13,5 +13,5 @@ Enthusiastic About AGI.
 
 Check out
 <a style="color:#8dd3c7" href="https://shimon-k.github.io/AGI-Course/">AGI Course</a>,
-<a style="color:#8dd3c7" href="/twitter.html">Publications</a>, and
+<a style="color:#8dd3c7" href="/publications.html">Publications</a>, and
 <a style="color:#8dd3c7" href="/youtube.html">YouTube archive</a>.
