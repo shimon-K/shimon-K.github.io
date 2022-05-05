@@ -266,6 +266,13 @@ grouping/sharing parameters) - results with less parameters and more
 prior knowledge and efficiency, similar to the effect of hand feature
 engineering. It also removes redundancy.
 
+
+<p align="center" width="100%">
+    <img width="33%" src="/Graphics/NofreeLunch.PNG" No free Lunch for highly-designed AI.>
+    <img width="33%" src="/Graphics/NN03b.PNG" Performance verse the..>
+    <Comparison between AI methods to comprehend the environment./>
+</p>
+
 There is an issue to define the problem of AI. Unlike regular
 classification problem well defined in DNNs, it is difficult to know
 what is the overall purpose of AI. We believe for now, that it is to
