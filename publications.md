@@ -9,17 +9,17 @@ title: Publications archive
 This page acts as a directory for major posts I created on [Twitter](https://twitter.com/alfcnz), sorted by theme by inverse chronological order, or by inverse chronological order by theme.
 
 
-## Masters
+## Masters Degree
 
-Robust control [[Abstract](https://twitter.com/alfcnz)] [[Full pdf](https://twitter.com/alfcnz)]
-- Life & philosophy
-- Unix utilities
-- Productivity & organisation
+- Robust Traffic Signal Control for Uncertain Road Networks (M.Sc Thesis) [[Abstract](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] [[Full pdf](https://twitter.com/alfcnz)]
+
+- Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[Abstract](https://ieeexplore.ieee.org/document/8795981)] [[Full pdf](https://twitter.com/alfcnz)]
 
 
-## Inverse chronological order
 
-- 2021
-- 2020
-- 2019
-- 2018
+## AGI papers
+
+- Dynamic and Evolving Neural Network as a Basis for AGI
+
+
+- Deep Learning Framework for Artificial General Intelligence
