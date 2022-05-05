@@ -11,13 +11,6 @@ Finally, I'm writing a textbook with Mikael Henaff and Yann LeCun.
 You can read more about my teaching philosophy and methods in [this article](https://openreview.net/forum?id=3jKiduENcO).
 
 
-## Deep Learning courses
+## Courses
 
-- [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/)
-- [NYU-DLSP20](https://atcold.github.io/pytorch-Deep-Learning/) (major release)
-- [NYU-DLSP19](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/dlsp19)
-- [AIMS-DLFL19](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/aims-fl18)
-- [CoDaS-HEP18](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/v1.0.0)
-- [NYU-DLSP18](https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/)
-- [Purdue-DLFL16](https://docs.google.com/document/d/1ugJRMqQ_cCUQC1B8mSE0iro7sKrDT8-BnppTZv0rA08/)
-- [torch-Video-Tutorials](https://github.com/Atcold/torch-Video-Tutorials)
+- [AGI Course](https://shimon-K.github.io/AGI-Course/) (major release)
