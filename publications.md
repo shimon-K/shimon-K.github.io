@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Twitter archive
+title: Publications archive
 ---
 
 
@@ -9,9 +9,9 @@ title: Twitter archive
 This page acts as a directory for major posts I created on [Twitter](https://twitter.com/alfcnz), sorted by theme by inverse chronological order, or by inverse chronological order by theme.
 
 
-## Themes
+## Masters
 
-- NYU Deep Learning course
+Robust control [Abstract](https://twitter.com/alfcnz) [Full pdf](https://twitter.com/alfcnz)
 - Life & philosophy
 - Unix utilities
 - Productivity & organisation
