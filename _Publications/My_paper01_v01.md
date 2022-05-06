@@ -1,13 +1,3 @@
----
-title: "Untitled"
-author: "V"
-date: "22 4 2020"
-header-includes:
-  - \usepackage{subcaption}
-output: 
-    pdf_document
----
-
 
 # INTRODUCTION
 
