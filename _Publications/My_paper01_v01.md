@@ -274,6 +274,11 @@ engineering. It also removes redundancy.
     <em>Comparison between AI methods to comprehend the environment.</em>
 </p>
 
+
+| <center><img src="/Graphics/NoFreeLunch.png" width="33%"/></center> | <center><img src="/Graphics/NN03b.png" width="33%"/></center> |
+|             (a) No free Lunch for highly-designed AI.             |            (b) Performance verse the..             |
+<center> Figure 1: Comparison between AI methods to comprehend the environment. </center>
+
 There is an issue to define the problem of AI. Unlike regular
 classification problem well defined in DNNs, it is difficult to know
 what is the overall purpose of AI. We believe for now, that it is to
