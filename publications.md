@@ -19,7 +19,7 @@ This page acts as a directory for major posts I created on [Twitter](https://twi
 
 ## AGI papers
 
-- Dynamic and Evolving Neural Network as a Basis for AGI
+- Dynamic and Evolving Neural Network as a Basis for AGI [[PrePrint](https://easychair.org/publications/preprint/bCjT)]
 
 
-- Deep Learning Framework for Artificial General Intelligence
+- Deep Learning Framework for Artificial General Intelligence [[PrePrint](https://easychair.org/publications/preprint/4SqG4)]
