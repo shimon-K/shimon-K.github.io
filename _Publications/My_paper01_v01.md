@@ -1,3 +1,13 @@
+---
+title: "Untitled"
+author: "V"
+date: "22 4 2020"
+output: pdf_document
+header-includes:
+  - \usepackage{subcaption}
+---
+
+
 # INTRODUCTION
 
 DL as the technical implementation of AI is not fully exploited as it
@@ -278,6 +288,17 @@ engineering. It also removes redundancy.
 | <center><img src="/Graphics/NoFreeLunch.png" width="200px"/></center> | <center><img src="/Graphics/NN03b.png" width="200px"/></center> |
 |             (a) No free Lunch for highly-designed AI.             |            (b) Performance verse the..             |
 <center> Figure 1: Comparison between AI methods to comprehend the environment. </center>
+
+
+\begin{figure}[h]
+\begin{subfigure}{.5\textwidth}
+\includegraphics[No free Lunch for highly-designed AI.]{/Graphics/NoFreeLunch.png}
+\end{subfigure}%
+\begin{subfigure}{.5\textwidth}
+\includegraphics[Performance verse the..]{/Graphics/NN03b.png}
+\end{subfigure}
+\caption{Comparison between AI methods to comprehend the environment.}
+\end{figure}
 
 There is an issue to define the problem of AI. Unlike regular
 classification problem well defined in DNNs, it is difficult to know
