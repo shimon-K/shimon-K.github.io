@@ -21,6 +21,6 @@ I'm enthusiastic About AGI. My evolution is the following:
 Check out
 <a style="color:#8dd3c7" href="https://shimon-k.github.io/AGI-Course/">AGI Course</a>,
 <a style="color:#8dd3c7" href="/publications.html">Publications</a>, and
-<a style="color:#8dd3c7" href="https://github.com/shimon-K/AGI-Course/blob/master/slides/00 - Logic neurons.pdf">Publications2</a>
+<a style="color:#8dd3c7" href="https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/My_paper01_v01.md">Publications2</a>
 
 [comment]: <> (, and <a style="color:#8dd3c7" href="/youtube.html">YouTube archive</a>.)
