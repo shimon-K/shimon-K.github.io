@@ -14,3 +14,7 @@ highlighter: rouge
 kramdown:
     math_engine: katex
     syntax_highlighter: rouge
+header-includes:
+  - \usepackage{subcaption}
+output:
+    pdf_document
