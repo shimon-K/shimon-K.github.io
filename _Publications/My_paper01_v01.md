@@ -275,7 +275,7 @@ engineering. It also removes redundancy.
 </p>
 
 
-| <center><img src="/Graphics/NoFreeLunch.png" width="33%"/></center> | <center><img src="/Graphics/NN03b.png" width="33%"/></center> |
+| <center><img src="/Graphics/NoFreeLunch.png" width="200px"/></center> | <center><img src="/Graphics/NN03b.png" width="200px"/></center> |
 |             (a) No free Lunch for highly-designed AI.             |            (b) Performance verse the..             |
 <center> Figure 1: Comparison between AI methods to comprehend the environment. </center>
 
