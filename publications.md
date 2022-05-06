@@ -4,10 +4,6 @@ title: Publications archive
 ---
 
 
-<p class="warning">Under construction.</p>
-
-This page acts as a directory for major posts I created on [Twitter](https://twitter.com/alfcnz), sorted by theme by inverse chronological order, or by inverse chronological order by theme.
-
 
 ## Masters Degree
 
