@@ -2,9 +2,10 @@
 title: "Untitled"
 author: "V"
 date: "22 4 2020"
-output: pdf_document
 header-includes:
   - \usepackage{subcaption}
+output: 
+    pdf_document
 ---
 
 
