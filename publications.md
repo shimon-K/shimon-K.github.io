@@ -11,7 +11,7 @@ title: Publications archive
 
 - Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[Abstract](https://ieeexplore.ieee.org/document/8795981)] [[Full pdf](https://twitter.com/alfcnz)]
 
-https://www.youtube.com/c/ArtificialGeneralIntelligence
+
 
 ## AGI papers
 
