@@ -11,11 +11,11 @@ title: Publications archive
 
 - Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[Abstract](https://ieeexplore.ieee.org/document/8795981)] [[Full pdf](https://twitter.com/alfcnz)]
 
-
+https://www.youtube.com/c/ArtificialGeneralIntelligence
 
 ## AGI papers
 
-- Dynamic and Evolving Neural Network as a Basis for AGI [[PrePrint](https://easychair.org/publications/preprint/bCjT)]
+- Dynamic and Evolving Neural Network for event discrimination [[PrePrint](https://easychair.org/publications/preprint/2dJv), [Video](https://www.youtube.com/watch?v=Qb6owhRVk6w&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=2&t=22s&ab_channel=ArtificialGeneralIntelligence)]
 
 
-- Deep Learning Framework for Artificial General Intelligence [[PrePrint](https://easychair.org/publications/preprint/4SqG4)]
+- Hierarchical Temporal DNN and Associative Knowledge Representation [[PrePrint](https://easychair.org/publications/preprint/1PLv), [Video](https://www.youtube.com/watch?v=th82r6n59rU&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=3&t=89s&ab_channel=ArtificialGeneralIntelligence)]
