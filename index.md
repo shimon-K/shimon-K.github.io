@@ -23,4 +23,4 @@ Check out
 <a style="color:#8dd3c7" href="https://shimon-k.github.io/AGI-Course/">AGI Course</a>,
 <a style="color:#8dd3c7" href="/publications.html">Publications</a>.
 
-<i class="ai ai-google-scholar-square ai-3x"></i>
+[comment]: <> (<i class="ai ai-google-scholar-square ai-3x"></i>)
