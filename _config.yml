@@ -5,9 +5,10 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    twitter: alfcnz
+    twitter: ShimonKom
+    linkedin: shimon-kom-71669925
     github:  shimon-K
-    youtube_channel: UCupQLyNchb9-2Z5lmUOIijw
+    youtube_channel: ArtificialGeneralIntelligence
     youtube_channel_name: Shimon Komarovsky
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
