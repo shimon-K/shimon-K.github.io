@@ -20,9 +20,3 @@ header-includes:
   - \usepackage{subcaption}
 output:
     pdf_document
-footer_icons:
-  - username: aterenin/minima-reboot/
-    url: https://github.com/aterenin/minima-reboot/
-    icon: icon-github.svg
-    icon_height: 26px
-    icon_width: 26px
