@@ -7,6 +7,8 @@ My approach to teaching (and doing research) in AGI is to learn little from a lo
 
 It is because in my belief, to construct AGI, we should have wider view of many aspects, because my philosophy is that AGI is holistic system, i.e. should be build to handle all possible functions and operations right from the start. Of course not immediatly, but after a period of apropriate growth and guidance, yet still, it has to hold the potential in its preliminary "DNA".
 
+Additionaly, I gather small ideas, which can be grouped in many ways, since there are multiple connections between ideas. Hence, it's artificial nested order of contents, and whenever is possible, these connections are mentioned, to construct wider view of how really many diverse ideas are inter-connected.
+
 ## Courses
 
 - [AGI Course](https://shimon-K.github.io/AGI-Course/) (major release)
