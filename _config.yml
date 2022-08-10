@@ -11,6 +11,7 @@ minima:
     github:  shimon-K
     youtube_channel: ArtificialGeneralIntelligence
     youtube_channel_name: Shimon Komarovsky
+    microdotblog: Shimon-Komarovsky
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
