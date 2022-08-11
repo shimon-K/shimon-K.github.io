@@ -12,6 +12,12 @@ title: Publications archive
 - Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[Abstract](https://ieeexplore.ieee.org/document/8795981)] [[Full pdf](https://twitter.com/alfcnz)]
 
 
+## Current Research
+
+- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress)
+
+- PREFERENCE COMMANDS IN TRAFFIC SIGNAL CONTROL VIA DOUBLE DEEP Q-NETWORK (in progress)
+
 
 ## AGI papers
 
