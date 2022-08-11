@@ -20,7 +20,7 @@ I'm enthusiastic About AGI. My evolution is the following:
 
 
 Check out
-[comment]: <> (<a style="color:#8dd3c7" href="https://shimon-k.github.io/AGI-Course/">AGI Course</a>,)
+<!--<a style="color:#8dd3c7" href="https://shimon-k.github.io/AGI-Course/">AGI Course</a>,-->
 <a style="color:#8dd3c7" href="/publications.html">Publications</a>.
 
 
