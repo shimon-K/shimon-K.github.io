@@ -11,4 +11,4 @@ Additionaly, I gather small ideas, which can be grouped in many ways, since ther
 
 ## Courses
 
-- [AGI Course](https://shimon-K.github.io/AGI-Course/) (major release)
+- [AGI Course](https://shimon-K.github.io/AGI-Course/) (in construction)
