@@ -21,7 +21,7 @@ title: Publications archive
 
 ## AGI papers
 
-- Dynamic and Evolving Neural Network for event discrimination [[PrePrint](https://easychair.org/publications/preprint/2dJv), [Video](https://www.youtube.com/watch?v=Qb6owhRVk6w&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=2&t=22s&ab_channel=ArtificialGeneralIntelligence)]
+- Dynamic and Evolving Neural Network for event discrimination [[Full PrePrint](https://easychair.org/publications/preprint/2dJv), [Video](https://www.youtube.com/watch?v=Qb6owhRVk6w&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=2&t=22s&ab_channel=ArtificialGeneralIntelligence), [Short AGI22 Conference Paper]()]
 
 
-- Hierarchical Temporal DNN and Associative Knowledge Representation [[PrePrint](https://easychair.org/publications/preprint/1PLv), [Video](https://www.youtube.com/watch?v=th82r6n59rU&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=3&t=89s&ab_channel=ArtificialGeneralIntelligence)]
+- Hierarchical Temporal DNN and Associative Knowledge Representation [[Full PrePrint](https://easychair.org/publications/preprint/1PLv), [Video](https://www.youtube.com/watch?v=th82r6n59rU&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=3&t=89s&ab_channel=ArtificialGeneralIntelligence), [Short AGI22 Conference Paper]()]
