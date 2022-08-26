@@ -11,8 +11,8 @@ Additionaly, I gather small ideas, which can be grouped in many ways, since ther
 
 Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized everywhere. Examples: 
 1) the sturcture in academic article: headline -> abstract -> body. 
-2) 2) in my AGI course: headline -> short video/presentation (~5 min) -> long video/presentation (~1 hour). 
-3) 3) how AGI should be designed: top level design -> descent to lower level, and try to implement it there -> descent again and do the same. If at one of the levels you cannot succeed in implementing, go to higher levels, and try different models.
+2) in my AGI course: headline -> short video/presentation (~5 min) -> long video/presentation (~1 hour). 
+3) how AGI should be designed: top level design -> descent to lower level, and try to implement it there -> descent again and do the same. If at one of the levels you cannot succeed in implementing, go to higher levels, and try different models.
 
 ## Courses
 
