@@ -14,6 +14,13 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 2) in my AGI course: headline -> short video/presentation (~5 min) -> long video/presentation (~1 hour). 
 3) how AGI should be designed: top level design -> descent to lower level, and try to implement it there -> descent again and do the same. If at one of the levels you cannot succeed in implementing, go to higher levels, and try different models.
 
+
+<ol>
+    <li>the sturcture in academic article: headline -> abstract -> body.</li>
+    <li>in my AGI course: headline -> short video/presentation (~5 min) -> long video/presentation (~1 hour).</li>
+    <li>how AGI should be designed: top level design -> descent to lower level, and try to implement it there -> descent again and do the same. If at one of the levels you cannot succeed in implementing, go to higher levels, and try different models.</li>
+</ol>
+
 ## Courses
 
 - [AGI Course](https://shimon-K.github.io/AGI-Course/) (in construction)
