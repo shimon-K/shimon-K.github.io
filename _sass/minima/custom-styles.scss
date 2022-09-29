@@ -74,11 +74,11 @@ iframe {
   margin: auto;
   position: relative;
   margin-bottom: 15px;
-  width: 600px;
+  width: 800px;
   height: 400px;
 }
 // If the page is lesser than 600px, set that width to the iframe
-@media (max-width: 600px) {iframe{width: 100%;}}
+@media (max-width: 800px) {iframe{width: 100%;}}
 
 definition {
   display: block;
