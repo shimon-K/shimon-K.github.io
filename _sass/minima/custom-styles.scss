@@ -57,7 +57,7 @@ $link-base-color: #8dd3c7 !default;
 h1#about-me {
   font-size: 2em;
   line-height: 1.5;
-  margin-top: auto;
+  margin-top: 1px;  // auto
 }
 
 // Blog layout is home, so set size as other pages
@@ -71,7 +71,7 @@ h1#about-me {
 iframe {
   border: none;
   display: block;
-  margin: 1px;
+  margin: 1px;  // auto
   position: relative;
   margin-bottom: 15px;
   width: 800px;
