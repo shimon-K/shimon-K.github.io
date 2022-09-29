@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Publications [comment]: <> (//<!-- archive-->)
+title: Publications
+[comment]: <> (archive)
 ---
 
 
