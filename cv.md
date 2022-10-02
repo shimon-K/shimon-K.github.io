@@ -4,7 +4,7 @@ title: Curriculum vitae (CV)
 ---
 
 
-## My evolution is the following:
+## My evolution
 
 - Started with learning physics,
 - Continued with educational physics, with the purpose to build a computer software to serve as a tool to provide a more comprehensible and more understandable physics. It is called SciSoft.
@@ -14,7 +14,7 @@ title: Curriculum vitae (CV)
 - During my studying the AI field, then Machine Learning and then Deep Learning, I encountered the fabulous and fascinating world of Artificial General Intelligence (AGI).
 
 
-## Overview of gained knowledge:
+## Overview of gained knowledge
 
 AI formal courses I took, in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro):
 
