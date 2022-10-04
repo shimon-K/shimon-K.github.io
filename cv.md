@@ -26,7 +26,7 @@ AI formal courses I took, in [Technion](https://www.jpost.com/business-and-innov
 
 AI self-learning courses:
 
-<!--CNN_images.docx:-->
+<!--CNN_images.docx:                ALSO ADD RESOURCES, AND WHERE STORED AS A TABLE-->
 
 - Deep Learning in Computer Vision – [Coursera](https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1): different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO).
 - The Ancient Secrets of Computer Vision ([Course](https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)) - Joseph Redmon: different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO).
