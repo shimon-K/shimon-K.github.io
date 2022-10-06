@@ -5,9 +5,11 @@ title: Teaching
 
 My approach to teaching (and doing research) in AGI is to learn little from a lot (unlike most of academia's view of spceialization in one's field), i.e., learn as many ideas as possible, without getting to much to details, just enough to comprehend and understand it perfectly. This perspective can be manifested in research, what's referred to as ["fundamental/basic research"](https://bigthink.com/13-8/basic-research-most-advanced/). It is advanced type of research, that opens the door for many applied studies to follow.
 
-It is because in my belief, to construct AGI, we should have wider view of many aspects, because my philosophy is that AGI is holistic system, i.e. it should be built to handle all possible functions and operations right from the start. Of course not immediatly, but after a period of apropriate growth and guidance, yet still, it has to hold the potential in its preliminary "DNA".
+It is because in my belief, to construct AGI, we should have wider view of many aspects, because my philosophy is that AGI is holistic system, i.e. it should be built to handle all possible functions and operations right from the start, in potential. Of course it is not accomplished immediatly, but after a period of apropriate growth and guidance, yet still, it has to hold the potential in its preliminary "DNA".
 
 Additionaly, I gather small ideas, which can be grouped in many ways, since there are multiple connections between ideas. Hence, it's artificial nested order of contents, and whenever is possible, these connections are mentioned, to construct wider view of how really many diverse ideas are inter-connected.
+
+Another approach I very much beleive to be essential for AGI develoment, is much more collaboration and discussions, specifically about AGI designing. Since along all the knowledge I gathered, I picked many beautiful ideas, that each touches and solves some aspect of AGI. Some ideas talk about more or less similar ideas, but it seems the authors are not aware of each other. I'm almost sure, that if we gather scientists in different fields, into large forums as it is occur in conferences, we would have much faster convergence to AGI.
 
 Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized everywhere. Examples: 
 <!--1) the sturcture in academic article: headline -> abstract -> body. 
@@ -16,7 +18,7 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 <ol>
     <li>the sturcture in academic article: headline -> abstract -> body.</li>
     <li>AGI course: headline -> short video/presentation (~5 min) -> long video/presentation (~1 hour).</li>
-    <li>how AGI should be designed: top level design -> descent to lower level, and try to implement it there -> descent again and do the same. If at one of the levels you cannot succeed in implementing, go to higher levels, and try different models.</li>
+    <li>how AGI should be designed: top level design -> descent to lower level, and try to implement it there -> descent again and do the same. If at one of the levels you cannot succeed in implementing, go back to higher levels, and try different models.</li>
 </ol>
 
 ## Courses
