@@ -16,6 +16,19 @@ title: Curriculum vitae (CV)
 
 ## Overview of gained knowledge
 
+Control Theory:
+
+Formal courses:
+
+- Optimal control
+- Non-Linear control
+
+Self-learning courses:
+
+- Linear Systems
+- Introduction to Control
+- Control Theory
+
 AI formal courses I took, in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro):
 
 - Introduction to Machine Learning
@@ -26,7 +39,7 @@ AI formal courses I took, in [Technion](https://www.jpost.com/business-and-innov
 
 AI self-learning courses:
 
-<!--CNN_images.docx:                ALSO ADD RESOURCES, AND WHERE STORED AS A TABLE-->
+<!--CNN_images.docx:                ALSO ADD RESOURCES, MAIN IDEAS LEARNED, AND WHERE STORED AS A TABLE-->
 
 - Deep Learning in Computer Vision – [Coursera](https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1): different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO).
 - The Ancient Secrets of Computer Vision ([Course](https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)) - Joseph Redmon: different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO).
