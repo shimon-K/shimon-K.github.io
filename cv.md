@@ -25,8 +25,8 @@ title: Curriculum vitae (CV)
       <th style="width: 2%">Courses</th>
       <th style="width: 5%" align="left">Title</th>
       <th align="left">Main Ideas</th>
-      <th align="left">Resources</th>
-      <th align="left">Internal ref</th>
+      <!--<th align="left">Resources</th>
+      <th align="left">Internal ref</th>-->
     </tr>
   </thead>
   <tbody>
