@@ -152,18 +152,20 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
-      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="[https://www.coursera.org/learn/machine-learning-duke](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
       <td rowspan="3">AICourses.docx</td>
     </tr>
     <tr>
-      <td rowspan="1">Deep Learning courses: [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1)</td>
+      <td rowspan="1">Deep Learning courses</td>
+      <!-- [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1) -->
       <td rowspan="1" style="font-size:12px">MIMO, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, Transfer functions</td>
-      <td rowspan="1"><a href=""></a></td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">1</a>,<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1">2</a></td>
     </tr>
     <tr>
-      <td rowspan="1">Connectionism in GOFAI or classical AI (20th century) in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056)</td>
+      <td rowspan="1">Connectionism in GOFAI or classical AI (20th century)</td>
+      <!--  in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056) -->
       <td rowspan="1" style="font-size:12px">Basic learning rules, e.g. Hebbian; Associative memory; RBF (radial basis function); MLP (multi-layered perceptron); SOM (self-organizing-map)</td>
-      <td rowspan="1"><a href=""></a></td>
+      <td rowspan="1"><a href="https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056">Youtube</a></td>
     </tr>    
     <tr>
       <td rowspan="1">Systems and Control</td>
