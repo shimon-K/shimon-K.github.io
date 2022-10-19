@@ -60,13 +60,13 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
-      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Lead-lag controller,<br />Basic loop shaping and stability margins, PID controllers</td>
+      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead-lag controller,<br />Basic loop shaping and stability margins, PID controllers</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
       <td rowspan="1">Control Theory</td>
-      <td rowspan="1" style="font-size:12px">Transfer functions, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, MIMO</td>
+      <td rowspan="1" style="font-size:12px">MIMO, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, Transfer functions</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
