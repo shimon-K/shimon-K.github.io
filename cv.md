@@ -118,7 +118,7 @@ title: Curriculum vitae (CV)
   <tbody>
 <!-- =============================== Formal Courses ================================ -->
     <tr>
-      <td rowspan="3" align="center" class="vertical-th" style="font-size:20px">Formal</td>
+      <td rowspan="3" align="center" class="vertical-th" style="font-size:30px">Formal</td>
       <td rowspan="1">Introduction to Machine Learning</td>
       <td rowspan="1" style="font-size:12px">--</td>
       <td rowspan="1">-res-</td>
@@ -138,11 +138,11 @@ title: Curriculum vitae (CV)
     </tr>    
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="6" align="center" class="vertical-th" style="font-size:20px">Self learning</td>
+      <td rowspan="6" align="center" class="vertical-th" style="font-size:30px">Self learning</td>
       <td rowspan="1">Deep Learning in Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
-      <td class="vertical-th" rowspan="2">CNN_images.docx</td>
+      <td class="vertical-th" rowspan="2" align="center">CNN_images.docx</td>
     </tr>
     <tr>
       <td rowspan="1">The Ancient Secrets of Computer Vision</td>
@@ -153,7 +153,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
-      <td class="vertical-th" rowspan="3">AICourses.docx</td>
+      <td class="vertical-th" rowspan="3" align="center">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses</td>
