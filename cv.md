@@ -22,7 +22,7 @@ title: Curriculum vitae (CV)
 <!-- =============================== HEADER ================================ -->
   <thead>
     <tr>
-      <th style="width: 4%">Courses</th>
+      <th style="width: 2%">Courses</th>
       <th align="left">Title</th>
       <th align="left">Main Ideas</th>
       <th align="left">Resources</th>
