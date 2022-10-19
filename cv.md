@@ -78,7 +78,7 @@ title: Curriculum vitae (CV)
     </tr>    
     <tr>
       <td rowspan="1">Systems and Control</td>
-      <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Multiparametric Programming, Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Set theory: Ellipsoidal/Polyhedral set, Nominal/Robust State/Output feedback Interpolating control, Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI), Implicit/Explicit solution</td>
+      <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Multiparametric Programming, Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Set theory: Ellipsoidal/Polyhedral set, Nominal/Robust State/Output feedback Interpolating control, Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI), Implicit/Explicit solution, Tracking control</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
