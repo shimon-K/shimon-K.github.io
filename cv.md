@@ -34,7 +34,7 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="2" align="center" class="vertical-th">Formal</td>
       <td rowspan="1">Optimal control</td>
-      <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP),<br />Lagrange multipliers, Sliding mode<br />Linear control,Linear Quadratic Regulator (LQR),<br />Continous Knapsack Problem (CKP), Krotov Lemma</td>
+      <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP), Lagrange multipliers, Sliding mode<br />Linear control,Linear Quadratic Regulator (LQR), Continous Knapsack Problem (CKP), Krotov Lemma</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
