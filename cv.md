@@ -108,11 +108,11 @@ title: Curriculum vitae (CV)
 <!-- =============================== HEADER ================================ -->
   <thead>
     <tr>
-      <th style="width:20px">Courses</th>
+      <th style="width:10px">Courses</th>
       <th style="width:40px" align="left">Title</th>
-      <th style="width:200px" align="left">Main Ideas</th>
+      <th style="width:250px" align="left">Main Ideas</th>
       <th align="left">Resources</th>
-      <th style="width:20px" align="left">Internal ref</th>
+      <th style="width:10px" align="left">Internal ref</th>
     </tr>
   </thead>
   <tbody>
