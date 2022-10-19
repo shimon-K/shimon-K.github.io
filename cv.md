@@ -132,7 +132,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Natural Language Processing</td>
-      <td rowspan="1" style="font-size:12px">--</td>
+      <td rowspan="1" style="font-size:12px">Set/Bag of words, Distance metrics (Hamming/Jaccard/Euclidean/Cosine), Classification (Majority, Neirest Neighbor, Naïve-Bayes), Text normalization (Tokenization, Lemmatization, stemming), Regular expression (RE), true/false positive/negative, POR plot, Cross-validation, bootstrap, Laplace smoothing, N-gram/Neural Language model (LM), perplexity, Hidden Markov model (HMM), Word Embeddings (word2vec), POS tagging, named entity recognition (NER), Viterbi algorithm, (Probabilistic/Weighted) context-free grammar (CFG), Chomsky normal form, Semantic Parsing, lambda calculus, Seq2Seq (encoder-decoder, attention), Quantifiers, Contextual Embeddings (BERT, BART), beam search, machine translation (MT)</td>
       <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>    
