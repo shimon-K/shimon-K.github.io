@@ -112,7 +112,7 @@ title: Curriculum vitae (CV)
       <th style="width:40px" align="left">Title</th>
       <th style="width:350px" align="left">Main Ideas</th>
       <th style="width:20px" align="left">Resources</th>
-      <th style="width:10px" align="left">Internal ref</th>
+      <th style="width:10px">Internal ref</th>
     </tr>
   </thead>
   <tbody>
