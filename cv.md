@@ -40,7 +40,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
-      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Lyapunov Stability Theorem, Phase Diagram/Space and State Space, Region Of Attraction (ROA), (Non-)Autonoums Systems, Perturbed Systems, Open/Closed-Loop systems, and Systems with input/output and their Lyapunov stability conditions, Canonical Forms: Normal and Controller - and their Control Design, Tracking, Sliding Mode Control (SMC)</td>
+      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Lyapunov Stability Theorem, Phase Diagram, State Space, Region Of Attraction, (Non-)Autonoums Systems, Perturbed Systems, Open/Closed-Loop systems, and Systems with input/output and their Lyapunov stability conditions, Canonical Forms: Normal and Controller - and their Control Design, Tracking, Sliding Mode Control (SMC)</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
