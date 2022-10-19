@@ -66,7 +66,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Control Theory</td>
-      <td rowspan="1" style="font-size:12px">Advanced loop shaping, Pole placement, Nychols diagram, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness</td>
+      <td rowspan="1" style="font-size:12px">Transfer functions, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, MIMO</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
