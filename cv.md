@@ -86,7 +86,16 @@ title: Curriculum vitae (CV)
 </table>
 
 
-Other courses include: Statistics (Linear Regression, Random variables, Hypothesis Testing, Sampling, Estimation, Monte-Carlo models, ANOVA), Traffic control, Transportation Engineering and Management, Demand Modelling (Discrete Choice Methods, Maximum Likelihod Estimation (MLE), Hypothesis Testing, Logit, Probit, Utility), Transportation Network Analysis (Equilibrium Problem, Optimal routing, Route Choice Models), Transportation Planning, Network theory (Maximum flow problem, Shirtest-Path problem, Minimum spanning tree), Advanced Transportation Engineering (Microscopic/mesoscopic/macroscopic traffic models, Macroscopic Fundamental Diagram).
+### Other courses: 
+1. Statistics (Linear Regression, Random variables, Hypothesis Testing, Sampling, Estimation, Monte-Carlo models, ANOVA)
+2. Traffic control
+3. Transportation Engineering and Management
+4. Demand Modelling (Discrete Choice Methods, Maximum Likelihod Estimation (MLE), Hypothesis Testing, Logit, Probit, Utility)
+5. Transportation Network Analysis (Equilibrium Problem, Optimal routing, Route Choice Models)
+6. Transportation Planning
+7. Network theory (Maximum flow problem, Shortest-Path problem, Minimum spanning tree)
+8. Advanced Transportation Engineering (Microscopic/mesoscopic/macroscopic traffic models, Macroscopic Fundamental Diagram).
+
 
 ### Artificial Intelligence:
 
