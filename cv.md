@@ -60,19 +60,19 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
-      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability, Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Lead-lag controller, Basic loop shaping and stability margins, PID controllers</td>
+      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Lead-lag controller,<br />Basic loop shaping and stability margins, PID controllers</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
       <td rowspan="1">Control Theory</td>
-      <td rowspan="1" style="font-size:12px">Advanced loop shaping, Pole placement, Nychols diagram, Kalman Filtering, LQG, Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness</td>
+      <td rowspan="1" style="font-size:12px">Advanced loop shaping, Pole placement, Nychols diagram, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
       <td rowspan="1">Adaptive Control</td>
-      <td rowspan="1" style="font-size:12px">Signal Norms, Lyapunov stability (La Salle’s Lemma or Invariant sets theorem, Stability of Time Varying Systems, Barablat’s Lemma), Direct control - model reference adaptive control (MRAC), Indirect control - self-tuning-regulator (STR). Linearization, Sliding Variables, Robust Control, Dynamic Inversion</td>
+      <td rowspan="1" style="font-size:12px">Signal Norms, Lyapunov stability (<!--La Salle’s Lemma or -->Invariant sets theorem, Stability of Time Varying Systems, Barablat’s Lemma), Direct control - model reference adaptive control (MRAC), Indirect control - self-tuning-regulator (STR). Linearization, Sliding Variables, Robust Control, Dynamic Inversion</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>    
