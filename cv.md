@@ -36,43 +36,40 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Optimal control</td>
       <td rowspan="1">-main_ideas-</td>
       <td rowspan="1">-res-</td>
+      <td rowspan="1">-ref-</td>
     </tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
       <td rowspan="1">-main ideas-</td>
       <td rowspan="1">-res-</td>
+      <td rowspan="1">-ref-</td>
     </tr>
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="2" align="center">Self-learning</td>
+      <td rowspan="3" align="center">Self-learning</td>
       <td rowspan="1">Linear Systems</td>
       <td rowspan="1">-main-ideas</td>
       <td rowspan="1">-res-</td>
+      <td rowspan="1">-ref-</td>
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
       <td rowspan="1">-main-ideas-</td>
       <td rowspan="1">-res-</td>
+      <td rowspan="1">-ref-</td>
     </tr>
     <tr>
       <td rowspan="1">Control Theory</td>
       <td rowspan="1">-main ideas-</td>
       <td rowspan="1">-res-</td>
+      <td rowspan="1">-ref-</td>
     </tr>
   </tbody>
 </table>
 
 
-Formal courses:
 
-- Optimal control
-- Non-Linear control
-
-Self-learning courses:
-
-- Linear Systems
-- Introduction to Control
-- Control Theory
+### Artificial Intelligence:
 
 AI formal courses I took, in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro):
 
