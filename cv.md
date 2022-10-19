@@ -40,7 +40,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
-      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Phase Diagram, State Space, Region Of Attraction, Systems: (Non-)Autonoums, Perturbed, Open/Closed-Loop, with input/output - and their Lyapunov stability conditions. Canonical Forms: Normal and Controller - and their Control Design. Tracking, Sliding Mode Control (SMC)</td>
+      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Phase Diagram, State Space, Region Of Attraction, Systems: (Non-)Autonoums, Perturbed, Open/Closed-Loop, with input/output - and their Lyapunov stability conditions. Canonical Forms: Normal and Controller - and their Control Design. Causality, Dynamic Systems, Tracking, Sliding Mode Control (SMC)</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
@@ -54,7 +54,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Linear Systems</td>
-      <td rowspan="1" style="font-size:12px">Dynamic Systems, Causality, State Space, Transformation: Laplace, Z, Fourier. Time/Frequency domain. Canonical Forms: Observer, Controller. Stationarity, Convolution, Different-order Systems, Feedback Control, LTI, SISO, Stability analysis: poles and zeros, Transient and Steady-state. Bode Plot, Routh–Hurwitz stability criterion, Asymptotic stabilities, Impulse response</td>
+      <td rowspan="1" style="font-size:12px">Transformation: Laplace, Z, Fourier. Time/Frequency domain. Canonical Forms: Observer, Controller. Stationarity, Convolution, Different-order Systems, Feedback Control, LTI, SISO, Stability analysis: poles and zeros, Transient and Steady-state. Bode Plot, Routh–Hurwitz stability criterion, Asymptotic stabilities, Impulse response</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
