@@ -16,7 +16,7 @@ title: Curriculum vitae (CV)
 
 ## Overview of gained knowledge
 
-###Control Theory:
+### Control Theory:
 
 <table>
 <!-- =============================== HEADER ================================ -->
@@ -40,7 +40,6 @@ title: Curriculum vitae (CV)
         <a href="https://www.youtube.com/watch?v=0bMe_vCZo30">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="en/week01/01-2">Evolution and DL</a></td></tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
       <td><a href="en/week01/01-3">Neural nets (NN)</a></td>
