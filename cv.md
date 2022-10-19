@@ -3,9 +3,6 @@ layout: page
 title: Curriculum vitae (CV)
 ---
 
-.vertical-th {
-  transform: rotate(-90deg);
-}
 
 ## My evolution
 
@@ -20,6 +17,10 @@ title: Curriculum vitae (CV)
 ## Overview of gained knowledge
 
 ### Control Theory:
+
+.vertical-th {
+  transform: rotate(-90deg);
+}
 
 <table>
 <!-- =============================== HEADER ================================ -->
