@@ -34,50 +34,30 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="2" align="center">Formal</td>
       <td rowspan="1">Optimal control</td>
-      <td>-res-</td>
-      <td rowspan="1">
-        <a href="https://drive.google.com/open?id=1Q7LtZyIS1f3TfeTGll3aDtWygh3GAfCb">🖥️</a>
-        <a href="https://www.youtube.com/watch?v=0bMe_vCZo30">🎥</a>
-      </td>
+      <td rowspan="1">-main_ideas-</td>
+      <td rowspan="1">-res-</td>
     </tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
-      <td><a href="en/week01/01-3">Neural nets (NN)</a></td>
-      <td>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/01-tensor_tutorial.ipynb">📓</a>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/02-space_stretching.ipynb">📓</a>
-        <a href="https://www.youtube.com/watch?v=5_qrxVq1kvc">🎥</a>
-      </td>
+      <td rowspan="1">-main ideas-</td>
+      <td rowspan="1">-res-</td>
     </tr>
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="en/week02/02">Self-learning</a></td>
-      <td rowspan="2">Linear Systems</td>
-      <td><a href="en/week02/02-1">SGD and backprop</a></td>
-      <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
-        <a href="https://www.youtube.com/watch?v=d9vdh3b787Y">🎥</a>
-      </td>
+      <td rowspan="2" align="center">Self-learning</td>
+      <td rowspan="1">Linear Systems</td>
+      <td rowspan="1">-main-ideas</td>
+      <td rowspan="1">-res-</td>
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
-      <td><a href="en/week02/02-3">NN training</a></td>
-      <td>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/05-regression.ipynb">📓</a>
-        <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
-      </td>
+      <td rowspan="1">-main-ideas-</td>
+      <td rowspan="1">-res-</td>
     </tr>
     <tr>
       <td rowspan="1">Control Theory</td>
-      <td><a href="en/week02/02-3">NN training</a></td>
-      <td>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/shimon-K/AGI-Course/blob/master/05-regression.ipynb">📓</a>
-        <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
-      </td>
+      <td rowspan="1">-main ideas-</td>
+      <td rowspan="1">-res-</td>
     </tr>
   </tbody>
 </table>
