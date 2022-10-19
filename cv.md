@@ -18,6 +18,74 @@ title: Curriculum vitae (CV)
 
 Control Theory:
 
+
+<table>
+<!-- =============================== HEADER ================================ -->
+  <thead>
+    <tr>
+      <th>Courses</th>
+      <th align="left">Title</th>
+      <th align="left">Main Ideas</th>
+      <th align="left">Resources</th>
+      <th align="left">Internal ref</th>
+    </tr>
+  </thead>
+  <tbody>
+<!-- =============================== Formal Courses ================================ -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week01/01">Formal</a></td>
+      <td rowspan="2">Optimal control</td>
+      <td><a href="en/week01/01-1">History and motivation</a></td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/open?id=1Q7LtZyIS1f3TfeTGll3aDtWygh3GAfCb">🖥️</a>
+        <a href="https://www.youtube.com/watch?v=0bMe_vCZo30">🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week01/01-2">Evolution and DL</a></td></tr>
+    <tr>
+      <td rowspan="1">Non-Linear control</td>
+      <td><a href="en/week01/01-3">Neural nets (NN)</a></td>
+      <td>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/01-tensor_tutorial.ipynb">📓</a>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/02-space_stretching.ipynb">📓</a>
+        <a href="https://www.youtube.com/watch?v=5_qrxVq1kvc">🎥</a>
+      </td>
+    </tr>
+<!-- =============================== Self-learning Courses ================================ -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week02/02">Self-learning</a></td>
+      <td rowspan="2">Linear Systems</td>
+      <td><a href="en/week02/02-1">SGD and backprop</a></td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
+        <a href="https://www.youtube.com/watch?v=d9vdh3b787Y">🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week02/02-2">Backprop in practice</a></td></tr>
+    <tr>
+      <td rowspan="1">Introduction to Control</td>
+      <td><a href="en/week02/02-3">NN training</a></td>
+      <td>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/04-spiral_classification.ipynb">📓</a>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/05-regression.ipynb">📓</a>
+        <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="1">Control Theory</td>
+      <td><a href="en/week02/02-3">NN training</a></td>
+      <td>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/04-spiral_classification.ipynb">📓</a>
+        <a href="https://github.com/shimon-K/AGI-Course/blob/master/05-regression.ipynb">📓</a>
+        <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 Formal courses:
 
 - Optimal control
