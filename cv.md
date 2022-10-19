@@ -54,7 +54,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
-      <td rowspan="1" style="font-size:4em">Pontryagin Maximum Principle (PMP),<br />Lagrange multipliers</td>
+      <td rowspan="1" style="font-size:4em">Pontryagin Maximum Principle (PMP),<br />Lagrange multipliers,<br />Sliding mode</td>
       <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>
