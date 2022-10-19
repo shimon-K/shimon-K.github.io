@@ -67,6 +67,10 @@ h1#about-me {
   line-height: 1.15;
 }
 
+.vertical-th {
+  transform: rotate(-90deg);
+}
+
 // Import JS demos created in Processing JS
 iframe {
   border: none;
