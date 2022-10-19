@@ -181,13 +181,7 @@ title: Curriculum vitae (CV)
 
 
 
-
-- Introduction to Machine Learning
-
-- Deep Learning
-
-- Introduction to Natural Language Processing
-
+<!--
 AI self-learning courses:
 
 <!--CNN_images.docx:                ALSO ADD RESOURCES, MAIN IDEAS LEARNED, AND WHERE STORED AS A TABLE-->
@@ -198,5 +192,5 @@ AI self-learning courses:
 - Machine Learning courses: [1](https://www.coursera.org/learn/machine-learning-duke), [2](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome), [3](https://www.youtube.com/watch?v=MEG35RDD7RA), 
 - Deep Learning courses: [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1), 
 - Connectionism in GOFAI or classical AI (20th century) in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056): Basic learning rules, e.g. Hebbian; Associative memory; RBF (radial basis function); MLP (multi-layered perceptron); SOM (self-organizing-map);
-- 
+-->
 
