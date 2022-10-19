@@ -126,7 +126,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Deep Learning</td>
-      <td rowspan="1" style="font-size:12px">--</td>
+      <td rowspan="1" style="font-size:12px">PAC Bayes, dropout, KL/JS divergence, Batch Normalization, Adaptive learning, CNNs (ResNet, GoogleNet, ..), RNNs (LSTM, GRU), Transformers (attention, GNN, multi-modal, VQA), Generative learning ((Style/Cycle) GAN, discrete/continuous VAE, Gradient Langevin dynamics), Reinforcement Learning (value-based, policy-gradient, Actor-Critic (AC), A2C, A3C), Explainability (LIME, SHAP, Gradient-based)</td>
       <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>
