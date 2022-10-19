@@ -54,7 +54,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Linear Systems</td>
-      <td rowspan="1" style="font-size:12px">Transformation: Laplace, Z, Fourier. Time/Frequency domain. Canonical Forms: Observer, Controller. Stationarity, Convolution, Different-order Systems, Feedback Control, LTI, SISO, Stability analysis: poles and zeros, Transient and Steady-state. Bode Plot, Routh–Hurwitz stability criterion, Asymptotic stabilities, Impulse response, Discrete/Continuous Systems</td>
+      <td rowspan="1" style="font-size:12px">Discrete/Continuous Systems, Transformation: Laplace, Z, Fourier. Time/Frequency domain. Canonical Forms: Observer, Controller. Stationarity, Convolution, Different-order Systems, Feedback Control, LTI, SISO, Stability analysis: poles and zeros, Transient and Steady-state. Bode Plot, Routh–Hurwitz stability criterion, Asymptotic stabilities, Impulse response</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
