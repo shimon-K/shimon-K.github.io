@@ -40,7 +40,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
-      <td rowspan="1" style="font-size:10px">1st-, 2nd- and High-Order Systems,<br />Lyapunov Stability Theorem, Phase Diagram,<br />Region Of Attraction (ROA)</td>
+      <td rowspan="1" style="font-size:10px">1st-, 2nd- and High-Order Systems,<br />Lyapunov Stability Theorem, Phase Diagram,<br />Region Of Attraction (ROA),<br />(Non-)Autonoums Systems and their Lyapunov stability conditions,</td>
       <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>
