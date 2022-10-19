@@ -3,6 +3,9 @@ layout: page
 title: Curriculum vitae (CV)
 ---
 
+.vertical-th {
+  transform: rotate(-90deg);
+}
 
 ## My evolution
 
@@ -22,7 +25,7 @@ title: Curriculum vitae (CV)
 <!-- =============================== HEADER ================================ -->
   <thead>
     <tr>
-      <th>Courses</th>
+      <th class="vertical-th">Courses</th>
       <th align="left">Title</th>
       <th align="left">Main Ideas</th>
       <th align="left">Resources</th>
