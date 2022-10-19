@@ -1,7 +1,3 @@
-.vertical-th {
-  transform: rotate(-90deg);
-}
-
 ---
 layout: page
 title: Curriculum vitae (CV)
@@ -21,10 +17,6 @@ title: Curriculum vitae (CV)
 ## Overview of gained knowledge
 
 ### Control Theory:
-
-.vertical-th {
-  transform: rotate(-90deg);
-}
 
 <table>
 <!-- =============================== HEADER ================================ -->
