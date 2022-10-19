@@ -1,3 +1,7 @@
+.vertical-th {
+  transform: rotate(-90deg);
+}
+
 ---
 layout: page
 title: Curriculum vitae (CV)
