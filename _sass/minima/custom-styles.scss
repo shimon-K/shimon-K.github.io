@@ -67,8 +67,10 @@ h1#about-me {
   line-height: 1.15;
 }
 
-.vertical-th {
-  transform: rotate(-90deg);
+
+.vertical-th div {position: absolute;}
+.vertical-th {  
+  transform: rotate(-90deg) translate(0, 10px);
 }
 
 // Import JS demos created in Processing JS
