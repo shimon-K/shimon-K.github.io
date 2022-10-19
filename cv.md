@@ -60,7 +60,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
-      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability, Root-Locus, Nyquist stability criterion, Basic loop shaping and stability margins, PID controllers</td>
+      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability, Root-Locus, Nyquist stability criterion, Delay/Dead-time, Lead-lag controller, Basic loop shaping and stability margins, PID controllers</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
