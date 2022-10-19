@@ -16,6 +16,10 @@ title: Curriculum vitae (CV)
 
 ## Overview of gained knowledge
 
+
+**Note**: All formal courses were taken in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro).
+
+
 ### Control Theory:
 
 <table>
@@ -99,7 +103,6 @@ title: Curriculum vitae (CV)
 
 ### Artificial Intelligence:
 
-**Note**: All formal courses were taken in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro):
 
 <table>
 <!-- =============================== HEADER ================================ -->
@@ -108,7 +111,7 @@ title: Curriculum vitae (CV)
       <th style="width: 2%">Courses</th>
       <th style="width: 4%" align="left">Title</th>
       <th align="left">Main Ideas</th>
-      <!--<th align="left">Resources</th>-->
+      <th align="left">Resources</th>
       <th align="left">Internal ref</th>
     </tr>
   </thead>
@@ -117,53 +120,50 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="3" align="center" class="vertical-th">Formal</td>
       <td rowspan="1">Introduction to Machine Learning</td>
-      <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP), Lagrange multipliers, Sliding mode, Linear control,<br />Linear Quadratic Regulator (LQR), Continous Knapsack Problem (CKP), Krotov Lemma</td>
-      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1" style="font-size:12px">--</td>
+      <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning</td>
-      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Phase Diagram, State Space, Region Of Attraction, Systems: (Non-)Autonoums, Perturbed, Open/Closed-Loop, with input/output - and their Lyapunov stability conditions. BIBO, ISS, Canonical Forms: Normal and Controller - and their Control Design. Causality, Dynamic Systems, Tracking, Sliding Mode Control (SMC)</td>
-      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1" style="font-size:12px">--</td>
+      <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>
     <tr>
       <td rowspan="1">Introduction to Natural Language Processing</td>
-      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Phase Diagram, State Space, Region Of Attraction, Systems: (Non-)Autonoums, Perturbed, Open/Closed-Loop, with input/output - and their Lyapunov stability conditions. BIBO, ISS, Canonical Forms: Normal and Controller - and their Control Design. Causality, Dynamic Systems, Tracking, Sliding Mode Control (SMC)</td>
-      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1" style="font-size:12px">--</td>
+      <td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>
     </tr>    
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
       <td rowspan="6" align="center" class="vertical-th">Self learning</td>
-      <td rowspan="1">Deep Learning in Computer Vision – [Coursera](https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1)</td>
+      <td rowspan="1">Deep Learning in Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
-      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
       <td rowspan="2">CNN_images.docx</td>
     </tr>
     <tr>
-      <td rowspan="1">The Ancient Secrets of Computer Vision - [Course](https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)</td>
+      <td rowspan="1">The Ancient Secrets of Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
-      <!--<td rowspan="1">-res-</td>-->
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1"><a href="https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p">Course</a></td>
     </tr>
     <tr>
-      <td rowspan="1">Machine Learning courses: [1](https://www.coursera.org/learn/machine-learning-duke), [2](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome), [3](https://www.youtube.com/watch?v=MEG35RDD7RA)</td>
+      <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
-      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="[https://www.coursera.org/learn/machine-learning-duke](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
       <td rowspan="3">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses: [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1)</td>
       <td rowspan="1" style="font-size:12px">MIMO, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, Transfer functions</td>
-      <!--<td rowspan="1">-res-</td>-->
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1"><a href=""></a></td>
     </tr>
     <tr>
       <td rowspan="1">Connectionism in GOFAI or classical AI (20th century) in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056)</td>
       <td rowspan="1" style="font-size:12px">Basic learning rules, e.g. Hebbian; Associative memory; RBF (radial basis function); MLP (multi-layered perceptron); SOM (self-organizing-map)</td>
-      <!--<td rowspan="1">-res-</td>-->
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1"><a href=""></a></td>
     </tr>    
     <tr>
       <td rowspan="1">Systems and Control</td>
