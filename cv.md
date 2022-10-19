@@ -65,8 +65,8 @@ title: Curriculum vitae (CV)
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
-      <td rowspan="1">Introduction to Control</td>
-      <td rowspan="1" style="font-size:12px">-main-ideas-</td>
+      <td rowspan="1">Control Theory</td>
+      <td rowspan="1" style="font-size:12px">Advanced loop shaping, Pole placement, Kalman Filtering, LQG, Sampled-data control, Controllability, Observability, Estimators</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
