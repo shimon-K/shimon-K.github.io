@@ -59,7 +59,6 @@ title: Curriculum vitae (CV)
         <a href="https://www.youtube.com/watch?v=d9vdh3b787Y">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="en/week02/02-2">Backprop in practice</a></td></tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
       <td><a href="en/week02/02-3">NN training</a></td>
