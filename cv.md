@@ -112,7 +112,7 @@ title: Curriculum vitae (CV)
       <th style="width: 4%" align="left">Title</th>
       <th align="left">Main Ideas</th>
       <th align="left">Resources</th>
-      <th align="left">Internal ref</th>
+      <th style="width: 2%" align="left">Internal ref</th>
     </tr>
   </thead>
   <tbody>
@@ -142,7 +142,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Deep Learning in Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
-      <td rowspan="2">CNN_images.docx</td>
+      <td class="vertical-th" rowspan="2">CNN_images.docx</td>
     </tr>
     <tr>
       <td rowspan="1">The Ancient Secrets of Computer Vision</td>
@@ -153,7 +153,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
-      <td rowspan="3">AICourses.docx</td>
+      <td class="vertical-th" rowspan="3">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses</td>
