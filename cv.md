@@ -36,7 +36,7 @@ title: Curriculum vitae (CV)
   <tbody>
 <!-- =============================== Formal Courses ================================ -->
     <tr>
-      <td rowspan="2" align="center" class="vertical-th" style="font-size:20px">Formal</td>
+      <td rowspan="2" align="center" class="vertical-th" style="font-size:30px">Formal</td>
       <td rowspan="1">Optimal control</td>
       <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP), Lagrange multipliers, Sliding mode, Linear control,<br />Linear Quadratic Regulator (LQR), Continous Knapsack Problem (CKP), Krotov Lemma</td>
       <!--<td rowspan="1">-res-</td>
@@ -50,7 +50,7 @@ title: Curriculum vitae (CV)
     </tr>
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="6" align="center" class="vertical-th" style="font-size:20px">Self learning</td>
+      <td rowspan="6" align="center" class="vertical-th" style="font-size:30px">Self learning</td>
       <td rowspan="1">System Analysis</td>
       <td rowspan="1" style="font-size:12px">Convexity, Linear Programming (LP), Simplex, KKT conditions, Primal/Dual Problem,<br />(Mixed) Integer LP, Dynamic programming (DP), Decision under uncertainty</td>
       <!--<td rowspan="1">-res-</td>
