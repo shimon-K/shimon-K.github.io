@@ -6,7 +6,7 @@ title: Curriculum vitae (CV)
 
 ## My evolution
 
-- Started with learning physics,
+- Started with learning physics.
 - Continued with educational physics, with the purpose to build a computer software to serve as a tool to provide a more comprehensible and more understandable physics. It is called SciSoft.
 <br>Partcicpated in Prof. Miriam Reiner's <a style="color:#8dd3c7" href="https://vrneurocog.wixsite.com/vrneurocog/researchers">NeuroCognition in Education Lab</a>.<br>Though the tool was not expressed practically, its theoretical framework can be used later in AGI.
 - Then continued with totally different field: Optimal control applied in transportation.<br>Partcipated in Prof. Jack Haddad's <a style="color:#8dd3c7" href="https://haddad.net.technion.ac.il/lab-members/">TSMART Lab</a>.
@@ -16,8 +16,7 @@ title: Curriculum vitae (CV)
 
 ## Overview of gained knowledge
 
-Control Theory:
-
+###Control Theory:
 
 <table>
 <!-- =============================== HEADER ================================ -->
@@ -33,10 +32,10 @@ Control Theory:
   <tbody>
 <!-- =============================== Formal Courses ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="en/week01/01">Formal</a></td>
-      <td rowspan="2">Optimal control</td>
-      <td><a href="en/week01/01-1">History and motivation</a></td>
-      <td rowspan="2">
+      <td rowspan="2" align="center">Formal</td>
+      <td rowspan="1">Optimal control</td>
+      <td>-res-</td>
+      <td rowspan="1">
         <a href="https://drive.google.com/open?id=1Q7LtZyIS1f3TfeTGll3aDtWygh3GAfCb">🖥️</a>
         <a href="https://www.youtube.com/watch?v=0bMe_vCZo30">🎥</a>
       </td>
