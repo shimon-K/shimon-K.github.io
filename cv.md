@@ -34,13 +34,13 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="2" align="center" class="vertical-th">Formal</td>
       <td rowspan="1">Optimal control</td>
-      <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP), Lagrange multipliers, Sliding mode<br />Linear control,Linear Quadratic Regulator (LQR), Continous Knapsack Problem (CKP), Krotov Lemma</td>
+      <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP), Lagrange multipliers, Sliding mode, Linear control,<br />Linear Quadratic Regulator (LQR), Continous Knapsack Problem (CKP), Krotov Lemma</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
       <td rowspan="1">Non-Linear control</td>
-      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems,<br />Lyapunov Stability Theorem, Phase Diagram/Space and State Space, Region Of Attraction (ROA),<br />(Non-)Autonoums Systems, Perturbed Systems, Open/Closed-Loop systems, and Systems with input/output<br />and their Lyapunov stability conditions,<br />Canonical Forms: Normal and Controller - and their Control Design,<br />Tracking, Sliding Mode Control (SMC)</td>
+      <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Lyapunov Stability Theorem, Phase Diagram/Space and State Space, Region Of Attraction (ROA), (Non-)Autonoums Systems, Perturbed Systems, Open/Closed-Loop systems, and Systems with input/output and their Lyapunov stability conditions, Canonical Forms: Normal and Controller - and their Control Design, Tracking, Sliding Mode Control (SMC)</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
