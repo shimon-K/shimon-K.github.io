@@ -22,7 +22,7 @@ title: Curriculum vitae (CV)
 <!-- =============================== HEADER ================================ -->
   <thead>
     <tr>
-      <th class="vertical-th">Courses</th>
+      <th>Courses</th>
       <th align="left">Title</th>
       <th align="left">Main Ideas</th>
       <th align="left">Resources</th>
@@ -32,7 +32,7 @@ title: Curriculum vitae (CV)
   <tbody>
 <!-- =============================== Formal Courses ================================ -->
     <tr>
-      <td rowspan="2" align="center">Formal</td>
+      <td rowspan="2" align="center" class="vertical-th">Formal</td>
       <td rowspan="1">Optimal control</td>
       <td rowspan="1">-main_ideas-</td>
       <td rowspan="1">-res-</td>
@@ -46,7 +46,7 @@ title: Curriculum vitae (CV)
     </tr>
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="3" align="center">Self-learning</td>
+      <td rowspan="3" align="center" class="vertical-th">Self-learning</td>
       <td rowspan="1">Linear Systems</td>
       <td rowspan="1">-main-ideas</td>
       <td rowspan="1">-res-</td>
