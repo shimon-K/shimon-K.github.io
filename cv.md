@@ -77,8 +77,8 @@ title: Curriculum vitae (CV)
       <td rowspan="1">-ref-</td>-->
     </tr>    
     <tr>
-      <td rowspan="1">Control Theory</td>
-      <td rowspan="1" style="font-size:12px">-main ideas-</td>
+      <td rowspan="1">Systems and Control</td>
+      <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Polytopes, State/Output feedback Interpolating control, Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI)</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
