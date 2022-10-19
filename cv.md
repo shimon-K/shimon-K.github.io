@@ -22,8 +22,8 @@ title: Curriculum vitae (CV)
 <!-- =============================== HEADER ================================ -->
   <thead>
     <tr>
-      <th style="width: 4%">Courses</th>
-      <th style="width: 5%" align="left">Title</th>
+      <th style="width: 2%">Courses</th>
+      <th style="width: 4%" align="left">Title</th>
       <th align="left">Main Ideas</th>
       <!--<th align="left">Resources</th>
       <th align="left">Internal ref</th>-->
@@ -72,7 +72,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Adaptive Control</td>
-      <td rowspan="1" style="font-size:12px">Signal Norms, Lyapunov stability (<!--La Salle’s Lemma or -->Invariant sets theorem, Stability of Time Varying Systems, Barablat’s Lemma), Direct control - model reference adaptive control (MRAC), Indirect control - self-tuning-regulator (STR). Linearization, Sliding Variables, Robust Control, Dynamic Inversion</td>
+      <td rowspan="1" style="font-size:12px">Signal Norms, Lyapunov stability (<!--La Salle’s Lemma or -->Invariant sets theorem, Stability of Time Varying Systems, Barablat’s Lemma), Direct control: model reference adaptive control (MRAC), Indirect control: self-tuning-regulator (STR). Linearization, Sliding Variables, Robust Control, Dynamic Inversion</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>    
