@@ -48,13 +48,13 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="6" align="center" class="vertical-th">Self-learning</td>
       <td rowspan="1">System Analysis</td>
-      <td rowspan="1" style="font-size:12px">Convexity, Linear Programming (LP), Simplex, KKT conditions, Primal/Dual Problem, (Mixed) Integer LP, Dynamic programming (DP), Decision under uncertainty</td>
+      <td rowspan="1" style="font-size:12px">Convexity, Linear Programming (LP), Simplex, KKT conditions, Primal/Dual Problem,<br />(Mixed) Integer LP, Dynamic programming (DP), Decision under uncertainty</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
       <td rowspan="1">Linear Systems</td>
-      <td rowspan="1" style="font-size:12px">-main-ideas-</td>
+      <td rowspan="1" style="font-size:12px">Dynamic Systems, Causality, State Space, Transformation: Laplace, Z, Fourier. Time/Frequency domain. Canonical Forms: Observer, Controller. Stationarity, Convolution, Different-order Systems, Feedback Control, LTI, SISO, Stability analysis: poles and zeros, Transient and Steady-state. Bode Plot, Routh–Hurwitz stability criterion, Asymptotic stabilities, Impulse response</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
