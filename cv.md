@@ -46,7 +46,7 @@ title: Curriculum vitae (CV)
     </tr>
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="6" align="center" class="vertical-th">Self-learning</td>
+      <td rowspan="6" align="center" class="vertical-th">Self learning</td>
       <td rowspan="1">System Analysis</td>
       <td rowspan="1" style="font-size:12px">Convexity, Linear Programming (LP), Simplex, KKT conditions, Primal/Dual Problem,<br />(Mixed) Integer LP, Dynamic programming (DP), Decision under uncertainty</td>
       <!--<td rowspan="1">-res-</td>
@@ -60,7 +60,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control</td>
-      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability, Root-Locus, Nyquist stability criterion, Delay/Dead-time, Lead-lag controller, Basic loop shaping and stability margins, PID controllers</td>
+      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability, Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Lead-lag controller, Basic loop shaping and stability margins, PID controllers</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
