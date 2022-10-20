@@ -37,13 +37,13 @@ title: Curriculum vitae (CV)
 <!-- =============================== Formal Courses ================================ -->
     <tr>
       <td rowspan="2" align="center" class="vertical-th" style="font-size:30px">Formal</td>
-      <td rowspan="1">Optimal control</td>
+      <td rowspan="1">Optimal control <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=16713">016713</a></td>
       <td rowspan="1" style="font-size:12px">Pontryagin Maximum Principle (PMP), Lagrange multipliers, Sliding mode, Linear control,<br />Linear Quadratic Regulator (LQR), Continous Knapsack Problem (CKP), Krotov Lemma</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
-      <td rowspan="1">Non-Linear control</td>
+      <td rowspan="1">Non-Linear control <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=086312">086312</a></td>
       <td rowspan="1" style="font-size:12px">1st-, 2nd- and High-Order Systems, Phase Diagram, State Space, Region Of Attraction, Systems: (Non-)Autonoums, Perturbed, Open/Closed-Loop, with input/output - and their Lyapunov stability conditions. BIBO, ISS, Canonical Forms: Normal and Controller - and their Control Design. Causality, Dynamic Systems, Tracking, Sliding Mode Control (SMC)</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
