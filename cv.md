@@ -17,7 +17,7 @@ title: Curriculum vitae (CV)
 ## Overview of gained knowledge
 
 
-**Note**: All formal courses were taken in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro).
+**Note**: All formal courses were taken in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro) in Israel.
 
 
 ### Control Theory:
@@ -90,7 +90,7 @@ title: Curriculum vitae (CV)
 </table>
 
 
-### Other courses: 
+### Other courses completed in Technion: 
 1. Statistics (Linear Regression, Random variables, Hypothesis Testing, Sampling, Estimation, Monte-Carlo models, ANOVA)
 2. Traffic control
 3. Transportation Engineering and Management
@@ -108,7 +108,7 @@ title: Curriculum vitae (CV)
 <!-- =============================== HEADER ================================ -->
   <thead>
     <tr>
-      <th style="width:10px">Courses</th>
+      <th style="width:10px">Type</th>
       <th style="width:40px" align="left">Title</th>
       <th style="width:350px" align="left">Main Ideas</th>
       <th style="width:20px" align="left">Resources</th>
@@ -118,7 +118,7 @@ title: Curriculum vitae (CV)
   <tbody>
 <!-- =============================== Formal Courses ================================ -->
     <tr>
-      <td rowspan="3" align="center" class="vertical-th" style="font-size:30px">Formal</td>
+      <td rowspan="3" align="center" class="vertical-th" style="font-size:30px">Formal Courses</td>
       <td rowspan="1">Introduction to Machine Learning</td>
       <td rowspan="1" style="font-size:12px">--</td>
       <td rowspan="1">-res-</td>
@@ -138,7 +138,7 @@ title: Curriculum vitae (CV)
     </tr>    
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="6" align="center" class="vertical-th" style="font-size:30px">Self learning</td>
+      <td rowspan="6" align="center" class="vertical-th" style="font-size:30px">Self learning Courses</td>
       <td rowspan="1">Deep Learning in Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
@@ -173,6 +173,45 @@ title: Curriculum vitae (CV)
       <!--<td rowspan="1">-res-</td>-->
       <td rowspan="1">-ref-</td>
     </tr>
+
+<!-- =============================== Books and Articles ================================ -->
+    <tr>
+      <td rowspan="6" align="center" class="vertical-th" style="font-size:30px">Books and Articles</td>
+      <td rowspan="1">Deep Learning in Computer Vision</td>
+      <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
+      <td class="vertical-th" rowspan="2" align="center">CNN_images.docx</td>
+    </tr>
+    <tr>
+      <td rowspan="1">The Ancient Secrets of Computer Vision</td>
+      <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
+      <td rowspan="1"><a href="https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p">Course</a></td>
+    </tr>
+    <tr>
+      <td rowspan="1">Machine Learning courses</td>
+      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
+      <td class="vertical-th" rowspan="3" align="center">AICourses.docx</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Deep Learning courses</td>
+      <!-- [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1) -->
+      <td rowspan="1" style="font-size:12px">MIMO, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, Transfer functions</td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">1</a>,<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1">2</a></td>
+    </tr>
+    <tr>
+      <td rowspan="1">Connectionism in GOFAI or classical AI (20th century)</td>
+      <!--  in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056) -->
+      <td rowspan="1" style="font-size:12px">Basic learning rules, e.g. Hebbian; Associative memory; RBF (radial basis function); MLP (multi-layered perceptron); SOM (self-organizing-map)</td>
+      <td rowspan="1"><a href="https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056">Youtube</a></td>
+    </tr>    
+    <tr>
+      <td rowspan="1">Systems and Control</td>
+      <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Multiparametric Programming, Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Set theory: Ellipsoidal/Polyhedral set, Nominal/Robust State/Output feedback Interpolating control (IC), Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI), Implicit/Explicit solution<!--, Tracking control--></td>
+      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1">-ref-</td>
+    </tr>
+    
   </tbody>
 </table>
 
