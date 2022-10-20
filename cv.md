@@ -75,7 +75,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">-ref-</td>-->
     </tr>
     <tr>
-      <td rowspan="1">Adaptive Control <hr style="font-size:8px">(books)</hr></td>
+      <td rowspan="1">Adaptive Control <u style="font-size:8px">(books)</u></td>
       <td rowspan="1" style="font-size:12px">Signal/System Norm, Lyapunov stability: <!--La Salle’s Lemma or -->Invariant sets theorem, Time Varying System Stability, Barablat’s Lemma. Direct control: model reference adaptive control (MRAC), Indirect control: self-tuning-regulator (STR). Linearization, Sliding Variables, Robust Control, Dynamic Inversion</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
