@@ -91,14 +91,14 @@ title: Curriculum vitae (CV)
 
 
 ### Other courses completed in Technion: 
-1. Statistics (Linear Regression, Random variables, Hypothesis Testing, Sampling, Estimation, Monte-Carlo models, ANOVA) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19007">019007</a>
-2. Traffic control <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19718">019718</a>
-3. Transportation Engineering and Management <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014732">014732</a>
-4. Demand Modelling (Discrete Choice Methods, Maximum Likelihod Estimation (MLE), Hypothesis Testing, Logit, Probit, Utility) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19710">019710</a>
+1. Statistics (Linear Regression, Random variables, Hypothesis Testing, Sampling, Estimation, Monte-Carlo models, ANOVA) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19007">019007</a>
+2. Traffic control <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19718">019718</a>
+3. Transportation Engineering and Management <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014732">014732</a>
+4. Demand Modelling (Discrete Choice Methods, Maximum Likelihod Estimation (MLE), Hypothesis Testing, Logit, Probit, Utility) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19710">019710</a>
 5. Transportation Network Analysis (Equilibrium Problem, Optimal routing, Route Choice Models) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=019709">019709</a>
-6. Transportation Planning <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014702">014702</a>
+6. Transportation Planning <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014702">014702</a>
 7. Network theory (Maximum flow problem, Shortest-Path algorithms, Minimum spanning tree) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19006">019006</a>
-8. Advanced Transportation Engineering (Microscopic/mesoscopic/macroscopic traffic models, Macroscopic Fundamental Diagram) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19714">019714</a>
+8. Advanced Transportation Engineering (Microscopic/mesoscopic/macroscopic traffic models, Macroscopic Fundamental Diagram) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19714">019714</a>
 
 
 ### Artificial Intelligence:
@@ -119,21 +119,21 @@ title: Curriculum vitae (CV)
 <!-- =============================== Formal Courses ================================ -->
     <tr>
       <td rowspan="3" align="center" class="vertical-th" style="font-size:30px">Formal Courses</td>
-      <td rowspan="1">Introduction to Machine Learning <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=236756">236756</a></td>
+      <td rowspan="1">Introduction to Machine Learning</td>
       <td rowspan="1" style="font-size:12px">--</td>
-      <td rowspan="1">-res-</td>
+      <td rowspan="1"><a style="font-size:10px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=236756">236756</a></td>
       <td rowspan="1">-ref-</td>
     </tr>
     <tr>
-      <td rowspan="1">Deep Learning <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=97200"></a>097200</td>
+      <td rowspan="1">Deep Learning</td>
       <td rowspan="1" style="font-size:12px">PAC Bayes, dropout, KL/JS divergence, Batch Normalization, Adaptive learning, CNNs (ResNet, GoogleNet, ..), RNNs (LSTM, GRU), Transformers (attention, GNN, multi-modal, VQA), Generative learning ((Style/Cycle) GAN, discrete/continuous VAE, Gradient Langevin dynamics), Reinforcement Learning (value-based, policy-gradient, Actor-Critic (AC), A2C, A3C), Explainability (LIME, SHAP, Gradient-based)</td>
-      <td rowspan="1">-res-</td>
+      <td rowspan="1"><a style="font-size:10px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=97200">097200</a></td>
       <td rowspan="1" class="vertical-th" align="center">DL.docx</td>
     </tr>
     <tr>
-      <td rowspan="1">Introduction to Natural Language Processing <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=236299">236299</a></td>
+      <td rowspan="1">Introduction to Natural Language Processing</td>
       <td rowspan="1" style="font-size:12px">Set/Bag of words, Distance metrics (Hamming/Jaccard/Euclidean/Cosine), Classification (Majority, Neirest Neighbor, Naïve-Bayes), Text normalization (Tokenization, Lemmatization, stemming), Regular expression (RE), true/false positive/negative, POR plot, Cross-validation, bootstrap, Laplace smoothing, N-gram/Neural Language model (LM), perplexity, Hidden Markov model (HMM), Word Embeddings (word2vec), POS tagging, named entity recognition (NER), Viterbi algorithm, (Probabilistic/Weighted) context-free grammar (CFG), Chomsky normal form, Semantic Parsing, lambda calculus, Seq2Seq (encoder-decoder, attention), Quantifiers, Contextual Embeddings (BERT, BART), beam search, machine translation (MT)</td>
-      <td rowspan="1">-res-</td>
+      <td rowspan="1"><a style="font-size:10px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=236299">236299</a></td>
       <td rowspan="1" class="vertical-th" align="center">Intro_to_NLP.docx</td>
     </tr>    
 <!-- =============================== Self-learning Courses ================================ -->
