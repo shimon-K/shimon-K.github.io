@@ -92,12 +92,12 @@ title: Curriculum vitae (CV)
 
 ### Other courses completed in Technion: 
 1. Statistics (Linear Regression, Random variables, Hypothesis Testing, Sampling, Estimation, Monte-Carlo models, ANOVA) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19007">019007</a>
-2. Traffic control <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19718">019718</a>
-3. Transportation Engineering and Management <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014732">014732</a>
-4. Demand Modelling (Discrete Choice Methods, Maximum Likelihod Estimation (MLE), Hypothesis Testing, Logit, Probit, Utility) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19710">019710</a>
-5. Transportation Network Analysis (Equilibrium Problem, Optimal routing, Route Choice Models) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=019709">019709</a>
-6. Transportation Planning <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014702">014702</a>
-7. Network theory (Maximum flow problem, Shortest-Path algorithms, Minimum spanning tree) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19006">019006</a>
+2. Demand Modelling (Discrete Choice Methods, Maximum Likelihod Estimation (MLE), Hypothesis Testing, Logit, Probit, Utility) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19710">019710</a>
+3. Network theory (Maximum flow problem, Shortest-Path algorithms, Minimum spanning tree) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19006">019006</a>
+4. Transportation Network Analysis (Equilibrium Problem, Optimal routing, Route Choice Models) <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=019709">019709</a>
+5. Traffic control <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19718">019718</a>
+6. Transportation Engineering and Management <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014732">014732</a> 
+7. Transportation Planning <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=014702">014702</a>
 8. Advanced Transportation Engineering (Microscopic/mesoscopic/macroscopic traffic models, Macroscopic Fundamental Diagram) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19714">019714</a>
 
 
