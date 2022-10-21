@@ -20,7 +20,7 @@ title: Curriculum vitae (CV)
 **Note**: All formal courses were taken in [Technion](https://www.jpost.com/business-and-innovation/all-news/article-717204) [Institute](https://www.calcalist.co.il/calcalistech/article/bkkte6gbo?fbclid=IwAR20MX1Z7Bkiz5yueRLk2s0RiWB5944RNntQTAKW0lJroIRzTEyldoFe6Ro) in Israel.
 
 
-### Control Theory:
+### Control Theory (2017-2019):
 
 <table>
 <!-- =============================== HEADER ================================ -->
@@ -101,7 +101,7 @@ title: Curriculum vitae (CV)
 8. Advanced Transportation Engineering (Microscopic/mesoscopic/macroscopic traffic models, Macroscopic Fundamental Diagram) <a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=19714">019714</a>
 
 
-### Artificial Intelligence:
+### Artificial Intelligence (2019-today):
 
 
 <table>
