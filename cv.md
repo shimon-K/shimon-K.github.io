@@ -122,7 +122,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Introduction to Machine Learning</td>
       <td rowspan="1" style="font-size:12px">PAC learning, VC dimension/theory, Empirical risk minimization (ERM), Bias-Variance tradeoff, No-free lunch, Non-uniform learnability, MDL, Boosting, SVM (support vector machine), Kernels, regularization, online learning, Feature selection, multilayer networks, Probabilistic models, Naive Bayes, generative vs discriminative models, MAP (maximum a posteriori) vs SRM (structural risk minimization), Linear Discriminant Analysis (LDA), Expectaion-Maximization (EM), PCA,  Multi-class classification</td>
       <td rowspan="1"><a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=236756">236756</a></td>
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1" class="vertical-th" align="center">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning</td>
