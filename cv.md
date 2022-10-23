@@ -171,7 +171,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Multi-task and Meta learning</td>
       <td rowspan="1" style="font-size:12px">Model Agnostic Meta Learning (MAML), Meta-Learning Approaches: Black-box, Optimization-based, Non-parametric. Few-shot learning, Bayesian meta-learning, Meta-RL, Domain generalization/adaptation, Lifelong learning. Contrastive Learning</td>
       <!--<td rowspan="1">-res-</td>-->
-      <td rowspan="1"><a href="http://cs330.stanford.edu/">Site</a>, <a href="https://www.youtube.com/watch?v=6stKGH6zI8g&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=4&ab_channel=stanfordonline">Youtube</a>,<a href="http://www.cs.umd.edu/class/fall2020/cmsc828W/">Another</a></td>
+      <td rowspan="1"><a href="http://cs330.stanford.edu/">Site</a>, <a href="https://www.youtube.com/watch?v=6stKGH6zI8g&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=4&ab_channel=stanfordonline">Youtube</a>, <a href="http://www.cs.umd.edu/class/fall2020/cmsc828W/">Another</a></td>
     </tr>
     <tr>
       <td rowspan="1">stopped at "from course 16"</td>
