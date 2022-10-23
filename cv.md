@@ -151,15 +151,15 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Machine Learning courses</td>
-      <td rowspan="1" style="font-size:12px">percepton learning algorithm, linear classification/regression, logirstic regression, multilayer percepton, SVM, Kernel methods, Radial Basis Function (RBF), learning principles: Occam’s razor, Sampling bias, Data snooping; Bayesian methods, Aggregation methods</td>
-      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
+      <td rowspan="1" style="font-size:12px">percepton learning algorithm, linear classification/regression, logirstic regression, multilayer percepton, SVM, Kernel methods, Radial Basis Function (RBF), learning principles: Occam’s razor, Sampling bias, Data snooping; Bayesian methods, Aggregation methods. Random Forest, Clustering and Mixture Models e.g. GMM, Probabilistic Graphical Models, (Hidden) Markov Models, Undirected Graphical Models, MRF, Belief Propagation, Adversarial Search, Markov decision processes (MDP), Logic</td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a>,<a href="https://www.youtube.com/watch?v=gZkQYANS5Mo&list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob&ab_channel=BertHuang">4</a></td>
       <td class="vertical-th" rowspan="3" align="center">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses</td>
       <!-- [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1) -->
-      <td rowspan="1" style="font-size:12px"> Deep belief networks (DBN), Restricted Boltzmann networks (RBM), vanishing/exploding gradient</td>
-      <td rowspan="1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">1</a>,<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1">2</a></td>
+      <td rowspan="1" style="font-size:12px"> Deep belief networks (DBN), Restricted Boltzmann networks (RBM), BM, Auto-Encoder, Sparse coding, vanishing/exploding gradient, KL divergence, </td>
+      <td rowspan="1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">1</a>,<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1">2</a>,<a href="https://vistalab-technion.github.io/cs236781/lectures/">3</a>,<a href="https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&ab_channel=HugoLarochelle">4</a></td>
     </tr>
     <tr>
       <td rowspan="1">Connectionism in GOFAI or classical AI (20th century)</td>
@@ -168,10 +168,16 @@ title: Curriculum vitae (CV)
       <td rowspan="1"><a href="https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056">Youtube</a></td>
     </tr>    
     <tr>
-      <td rowspan="1">Systems and Control</td>
-      <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Multiparametric Programming, Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Set theory: Ellipsoidal/Polyhedral set, Nominal/Robust State/Output feedback Interpolating control (IC), Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI), Implicit/Explicit solution<!--, Tracking control--></td>
+      <td rowspan="1">Multi-task and Meta learning</td>
+      <td rowspan="1" style="font-size:12px">Model Agnostic Meta Learning (MAML), Meta-Learning Approaches: Black-box, Optimization-based, Non-parametric. Few-shot learning, Bayesian meta-learning, Meta-RL, Domain generalization/adaptation, Lifelong learning. Contrastive Learning</td>
       <!--<td rowspan="1">-res-</td>-->
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1"><a href="http://cs330.stanford.edu/">Site</a>, <a href="https://www.youtube.com/watch?v=6stKGH6zI8g&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=4&ab_channel=stanfordonline">Youtube</a>,<a href="http://www.cs.umd.edu/class/fall2020/cmsc828W/">Another</a></td>
+    </tr>
+    <tr>
+      <td rowspan="1">stopped at "from course 16"</td>
+      <td rowspan="1" style="font-size:12px"></td>
+      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"></td>
     </tr>
 
 <!-- =============================== Books and Articles ================================ -->
