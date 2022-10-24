@@ -22,7 +22,7 @@ title: Curriculum vitae (CV)
 
 ### Control Theory (2017-2019): 
 
-<a id="Control"> </a>
+
 <table>
 <!-- =============================== HEADER ================================ -->
   <thead>
@@ -82,6 +82,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">-ref-</td>-->
     </tr>    
     <tr>
+      <a id="Control"> </a>
       <td rowspan="1">Systems and Control <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=17003">017003</a></td>
       <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Multiparametric Programming, Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Set theory: Ellipsoidal/Polyhedral set, Nominal/Robust State/Output feedback Interpolating control (IC), Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI), Implicit/Explicit solution<!--, Tracking control--></td>
       <!--<td rowspan="1">-res-</td>
