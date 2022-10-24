@@ -166,7 +166,7 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="1">Connectionism in GOFAI or classical AI (20th century)</td>
       <!--  in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056) -->
-      <td rowspan="1" style="font-size:12px">Basic learning rules, e.g. Hebbian, Memory-based, Competitive, Boltzmann. Associative memory, RBF (radial basis function); MLP (multi-layered perceptron), SOM (self-organizing-map)</td>
+      <td rowspan="1" style="font-size:12px">Basic learning rules, e.g. Hebbian, Memory-based, Competitive, Boltzmann. Associative memory, RBF (radial basis function), MLP (multi-layered perceptron),<br />SOM (self-organizing-map)</td>
       <td rowspan="1"><a href="https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056">Youtube</a></td>
     </tr>    
     <tr>
