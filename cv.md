@@ -64,7 +64,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Introduction to Control <a style="font-size:8px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?SUB=034040">034040</a></td>
-      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
+      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, P/PI/PID controllers</td>
       <!--<td rowspan="1">-res-</td>
       <td rowspan="1">-ref-</td>-->
     </tr>
@@ -126,7 +126,7 @@ title: Curriculum vitae (CV)
     </tr>
     <tr>
       <td rowspan="1">Deep Learning</td>
-      <td rowspan="1" style="font-size:12px">PAC Bayes, dropout, KL/JS divergence, Batch Normalization, Adaptive learning,<br />CNNs (ResNet, GoogleNet, ..),<br />RNNs (LSTM, GRU),<br />Transformers (attention, GNN, multi-modal, VQA),<br />Generative learning ((Style/Cycle) GAN, discrete/continuous VAE, Gradient Langevin dynamics),<br />Reinforcement Learning (value-based, policy-gradient, Actor-Critic (AC), A2C, A3C),<br />Explainability (LIME, SHAP, Gradient-based)</td>
+      <td rowspan="1" style="font-size:12px">PAC Bayes, dropout, KL/JS divergence, Batch Normalization (BN), Adaptive learning,<br />CNNs (ResNet, GoogleNet, ..),<br />RNNs (LSTM, GRU),<br />Transformers (attention, GNN, multi-modal, VQA),<br />Generative learning ((Style/Cycle) GAN, discrete/continuous VAE, Gradient Langevin dynamics),<br />Reinforcement Learning (value-based, policy-gradient, Actor-Critic (AC), A2C, A3C),<br />Explainability (LIME, SHAP, Gradient-based)</td>
       <td rowspan="1"><a style="font-size:12px" href="https://www.graduate.technion.ac.il/Subjects.Eng/?Sub=97200">097200</a></td>
       <td rowspan="1" class="vertical-th" align="center">DL.docx</td>
     </tr>
@@ -153,7 +153,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">percepton learning algorithm, linear classification/regression, logirstic regression, multilayer percepton, SVM, Kernel methods, Radial Basis Function (RBF), learning principles: Occam’s razor, Sampling bias, Data snooping; Bayesian methods, Aggregation methods. Random Forest, Clustering and Mixture Models e.g. GMM, Probabilistic Graphical Models, (Hidden) Markov Models, Undirected Graphical Models, MRF, Belief Propagation, Adversarial Search, Markov decision processes (MDP), Logic</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a>,<a href="https://www.youtube.com/watch?v=gZkQYANS5Mo&list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob&ab_channel=BertHuang">4</a></td>
-      <td class="vertical-th" rowspan="3" align="center">AICourses.docx</td>
+      <td class="vertical-th" rowspan="5" align="center">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses</td>
