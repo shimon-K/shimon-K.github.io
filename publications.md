@@ -8,7 +8,7 @@ title: Publications
 
 ## Masters Degree
 
-The research is mainly based on "Systems and Control" (017003) [Course](https://github.com/shimon-K/shimon-K.github.io/blob/main/cv.html#Control).
+The research is mainly based on "Systems and Control" (017003) [Course](https://shimon-K.github.io/cv.html#Control).
 
 - Robust Traffic Signal Control for Uncertain Road Networks (M.Sc Thesis) [[Abstract](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] [[Full pdf](https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/Shimon_Theses_ALL.pdf)]
 
