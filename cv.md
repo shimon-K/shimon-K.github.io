@@ -191,11 +191,11 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Introduction to (Classical) AI</td>
       <td rowspan="1" style="font-size:12px">Top-down (Symbolic AI) verse Bottom-Up (Neural Networks) approaches; Knowledge Representations (OAV tripplets, Semantic Network, Conceptual Graphs, Production Rules, Frames and Scripts/Scenarios, and Logic: descriptive, propositional, predicate/1st order, 2nd order, high order); Expert Systems, Knowledge Base, and Inference/Rule Engine; Cognitive architecture/system; Generative-test and Means-Ends Analysis; Case-based-, Commonsense-, Analogical-, and Meta- Reasoning; Learning: Recording cases, Explanation-based, and Incremental Concept; Configuration and Diagnosis; Constraint Propagation, Version Spaces, Planning and Understanding; de/in/ab-duction</td>
       <!--<td rowspan="1">-res-</td>-->
-      <td rowspan="1"><a href="http://soshnikov.com/courses/ai-for-beginners/mindmap.html">1</a>,<a href="https://github.com/microsoft/ai-for-beginners">2</a>,<a href="https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html">3</a>,<a href="https://learn.udacity.com/courses/ud409">4</a></td>
+      <td rowspan="1"><a href="http://soshnikov.com/courses/ai-for-beginners/mindmap.html">1</a>, <a href="https://github.com/microsoft/ai-for-beginners">2</a>, <a href="https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html">3</a>, <a href="https://learn.udacity.com/courses/ud409">4</a></td>
     </tr>    
     <tr>
       <td rowspan="1">Abstract Algebra and Category theory</td>
-      <td rowspan="1" style="font-size:12px">Group, Set, Category, <in process></td>
+      <td rowspan="1" style="font-size:12px">Group, Set, Category, [more in process]</td>
       <!--<td rowspan="1">-res-</td>-->
       <td rowspan="1"><a href="https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6">1</a>,<a href="https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_">2</a></td>
     </tr>  
