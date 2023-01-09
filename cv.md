@@ -140,7 +140,7 @@ title: Curriculum vitae (CV)
     </tr>    
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="11" align="center" class="vertical-th" style="font-size:30px">Self learning Courses</td>
+      <td rowspan="10" align="center" class="vertical-th" style="font-size:30px">Self learning Courses</td>
       <td rowspan="1">Deep Learning in Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
@@ -155,7 +155,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">percepton learning algorithm, linear classification/regression, logirstic regression, multilayer percepton, SVM, Kernel methods, Radial Basis Function (RBF), learning principles: Occam’s razor, Sampling bias, Data snooping; Bayesian methods, Aggregation methods. Random Forest, Clustering and Mixture Models e.g. GMM, Probabilistic Graphical Models, (Hidden) Markov Models, Undirected Graphical Models, MRF, Belief Propagation, Adversarial Search, Markov decision processes (MDP), Logic</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a>,<a href="https://www.youtube.com/watch?v=gZkQYANS5Mo&list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob&ab_channel=BertHuang">4</a></td>
-      <td class="vertical-th" rowspan="9" align="center">AICourses.docx</td>
+      <td class="vertical-th" rowspan="8" align="center">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses</td>
