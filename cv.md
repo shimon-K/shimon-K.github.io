@@ -203,38 +203,47 @@ title: Curriculum vitae (CV)
 <!-- =============================== Books and Articles ================================ -->
     <tr>
       <td rowspan="6" align="center" class="vertical-th" style="font-size:30px">Books and Articles</td>
-      <td rowspan="1">Deep Learning in Computer Vision</td>
-      <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
-      <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
-      <td class="vertical-th" rowspan="2" align="center">CNN_images.docx</td>
+      <td rowspan="1">Copeland, Jack</td>
+      <td rowspan="1" style="font-size:12px">Artificial Intelligence: A Philosophical Introduction</td>
+      <td rowspan="1">Book</td>
+      <td class="vertical-th" rowspan="2" align="center">AIsummary.docx</td>
     </tr>
     <tr>
-      <td rowspan="1">The Ancient Secrets of Computer Vision</td>
-      <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
-      <td rowspan="1"><a href="https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p">Course</a></td>
+      <td rowspan="1">Jean-Claude Bringuier</td>
+      <td rowspan="1" style="font-size:12px">Conversations with Jean Piaget (1977)</td>
+      <td rowspan="1"><a href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo3645373.html">Book</a></td>
     </tr>
     <tr>
-      <td rowspan="1">Machine Learning courses</td>
-      <td rowspan="1" style="font-size:12px">Block diagram, Open/Closed-loop control, Plant Inversion, Internal Stability,<br />Root-Locus method, Nyquist stability criterion, Delay/Dead-time, Gain, Lead/lag Compensator,<br />Basic loop shaping and stability margins, PID controllers</td>
-      <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a></td>
-      <td class="vertical-th" rowspan="3" align="center">AICourses.docx</td>
+      <td rowspan="2">Edward de Bono</td>
+      <td rowspan="1" style="font-size:12px">Parallel/Lateral Thinking (1995)</td>
+      <td rowspan="1"></td>
     </tr>
     <tr>
-      <td rowspan="1">Deep Learning courses</td>
-      <!-- [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1) -->
-      <td rowspan="1" style="font-size:12px">MIMO, Advanced loop shaping, Pole placement, Nychols Chart, Kalman Filtering, LQG,<br />Sampled-data control: connecting analog and digital, control of dicrete-time systems, aliasing. Controllability, Observability, Estimators, Robustness, Transfer functions</td>
-      <td rowspan="1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">1</a>,<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1">2</a></td>
+      <td rowspan="1" style="font-size:12px">I Am Right, You Are Wrong (1990)</td>
+      <td rowspan="1"></td>
     </tr>
     <tr>
-      <td rowspan="1">Connectionism in GOFAI or classical AI (20th century)</td>
-      <!--  in [Youtube](https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056) -->
-      <td rowspan="1" style="font-size:12px">Basic learning rules, e.g. Hebbian; Associative memory; RBF (radial basis function); MLP (multi-layered perceptron); SOM (self-organizing-map)</td>
-      <td rowspan="1"><a href="https://www.youtube.com/watch?v=xbYgKoG4x2g&list=PL53BE265CE4A6C056">Youtube</a></td>
+      <td rowspan="1">French, C. C., & Colman, A. M.</td>
+      <td rowspan="1" style="font-size:12px">Cognitive psychology (1995)</td>
+      <td rowspan="1"></td>
     </tr>    
     <tr>
-      <td rowspan="1">Systems and Control</td>
-      <td rowspan="1" style="font-size:12px">Quadratic Programming (QP), Multiparametric Programming, Model Predictive Control (MPC), Receding Horizon Control (RHC), Vertex Control, Set theory: Ellipsoidal/Polyhedral set, Nominal/Robust State/Output feedback Interpolating control (IC), Interpolating with elliptic-sets/cost, Constrained optimal control, Linear Matrix Inequality (LMI), Implicit/Explicit solution<!--, Tracking control--></td>
-      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1">Elizabeth F. Loftus</td>
+      <td rowspan="1" style="font-size:12px">Visual Perception: An Introduction (2012)</td>
+      <td rowspan="1">-ref-</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Jeff_Hawkins</td>
+      <td rowspan="1" style="font-size:12px">On Intelligence (2004)</td>
+      <td rowspan="1">-ref-</td>
+    </tr>
+    <tr>
+      <td rowspan="1" style="font-size:12px">A Thousand Brains: A New Theory of Intelligence (2021)</td>
+      <td rowspan="1">-ref-</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Elaine Rich, Kevin Knight</td>
+      <td rowspan="1" style="font-size:12px">Artificial Intelligence (1991)</td>
       <td rowspan="1">-ref-</td>
     </tr>
     
