@@ -140,7 +140,7 @@ title: Curriculum vitae (CV)
     </tr>    
 <!-- =============================== Self-learning Courses ================================ -->
     <tr>
-      <td rowspan="7" align="center" class="vertical-th" style="font-size:30px">Self learning Courses</td>
+      <td rowspan="11" align="center" class="vertical-th" style="font-size:30px">Self learning Courses</td>
       <td rowspan="1">Deep Learning in Computer Vision</td>
       <td rowspan="1" style="font-size:12px">different CNN architectures, Region-based CNNs (R-CNNs, SSD, YOLO)</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision/home/week/1">Coursera</a></td>
