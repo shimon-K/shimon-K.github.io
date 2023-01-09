@@ -171,10 +171,34 @@ title: Curriculum vitae (CV)
     </tr>    
     <tr>
       <td rowspan="1">Multi-task and Meta learning</td>
-      <td rowspan="1" style="font-size:12px">Model Agnostic Meta Learning (MAML), Meta-Learning Approaches: Black-box, Optimization-based, Non-parametric. Few-shot learning, Bayesian meta-learning, Meta-RL, Domain generalization/adaptation, Lifelong learning. Contrastive Learning</td>
+      <td rowspan="1" style="font-size:12px">Model Agnostic Meta Learning (MAML), Meta-Learning Approaches: Black-box, Optimization-based, Non-parametric. Zero/Few-shot learning, Bayesian meta-learning, Meta-RL, Domain generalization/adaptation, Lifelong learning. Contrastive Learning</td>
       <!--<td rowspan="1">-res-</td>-->
       <td rowspan="1"><a href="http://cs330.stanford.edu/">Site</a>, <a href="https://www.youtube.com/watch?v=6stKGH6zI8g&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=4&ab_channel=stanfordonline">Youtube</a>, <a href="http://www.cs.umd.edu/class/fall2020/cmsc828W/">Another</a></td>
     </tr>
+    <tr>
+      <td rowspan="1">Causality</td>
+      <td rowspan="1" style="font-size:12px">A/B testing, Graphical models, Causal Influence Diagrams, Counterfactuals</td>
+      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"></td>
+    </tr>    
+    <tr>
+      <td rowspan="1">Models of computation</td>
+      <td rowspan="1" style="font-size:12px">Finite state machines (via Regular language), Pushdown automaton (via Context-free language), Turing machines (via Recursively enumerable language), Recursive language, Decidable Languages, Grammars, Chomsky hierarchy</td>
+      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"><a href="https://courses.campus.gov.il/courses/course-v1:BIU+ACD_RFP4_BIU_Model-of-computation+2022_1/courseware#block-v1:BIU+ACD_RFP4_BIU_Model-of-computation+2022_1+type@chapter+block@3186751aae6d4808879c153dbaf1cd6e">Campus</a></td>
+    </tr>    
+    <tr>
+      <td rowspan="1">Introduction to (Classical) AI</td>
+      <td rowspan="1" style="font-size:12px">Top-down (Symbolic AI) verse Bottom-Up (Neural Networks) approaches; Knowledge Representations (OAV tripplets, Semantic Network, Conceptual Graphs, Production Rules, Frames and Scripts/Scenarios, and Logic: descriptive, propositional, predicate/1st order, 2nd order, high order); Expert Systems, Knowledge Base, and Inference/Rule Engine; Cognitive architecture/system; Generative-test and Means-Ends Analysis; Case-based-, Commonsense-, Analogical-, and Meta- Reasoning; Learning: Recording cases, Explanation-based, and Incremental Concept; Configuration and Diagnosis; Constraint Propagation, Version Spaces, Planning and Understanding; de/in/ab-duction</td>
+      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"><a href="http://soshnikov.com/courses/ai-for-beginners/mindmap.html">1</a>,<a href="https://github.com/microsoft/ai-for-beginners">2</a>,<a href="https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html">3</a>,<"https://learn.udacity.com/courses/ud409">4</a></td>
+    </tr>    
+    <tr>
+      <td rowspan="1">Causality</td>
+      <td rowspan="1" style="font-size:12px">A/B testing, Graphical models, Causal Influence Diagrams, Counterfactuals</td>
+      <!--<td rowspan="1">-res-</td>-->
+      <td rowspan="1"></td>
+    </tr>    
     <tr>
       <td rowspan="1">stopped at "from course 16"</td>
       <td rowspan="1" style="font-size:12px"></td>
