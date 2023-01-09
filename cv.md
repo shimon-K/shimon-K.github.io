@@ -206,7 +206,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Copeland, Jack</td>
       <td rowspan="1" style="font-size:12px">Artificial Intelligence: A Philosophical Introduction</td>
       <td rowspan="1">Book</td>
-      <td class="vertical-th" rowspan="2" align="center">AIsummary.docx</td>
+      <td class="vertical-th" rowspan="9" align="center">AIsummary.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Jean-Claude Bringuier</td>
@@ -216,35 +216,35 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="2">Edward de Bono</td>
       <td rowspan="1" style="font-size:12px">Parallel/Lateral Thinking (1995)</td>
-      <td rowspan="1"></td>
+      <td rowspan="1">Book</td>
     </tr>
     <tr>
       <td rowspan="1" style="font-size:12px">I Am Right, You Are Wrong (1990)</td>
-      <td rowspan="1"></td>
+      <td rowspan="1">Book</td>
     </tr>
     <tr>
       <td rowspan="1">French, C. C., & Colman, A. M.</td>
       <td rowspan="1" style="font-size:12px">Cognitive psychology (1995)</td>
-      <td rowspan="1"></td>
+      <td rowspan="1">Book</td>
     </tr>    
     <tr>
       <td rowspan="1">Elizabeth F. Loftus</td>
       <td rowspan="1" style="font-size:12px">Visual Perception: An Introduction (2012)</td>
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1">Book</td>
     </tr>
     <tr>
-      <td rowspan="2">Jeff_Hawkins</td>
+      <td rowspan="2">Jeff Hawkins</td>
       <td rowspan="1" style="font-size:12px">On Intelligence (2004)</td>
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1">Book</td>
     </tr>
     <tr>
       <td rowspan="1" style="font-size:12px">A Thousand Brains: A New Theory of Intelligence (2021)</td>
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1">Book</td>
     </tr>
     <tr>
       <td rowspan="1">Elaine Rich, Kevin Knight</td>
       <td rowspan="1" style="font-size:12px">Artificial Intelligence (1991)</td>
-      <td rowspan="1">-ref-</td>
+      <td rowspan="1">Book</td>
     </tr>
     
   </tbody>
