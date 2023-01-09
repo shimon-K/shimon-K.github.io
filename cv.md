@@ -160,7 +160,7 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="1">Deep Learning courses</td>
       <!-- [1](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome), [2](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1) -->
-      <td rowspan="1" style="font-size:12px"> Deep belief networks (DBN), Restricted Boltzmann networks (RBM), BM, Auto-Encoder, Sparse coding, vanishing/exploding gradient, KL divergence, </td>
+      <td rowspan="1" style="font-size:12px"> Deep belief networks (DBN), Restricted Boltzmann networks (RBM), BM, Auto-Encoder, Sparse coding, vanishing/exploding gradient, KL divergence, and more</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">1</a>,<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&index=1">2</a>,<a href="https://vistalab-technion.github.io/cs236781/lectures/">3</a>,<a href="https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&ab_channel=HugoLarochelle">4</a></td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ title: Curriculum vitae (CV)
     </tr>    
     <tr>
       <td rowspan="1">Introduction to (Classical) AI</td>
-      <td rowspan="1" style="font-size:12px">Top-down (Symbolic AI) verse Bottom-Up (Neural Networks) approaches; Knowledge Representations (OAV tripplets, Semantic Network, Conceptual Graphs, Production Rules, Frames and Scripts/Scenarios, and Logic: descriptive, propositional, predicate/1st order, 2nd order, high order); Expert Systems, Knowledge Base, and Inference/Rule Engine; Cognitive architecture/system; Generative-test and Means-Ends Analysis; Case-based-, Commonsense-, Analogical-, and Meta- Reasoning; Learning: Recording cases, Explanation-based, and Incremental Concept; Configuration and Diagnosis; Constraint Propagation, Version Spaces, Planning and Understanding; de/in/ab-duction</td>
+      <td rowspan="1" style="font-size:12px">Top-down (Symbolic AI) verse Bottom-Up (Neural Networks) approaches; Knowledge Representations (OAV tripplets, Semantic Network, Conceptual Graphs, Production Rules, Frames and Scripts/Scenarios, and Logic: descriptive, propositional, predicate/1st order, 2nd order, high order); Expert Systems, Knowledge Base, and Inference/Rule Engine; Cognitive architecture/system; Generative-test and Means-Ends Analysis; Case-based-, Commonsense-, Analogical-, and Meta- Reasoning; Learning: Recording cases, Explanation-based, and Incremental Concept; Configuration and Diagnosis; Constraint Propagation, Version Spaces, Planning and Understanding;<br />de/in/ab-duction</td>
       <!--<td rowspan="1">-res-</td>-->
       <td rowspan="1"><a href="http://soshnikov.com/courses/ai-for-beginners/mindmap.html">1</a>, <a href="https://github.com/microsoft/ai-for-beginners">2</a>, <a href="https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html">3</a>, <a href="https://learn.udacity.com/courses/ud409">4</a></td>
     </tr>    
