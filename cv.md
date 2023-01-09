@@ -155,7 +155,7 @@ title: Curriculum vitae (CV)
       <td rowspan="1">Machine Learning courses</td>
       <td rowspan="1" style="font-size:12px">percepton learning algorithm, linear classification/regression, logirstic regression, multilayer percepton, SVM, Kernel methods, Radial Basis Function (RBF), learning principles: Occam’s razor, Sampling bias, Data snooping; Bayesian methods, Aggregation methods. Random Forest, Clustering and Mixture Models e.g. GMM, Probabilistic Graphical Models, (Hidden) Markov Models, Undirected Graphical Models, MRF, Belief Propagation, Adversarial Search, Markov decision processes (MDP), Logic</td>
       <td rowspan="1"><a href="https://www.coursera.org/learn/machine-learning-duke">1</a>,<a href="https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome">2</a>,<a href="https://www.youtube.com/watch?v=MEG35RDD7RA">3</a>,<a href="https://www.youtube.com/watch?v=gZkQYANS5Mo&list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob&ab_channel=BertHuang">4</a></td>
-      <td class="vertical-th" rowspan="5" align="center">AICourses.docx</td>
+      <td class="vertical-th" rowspan="9" align="center">AICourses.docx</td>
     </tr>
     <tr>
       <td rowspan="1">Deep Learning courses</td>
