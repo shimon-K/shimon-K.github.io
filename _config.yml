@@ -5,6 +5,7 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
+  - { platform: rss, user_url: "https://mysite.com/feed.xml" }
     twitter: ShimonKom
     linkedin: shimon-komarovsky-71669925
     flickr: whKPveEAAAAJ&hl
