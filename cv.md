@@ -105,7 +105,7 @@ title: Curriculum vitae (CV)
 
 ### Artificial Intelligence (2019-today):
 
-
+<!--
 <table>
 <!-- =============================== HEADER ================================ -->
   <thead>
@@ -246,7 +246,7 @@ title: Curriculum vitae (CV)
 
 
 
-<!--
+
 AI self-learning courses:
 
 --CNN_images.docx:                ALSO ADD RESOURCES, MAIN IDEAS LEARNED, AND WHERE STORED AS A TABLE--
