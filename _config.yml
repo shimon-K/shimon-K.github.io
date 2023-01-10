@@ -12,13 +12,6 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=whKPveEAAAAJ%26hl" }
     - { platform: flickr,         user_url: "https://www.flickr.com/photos/whKPveEAAAAJ&hl" }
     - { platform: microdotblog,   user_url: "https://micro.blog/Shimon-Komarovsky" }
-    twitter: ShimonKom
-    linkedin: shimon-komarovsky-71669925
-    flickr: whKPveEAAAAJ&hl
-    github:  shimon-K
-    youtube_channel: ArtificialGeneralIntelligence
-    youtube_channel_name: Shimon Komarovsky
-    microdotblog: Shimon-Komarovsky
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
