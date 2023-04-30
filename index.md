@@ -11,7 +11,9 @@ layout: page
 <br />
 
 <img align="left" src="DENN.gif" width="25%" height="25%">
-<img align="center" src="DENN.gif" width="25%" height="25%">
+<p align="center">
+  <img src="DENN.gif" width="25%" height="25%">
+</p>
 <img align="right" src="DENN.gif" width="25%" height="25%">
 
 
