@@ -6,7 +6,7 @@ layout: page
 ![My face](my_profile2c.jpg)
 </span>-->
 
-<img align="left" src="my_profile2c.jpg" width="10%" height="10%">
+<img align="left" src="my_profile2c.jpg" width="10%" height="10%">\
 
 <br />
 
