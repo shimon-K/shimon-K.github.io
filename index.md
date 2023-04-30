@@ -8,12 +8,12 @@ layout: page
 
 <img align="left" src="my_profile2c.jpg" width="15%" height="10%">
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 
 <p align="center">
   <img src="DENN.gif" title="DENN:" alt="Image 1" style="display: inline-block; width: 40%; margin: 0 25px;">
-  <img src="DENN.gif" title="DENN:" alt="Image 2" style="display: inline-block; width: 40%; margin: 0 25px;"><br/><br/><br/>
+  <img src="DENN.gif" title="DENN:" alt="Image 2" style="display: inline-block; width: 40%; margin: 0 25px;"><br/><br/>
   <img src="DENN.gif" title="DENN:" alt="Image 3" style="display: inline-block; width: 40%; margin: 0 25px;">
 </p>
 
