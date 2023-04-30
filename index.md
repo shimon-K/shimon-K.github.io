@@ -2,9 +2,18 @@
 layout: page
 ---
 
-<span style="display:block; margin-top:-30px;">
+<!--<span style="display:block; margin-top:-30px;">
 ![My face](my_profile2c.jpg)
-</span>
+</span>-->
+
+<img align="left" src="my_profile2c.jpg" width="50%" height="50%">
+
+<br />
+
+<img align="left" src="DENN.gif" width="25%" height="50%">
+<img align="center" src="DENN.gif" width="25%" height="50%">
+<img align="right" src="DENN.gif" width="25%" height="50%">
+
 <span style="display:block; margin-top:-30px;">
 ![My face](DENN.gif)
 </span>
