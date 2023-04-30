@@ -14,9 +14,7 @@ layout: page
 <img align="center" src="DENN.gif" width="25%" height="25%">
 <img align="right" src="DENN.gif" width="25%" height="25%">
 
-<span style="display:block; margin-top:-30px;">
-![My face](DENN.gif)
-</span>
+
 
 
 # About me
