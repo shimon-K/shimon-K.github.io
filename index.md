@@ -26,9 +26,9 @@ layout: page
   </figure>
   <figure style="margin: 0 10px; text-align: center;">
     <figcaption>DENN</figcaption>
-    <img src="DENN.gif" alt="Image 2" style="width: 100%;">
-    <br/><br/>
+    <img src="DENN.gif" alt="Image 2" style="width: 100%;">    
   </figure>
+  <br/><br/>
   <figure style="margin: 0 10px; text-align: center;">
     <figcaption>DENN</figcaption>
     <img src="DENN.gif" alt="Image 3" style="width: 100%;">
