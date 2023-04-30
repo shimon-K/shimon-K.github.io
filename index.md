@@ -21,20 +21,15 @@ layout: page
 
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
-    <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
+    <figcaption><a href="https://shimon-k.github.io/publications.html#DENN">DENN</a></figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
   <figure style="margin-left: 2%; text-align: center;">
-    <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
+    <figcaption><a href="https://shimon-k.github.io/publications.html#AKREM">AKREM</a></figcaption>
     <img src="DENN.gif" alt="Image 2" style="width: 100%;">    
   </figure>
-</div>
-
-<br/>
-
-<div style="display: flex; justify-content: center;">
-  <figure style="margin: 0 0px; text-align: center;">
-    <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
+  <figure style="margin-left: 2%; text-align: center;">
+    <figcaption><a href="https://shimon-k.github.io/publications.html#MOM">MOM</a></figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
 </div>
