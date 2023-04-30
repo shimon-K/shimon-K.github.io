@@ -34,7 +34,7 @@ layout: page
   </figure>
 </div>
 
-<br/><br/>
+<br/>
 
 # About me
 
