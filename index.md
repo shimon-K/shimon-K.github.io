@@ -26,7 +26,7 @@ layout: page
   </figure>
   <figure style="margin: 0 10px; text-align: center;">
     <img src="DENN.gif" alt="Image 2" style="width: 100%;">
-    <figcaption>DENN</figcaption>
+    <figcaption>DENN</figcaption><br/><br/>
   </figure>
   <figure style="margin: 0 10px; text-align: center;">
     <img src="DENN.gif" alt="Image 3" style="width: 100%;">
