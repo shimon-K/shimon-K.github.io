@@ -28,12 +28,18 @@ layout: page
     <figcaption>DENN</figcaption>
     <img src="DENN.gif" alt="Image 2" style="width: 100%;">    
   </figure>
-  <br/><br/>
+</div>
+
+<br/><br/>
+
+<div style="display: flex; justify-content: center;">
   <figure style="margin: 0 10px; text-align: center;">
     <figcaption>DENN</figcaption>
-    <img src="DENN.gif" alt="Image 3" style="width: 100%;">
+    <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
 </div>
+
+<br/><br/>
 
 # About me
 
