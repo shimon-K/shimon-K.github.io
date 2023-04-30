@@ -24,7 +24,7 @@ layout: page
     <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
-  <figure style="margin-left: 5%; text-align: center;">
+  <figure style="margin-left: 2%; text-align: center;">
     <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
     <img src="DENN.gif" alt="Image 2" style="width: 100%;">    
   </figure>
