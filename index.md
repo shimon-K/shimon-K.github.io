@@ -21,16 +21,17 @@ layout: page
 
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 10px; text-align: center;">
+    <figcaption>DENN</figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
-    <figcaption>DENN</figcaption>
   </figure>
   <figure style="margin: 0 10px; text-align: center;">
+    <figcaption>DENN</figcaption>
     <img src="DENN.gif" alt="Image 2" style="width: 100%;">
-    <figcaption>DENN</figcaption><br/><br/>
+    <br/><br/>
   </figure>
   <figure style="margin: 0 10px; text-align: center;">
-    <img src="DENN.gif" alt="Image 3" style="width: 100%;">
     <figcaption>DENN</figcaption>
+    <img src="DENN.gif" alt="Image 3" style="width: 100%;">
   </figure>
 </div>
 
