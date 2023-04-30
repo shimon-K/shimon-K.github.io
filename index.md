@@ -5,6 +5,9 @@ layout: page
 <span style="display:block; margin-top:-30px;">
 ![My face](my_profile2c.jpg)
 </span>
+<span style="display:block; margin-top:-30px;">
+![My face](DENN.gif)
+</span>
 
 
 # About me
