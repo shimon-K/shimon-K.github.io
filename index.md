@@ -17,7 +17,7 @@ layout: page
   <img src="DENN.gif" alt="Image 3" style="display: inline-block; width: 60%; margin: 0 20px;"><em>DENN</em>
 </p>
 
-
+<br/><br/><br/><br/><br/><br/>
 
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 10px; text-align: center;">
