@@ -12,9 +12,9 @@ layout: page
 
 
 <p align="center">
-  <img src="DENN.gif" alt="Image 1" style="display: inline-block; width: 30%; margin: 0 5px;">
-  <img src="DENN.gif" alt="Image 2" style="display: inline-block; width: 30%; margin: 0 5px;">
-  <img src="DENN.gif" alt="Image 3" style="display: inline-block; width: 30%; margin: 0 5px;">
+  <img src="DENN.gif" alt="Image 1" style="display: inline-block; width: 20%; margin: 0 5px;">
+  <img src="DENN.gif" alt="Image 2" style="display: inline-block; width: 20%; margin: 0 5px;">
+  <img src="DENN.gif" alt="Image 3" style="display: inline-block; width: 20%; margin: 0 5px;">
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
