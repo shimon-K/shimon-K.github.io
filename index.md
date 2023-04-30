@@ -30,7 +30,7 @@ layout: page
   </figure>
 </div>
 
-<br/><br/>
+<br/>
 
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
