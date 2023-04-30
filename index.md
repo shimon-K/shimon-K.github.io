@@ -20,11 +20,11 @@ layout: page
 <br/><br/><br/><br/><br/><br/>-->
 
 <div style="display: flex; justify-content: center;">
-  <figure style="margin: 0 10px; text-align: center;">
+  <figure style="margin: 0 0px; text-align: center;">
     <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
-  <figure style="margin: 0 10px; text-align: center;">
+  <figure style="margin: 0 0px; text-align: center;">
     <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
     <img src="DENN.gif" alt="Image 2" style="width: 100%;">    
   </figure>
@@ -33,7 +33,7 @@ layout: page
 <br/><br/>
 
 <div style="display: flex; justify-content: center;">
-  <figure style="margin: 0 10px; text-align: center;">
+  <figure style="margin: 0 0px; text-align: center;">
     <figcaption><a href="https://easychair.org/publications/preprint/2dJv">DENN</a></figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
