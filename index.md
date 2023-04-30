@@ -6,9 +6,9 @@ layout: page
 ![My face](my_profile2c.jpg)
 </span>-->
 
-<img align="left" src="my_profile2c.jpg" width="10%" height="10%">\
+<img align="left" src="my_profile2c.jpg" width="10%" height="10%">
 
-<br />
+<br /><br />
 
 <img align="left" src="DENN.gif" width="25%" height="25%">
 <p align="center">
