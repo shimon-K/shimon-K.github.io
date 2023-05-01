@@ -33,7 +33,7 @@ layout: page
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
 </div>
-
+ 
 <br/>
 
 # About me
