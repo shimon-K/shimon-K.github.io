@@ -22,7 +22,7 @@ layout: page
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
     <figcaption style="font-size: 18px;"><a href="https://shimon-k.github.io/publications.html#DENN">DENN</a></figcaption>
-    <img src="DENN-small.gif" alt="Image 1" style="width: 95%;">
+    <img src="DENN-small.gif" alt="Image 1" style="width: 97%;">
   </figure>
   <figure style="margin-left: 4%; text-align: center;">
     <figcaption style="font-size: 18px;"><a href="https://shimon-k.github.io/publications.html#AKREM">AKREM</a></figcaption>
