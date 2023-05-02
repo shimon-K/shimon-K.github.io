@@ -37,7 +37,7 @@ The research is mainly based on "Systems and Control" (017003) [Course](https://
 - Hierarchical Temporal DNN and Associative Knowledge Representation [[Full PrePrint](https://easychair.org/publications/preprint/1PLv), [Video](https://www.youtube.com/watch?v=th82r6n59rU&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=3&t=89s&ab_channel=ArtificialGeneralIntelligence), [Short Conference Paper](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_6)]
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
-    <figcaption style="font-weight: bold; font-size: 24px;">Associative Knowledge Representation (AKREM)</figcaption>
+    <figcaption style="font-weight: bold; font-size: 24px;">Associative Knowledge Representation Model (AKREM)</figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
 </div>
