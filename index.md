@@ -28,10 +28,10 @@ layout: page
     <figcaption style="font-size: 18px;"><a href="https://shimon-k.github.io/publications.html#AKREM">AKREM</a></figcaption>
     <img src="AKREM-for-site-short2.gif" alt="Image 2" style="width: 100%;">    
   </figure>
-  <figure style="margin-left: 2%; text-align: center;">
+  <!--<figure style="margin-left: 2%; text-align: center;">
     <figcaption style="font-size: 18px;"><a href="https://shimon-k.github.io/publications.html#MOM">MOM</a></figcaption>
     <img src="DENN.gif" alt="Image 1" style="width: 100%;">
-  </figure>
+  </figure>-->
 </div>
 
 <br/>
