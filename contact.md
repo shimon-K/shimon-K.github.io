@@ -1,7 +1,6 @@
 ---
-layout: about
+layout: page
 title: Contact
-description: Get in touch with the Markdown Guide's maintainer.
 ---
 
 <form name="contact" method="POST" netlify>
