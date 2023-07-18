@@ -35,7 +35,7 @@
   //display: inline-block; /* Display the navigation menu inline */
   //white-space: nowrap; /* Prevent the navigation menu from wrapping */
   @media screen and (min-width: $on-medium) {
-    float: left;
+    float: right;   // Change to left, if the navigation menu is dropped line below the title!
   }
 }
 
