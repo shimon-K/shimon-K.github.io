@@ -4,9 +4,9 @@ title: Contact
 ---
 
 
-<h2>Send e-mail to someone@example.com:</h2>
+<h2>Send me an E-mail:</h2>
 
-<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+<form action="mailto:cm5099@yahoo.com" method="post" enctype="text/plain">
 Name:<br>
 <input type="text" name="name"><br>
 E-mail:<br>
