@@ -8,9 +8,9 @@ layout: page
 
 <img align="left" src="my_profile2c.jpg" width="15%" height="15%">
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My email: [cm5099@yahoo.com](mailto:cm5099@yahoo.com)
-<br/><br/>
+
 
 
 <!--<p align="center">
