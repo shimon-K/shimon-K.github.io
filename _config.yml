@@ -27,5 +27,10 @@ kramdown:
     syntax_highlighter: rouge
 header-includes:
   - \usepackage{subcaption}
+header_pages:
+  - cv.md
+  - publications.md
+  - Teaching.md
+  - contact.md
 output:
     pdf_document
