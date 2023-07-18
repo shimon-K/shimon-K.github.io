@@ -24,15 +24,15 @@
   margin-bottom: 15pt;
   color: #80b1d3 !important;
   text-decoration: none !important;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  //white-space: nowrap;
+  //overflow: hidden;
+  //text-overflow: ellipsis;
 }
 
 .site-nav {
   top: 19px;
   text-align: left;
-  display: inline-block; /* Display the navigation menu inline */
+  //display: inline-block; /* Display the navigation menu inline */
   white-space: nowrap; /* Prevent the navigation menu from wrapping */
 }
 
