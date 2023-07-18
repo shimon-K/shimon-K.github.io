@@ -8,9 +8,7 @@ layout: page
 
 <img align="left" src="my_profile2c.jpg" width="15%" height="15%">
 
-<br/><br/><br/><br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My email: [cm5099@yahoo.com](mailto:cm5099@yahoo.com)
-<br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 
 <!--<p align="center">
@@ -46,5 +44,7 @@ Check out
 <!--<a style="color:#8dd3c7" href="https://shimon-k.github.io/AGI-Course/">AGI Course</a>,-->
 <a style="color:#8dd3c7" href="/cv.html">Full CV</a>,
 <a style="color:#8dd3c7" href="/publications.html">Publications</a>.
+
+<!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->My email: [cm5099@yahoo.com](mailto:cm5099@yahoo.com)
 
 
