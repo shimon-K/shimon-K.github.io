@@ -18,6 +18,6 @@
   {%- if social.keybase -%}<li><a rel="me" href="https://keybase.io/{{ social.keybase | cgi_escape | escape }}" target="_blank" title="{{ social.keybase | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#keybase' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.microdotblog -%}<li><a rel="me" href="https://www.researchgate.net/profile/{{ social.microdotblog | cgi_escape | escape }}" target="_blank" title="{{ social.microdotblog | escape }}"><i class="ai ai-researchgate ai-fw"  style="font-size: 3.5em; color: grey"></i></a></li>{%- endif -%}
   {%- if social.devto -%}<li><a href="https://dev.to/{{ social.devto | cgi_escape | escape }}" target="_blank" title="{{ social.devto | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#devto' | relative_url }}"></use></svg></a></li>{%- endif -%}
-  {%- if social.orcid -%}<li><a href="https://orcid.org/{{ social.orcid | cgi_escape | escape }}" target="_blank" title="{{ social.orcid | escape }}"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" style="width: 3.5em; height: 3.5em; filter: grayscale(100%);"/></a></li>{%- endif -%}
+  {%- if social.orcid -%}<li><a href="https://orcid.org/{{ social.orcid | cgi_escape | escape }}" target="_blank" title="{{ social.orcid | escape }}"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" style="width: 3.5em; height: 3.5em; color: grey;"/></a></li>{%- endif -%}
 </ul>
 
