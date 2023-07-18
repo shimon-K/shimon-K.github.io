@@ -20,7 +20,7 @@ title: Contact
   <button type="submit">Send</button>
 </form>
 
-
+<!--
 <h2>Send me an E-mail:</h2>
 
 <form action="mailto:cm5099@yahoo.com" method="post" enctype="text/plain">
@@ -33,3 +33,4 @@ Comment:<br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form>
+-->
