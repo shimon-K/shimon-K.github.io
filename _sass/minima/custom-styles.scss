@@ -8,7 +8,8 @@
 .site-header {
   border-top: none;
   line-height: $base-line-height * $base-font-size * 3.25;
-  text-align: left;
+  align-items: center;
+  justify-items: center;
 }
 
 .site-title {
@@ -19,11 +20,14 @@
   margin-bottom: 15pt;
   color: #80b1d3 !important;
   text-decoration: none !important;
+  align-items: center;
+  justify-items: center;
 }
 
 .site-nav {
   top: 19px;
-  text-align: left
+  align-items: center;
+  justify-items: center;
 }
 
 /**
