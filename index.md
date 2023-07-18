@@ -6,8 +6,8 @@ layout: page
 ![My face](my_profile2c.jpg)
 </span>-->
 
+&nbsp; &nbsp; &nbsp; My email: [cm5099@yahoo.com](mailto:cm5099@yahoo.com)
 <img align="left" src="my_profile2c.jpg" width="15%" height="15%">
-                                                 My email: [cm5099@yahoo.com](mailto:cm5099@yahoo.com)
 
 <br/><br/><br/><br/><br/><br/>
 
