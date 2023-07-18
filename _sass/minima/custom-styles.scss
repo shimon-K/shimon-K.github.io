@@ -33,7 +33,10 @@
   top: 19px;
   text-align: left;
   //display: inline-block; /* Display the navigation menu inline */
-  white-space: nowrap; /* Prevent the navigation menu from wrapping */
+  //white-space: nowrap; /* Prevent the navigation menu from wrapping */
+  @media screen and (min-width: $on-medium) {
+    float: left;
+  }
 }
 
 /**
