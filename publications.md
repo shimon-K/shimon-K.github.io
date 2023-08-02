@@ -51,6 +51,11 @@ The research is mainly based on "Systems and Control" (017003) [Course](https://
 
 
 <a id="MOM"> </a>
-- Purposeful and Operation-based Cognitive System for AGI [[Full PrePrint](https://arxiv.org/abs/2301.13556)]<!--, [Video](https://www.youtube.com/watch?v=th82r6n59rU&list=PLvii8t7-Yebi6J25SyKbW5okEmZLME-fh&index=3&t=89s&ab_channel=ArtificialGeneralIntelligence), [Short Conference Paper](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_6)]-->
+- Purposeful and Operation-based Cognitive System for AGI [[Full PrePrint](https://arxiv.org/abs/2301.13556), [Video 1minute](https://youtu.be/6MlX7UHeAy0), [Video 7minute](https://youtu.be/mRM6OJTK5ZI), [Video 23minute](https://youtu.be/_I1KD4pBSk4)]<!--, [Short Conference Paper](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_6)]-->
+<div style="display: flex; justify-content: center;">
+  <figure style="margin: 0 0px; text-align: center;">
+    <figcaption style="font-weight: bold; font-size: 24px;">Model of Models (MOM)</figcaption>
+    <img src="MOM_5min_site.gif" alt="Image 3" style="width: 100%;">
+  </figure>
+</div>
 
-THE ANIMATION IS UNDER CONSTRUCTION
