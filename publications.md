@@ -17,7 +17,7 @@ The research is mainly based on "Systems and Control" (017003) [Course](https://
 
 ## Current Research
 
-- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress) [[Presented in TRB 2022 Conference](https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]
+- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress) [[Presented in TRB 2022 Conference](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/17520)] <!--https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]-->
 
 - PREFERENCE COMMANDS IN TRAFFIC SIGNAL CONTROL VIA DOUBLE DEEP Q-NETWORK (in progress)
 
