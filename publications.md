@@ -59,3 +59,6 @@ The research is mainly based on "Systems and Control" (017003) [Course](https://
   </figure>
 </div>
 
+
+
+Also reviewed papers at [ECAI2023 conference (see “Call to Arms” award)](https://ecai2023.eu/pca)
