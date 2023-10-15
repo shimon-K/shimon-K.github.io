@@ -62,4 +62,4 @@ The research is mainly based on "Systems and Control" (017003) [Course](https://
 
 ## Reviewing Role
 
-Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(see “Call to Arms” award)](https://ecai2023.eu/pca), at Transportation Research Record (TRR): [here](https://journals.sagepub.com/doi/10.1177/03611981231155024).
+Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(see “Call to Arms” award)](https://ecai2023.eu/pca), and at Transportation Research Record (TRR): [here](https://journals.sagepub.com/doi/10.1177/03611981231155024).
