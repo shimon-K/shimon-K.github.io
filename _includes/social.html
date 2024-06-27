@@ -20,5 +20,6 @@
   {%- if social.devto -%}<li><a href="https://dev.to/{{ social.devto | cgi_escape | escape }}" target="_blank" title="{{ social.devto | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#devto' | relative_url }}"></use></svg></a></li>{%- endif -%}
   <!--{%- if social.orcid -%}<li><a rel="me" href="https://orcid.org/{{ social.orcid | cgi_escape | escape }}" target="_blank" title="{{ social.orcid | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/icons/orcid2.svg' | relative_url }}"></use></svg></a></li>{%- endif -%}-->
   {%- if social.orcid -%}<li><a rel="me" href="https://orcid.org/{{ social.orcid | cgi_escape | escape }}" target="_blank" title="{{ social.orcid | escape }}"><img alt="ORCID logo" src="/assets/ORCID_iD.svg" style="width: 3.5em; height: 3.5em; filter: grayscale(100%);"/></a></li>{%- endif -%}
+  {%- if social.orcid -%}<li><a rel="me" href="https://orcid.org/{{ social.orcid | cgi_escape | escape }}" target="_blank" title="{{ social.orcid | escape }}"><img alt="ORCID logo" src="/assets/orcid.png" style="width: 3.5em; height: 3.5em; filter: grayscale(100%);"/></a></li>{%- endif -%}
 </ul>
 
