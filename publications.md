@@ -15,11 +15,13 @@ The research is mainly based on "Systems and Control" (017003) [Course](https://
 - Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[ECC19 Abstract](https://ieeexplore.ieee.org/document/8795981)] [[GSC19 Abstract](https://iaac.technion.ac.il/workshops/2019/GSC19abstracts.pdf)] [[Full pdf](https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/RobustICSignal_ECC19_v18.pdf)]
 
 
-## Current Research
+## PhD Degree
 
 - Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress) [[Presented in TRB 2022 Conference](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/17520)] <!--https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]-->
 
-- PREFERENCE COMMANDS IN TRAFFIC SIGNAL CONTROL VIA DOUBLE DEEP Q-NETWORK (in progress)
+- Preference commands in traffic signal control via Double Deep Q-Network (in progress)
+
+- Converting textual instructions into preference commands for traffic signal control (in progress)
 
 
 ## AGI papers
