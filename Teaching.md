@@ -23,4 +23,4 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 
 ## Courses
 
-- [AGI Course](https://shimon-K.github.io/AGI-Course/)<!--https://shimon-K.github.io/AGI-Course/--> (in construction)
+- [AGI Course]()<!--https://shimon-K.github.io/AGI-Course/--> (in construction)
