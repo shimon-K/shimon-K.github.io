@@ -12,9 +12,12 @@ layout: page
 
 ## Audio Player with Sections
 
+https://drive.google.com/file/d/1HmjQOolY1ubFoCN0AWnBXo_K2GH5BNJr/view?usp=drive_link
+
+
 ### Listen to the Audio:
 <audio controls id="audioPlayer">
-  <source src="interv1.mp3" type="audio/mpeg">
+  <source src="https://docs.google.com/uc?export=download&id=1HmjQOolY1ubFoCN0AWnBXo_K2GH5BNJr" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
