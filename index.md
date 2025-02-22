@@ -11,7 +11,7 @@ layout: page
 <br/><br/><br/><br/><br/><br/>
 
 Podcast:
-<audio controls id="audioPlayer" style="width: 500px; height: 50px">
+<audio controls id="audioPlayer" style="width: 100%;">
   <source src="https://archive.org/download/interv2/interv2.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
