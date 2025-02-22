@@ -10,22 +10,12 @@ layout: page
 
 <br/><br/><br/><br/><br/><br/>
 
-## Audio Player with Sections
-
-https://drive.google.com/file/d/1HmjQOolY1ubFoCN0AWnBXo_K2GH5BNJr/view?usp=drive_link
-
-NOW?2
-### Listen to the Audio:
+Podcast:
 <audio controls id="audioPlayer">
   <source src="https://archive.org/download/interv2/interv2.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
----
-
-### Jump to Sections:
-Click a section to play from that point:
-
+Jump to Sections:
 - <a href="#" onclick="setTime(0)">Introduction</a>  
 - <a href="#" onclick="setTime(75)">Topic 1 - Background</a>  
 - <a href="#" onclick="setTime(210)">Topic 2 - Main Discussion</a>  
@@ -40,14 +30,6 @@ function setTime(seconds) {
 </script>
 
 
-## Audio Player with Obsidian
-
-```audio-player
-[[interv1.mp3]]
-00:00:44 --- chapter
-00:00:57 --- chapter 2 
-00:01:40 --- chapter 3 in which nothing happened
-```
 
 
 
