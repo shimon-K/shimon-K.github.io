@@ -37,6 +37,14 @@ function setTime(seconds) {
 </script>
 
 
+```audio-player
+[[interv1.mp3]]
+00:00:44 --- chapter
+00:01:50 --- chapter 2 
+00:02:40 --- chapter 3 in which nothing happened
+```
+
+
 
 <!--<p align="center">
   <img src="DENN.gif" alt="Image 1" style="display: inline-block; width: 45%; margin: 0 20px;"><em>DENN</em>
