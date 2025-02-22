@@ -40,8 +40,8 @@ function setTime(seconds) {
 ```audio-player
 [[interv1.mp3]]
 00:00:44 --- chapter
-00:01:50 --- chapter 2 
-00:02:40 --- chapter 3 in which nothing happened
+00:00:57 --- chapter 2 
+00:01:40 --- chapter 3 in which nothing happened
 ```
 
 
