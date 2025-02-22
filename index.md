@@ -18,7 +18,7 @@ layout: page
 - **[05:45] Conclusion**  
 
 <audio controls id="audioPlayer">
-  <source src="https://drive.google.com/file/d/1HmjQOolY1ubFoCN0AWnBXo_K2GH5BNJr/view?usp=sharing" type="audio/mpeg">
+  <source src="https://docs.google.com/uc?export=download&id=1HmjQOolY1ubFoCN0AWnBXo_K2GH5BNJr" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
