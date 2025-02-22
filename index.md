@@ -29,7 +29,6 @@ function setTime(seconds) {
 </script>
 
 
-<br><br><br>
 
 
 <!--<p align="center">
