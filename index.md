@@ -17,8 +17,8 @@ Podcast:
 </audio>
 Jump to Sections:
 - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
-- <a href="#" onclick="setTime(75)">00:01:12 - Teaching importance</a>  
-- <a href="#" onclick="setTime(210)">00:02:34 - Ideas in AGI and to promote AGI</a>
+- <a href="#" onclick="setTime(1148)">00:19:08 - Teaching importance</a>  
+- <a href="#" onclick="setTime(2232)">00:37:12 - Ideas in AGI and to promote AGI</a>
 
 <script>
 function setTime(seconds) {
