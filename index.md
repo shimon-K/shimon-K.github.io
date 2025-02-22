@@ -14,7 +14,7 @@ layout: page
 
 ### Listen to the Audio:
 <audio controls id="audioPlayer">
-  <source src="https://docs.google.com/uc?export=download&id=1HmjQOolY1ubFoCN0AWnBXo_K2GH5BNJr" type="audio/mpeg">
+  <source src="interv1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
