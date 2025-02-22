@@ -16,10 +16,10 @@ Podcast:
   Your browser does not support the audio element.
 </audio>
 Jump to Sections:
-- <a href="#" onclick="setTime(0)">Introduction</a>  
-- <a href="#" onclick="setTime(75)">Topic 1 - Background</a>  
-- <a href="#" onclick="setTime(210)">Topic 2 - Main Discussion</a>  
-- <a href="#" onclick="setTime(345)">Conclusion</a>  
+- <a href="#" onclick="setTime(0)">00:00:00 Introduction</a>  
+- <a href="#" onclick="setTime(75)">00:01:12 Topic 1 - Background</a>  
+- <a href="#" onclick="setTime(210)">00:02:34 Topic 2 - Main Discussion</a>  
+- <a href="#" onclick="setTime(345)">00:12:34 Conclusion</a>  
 
 <script>
 function setTime(seconds) {
