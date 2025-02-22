@@ -10,6 +10,34 @@ layout: page
 
 <br/><br/><br/><br/><br/><br/>
 
+## Audio Sections
+
+- **[00:00] Introduction**  
+- **[01:15] Topic 1 - Background**  
+- **[03:30] Topic 2 - Main Discussion**  
+- **[05:45] Conclusion**  
+
+<audio controls id="audioPlayer">
+  <source src="full_podcast1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Jump to Sections
+Click on a section to play from that point:
+
+- <a href="#" onclick="setTime(0)">Introduction</a>
+- <a href="#" onclick="setTime(75)">Topic 1 - Background</a>
+- <a href="#" onclick="setTime(210)">Topic 2 - Main Discussion</a>
+- <a href="#" onclick="setTime(345)">Conclusion</a>
+
+<script>
+function setTime(seconds) {
+  var audio = document.getElementById("audioPlayer");
+  audio.currentTime = seconds;
+  audio.play();
+}
+</script>
+
 
 <!--<p align="center">
   <img src="DENN.gif" alt="Image 1" style="display: inline-block; width: 45%; margin: 0 20px;"><em>DENN</em>
