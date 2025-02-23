@@ -26,7 +26,19 @@ function setTime(seconds) {
   audio.currentTime = seconds;
   audio.play();
 }
+function rewind10sec(seconds) {
+  var audio = document.getElementById("audioPlayer");
+  audio.currentTime -= 10;
+  audio.play();
+}
+function forward10sec(seconds) {
+  var audio = document.getElementById("audioPlayer");
+  audio.currentTime += 10;
+  audio.play();
+}
+
 </script>
+
 
 
 <br><br><br>
