@@ -11,6 +11,27 @@ layout: page
 <br/><br/><br/><br/><br/><br/>
 
 
+<fieldset>
+  <legend>Select a maintenance drone:</legend>
+
+  <div>
+    <input type="radio" id="huey" name="drone" value="huey" checked />
+    <label for="huey">Huey</label>
+  </div>
+
+  <div>
+    <input type="radio" id="dewey" name="drone" value="dewey" />
+    <label for="dewey">Dewey</label>
+  </div>
+
+  <div>
+    <input type="radio" id="louie" name="drone" value="louie" />
+    <label for="louie">Louie</label>
+  </div>
+</fieldset>
+
+
+
 <audio controls id="audioPlayer" style="width: 100%;">
   <source src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
