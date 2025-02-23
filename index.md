@@ -10,8 +10,8 @@ layout: page
 
 <br/><br/><br/><br/><br/><br/>
 
-
-<form>
+<fieldset>
+ <form>
     <label class="radio-inline">
       <input type="radio" name="optradio" checked>Option 1
     </label>
@@ -21,8 +21,8 @@ layout: page
     <label class="radio-inline">
       <input type="radio" name="optradio">Option 3
     </label>
-  </form>
-  
+ </form>
+</fieldset>  
 
 <fieldset>
   <legend>Select a maintenance drone:</legend>
