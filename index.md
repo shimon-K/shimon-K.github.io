@@ -15,6 +15,8 @@ layout: page
   <source src="https://archive.org/download/full_podcast1/full_podcast1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+<button id="rewind" disabled onclick="rewind10sec()">Rewind 10&nbsp;s</button>
+<button id="forward" disabled onclick="forward10sec()">Forward 10&nbsp;s</button>
 Jump to Sections:
 - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
 - <a href="#" onclick="setTime(1148)">00:19:08 - Teaching importance</a>  
@@ -26,12 +28,12 @@ function setTime(seconds) {
   audio.currentTime = seconds;
   audio.play();
 }
-function rewind10sec(seconds) {
+function rewind10sec() {
   var audio = document.getElementById("audioPlayer");
   audio.currentTime -= 10;
   audio.play();
 }
-function forward10sec(seconds) {
+function forward10sec() {
   var audio = document.getElementById("audioPlayer");
   audio.currentTime += 10;
   audio.play();
