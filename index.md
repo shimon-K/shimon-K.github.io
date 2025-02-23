@@ -15,7 +15,7 @@ input {
     vertical-align: middle
 }
 
-<fieldset>
+<fieldset style="display:block">
   <legend>Select a maintenance drone:</legend>
 
   <div>
