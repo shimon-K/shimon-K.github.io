@@ -96,7 +96,7 @@ function forward10sec() {
 
   // Attach event listeners to update messages when selection changes
   document.querySelectorAll('input[name="option"]').forEach(radio => {
-    radio.addEventListener("change", updateMessage);
+    radio.addEventListener("change", updateContent);
   });
 </script>
 
