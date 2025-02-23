@@ -50,7 +50,13 @@ function forward10sec() {
   audio.currentTime += 10;
   //audio.play();
 }
+function showText() {
+    document.getElementById("message").style.display = "block";
+  }
 
+  function hideText() {
+    document.getElementById("message").style.display = "none";
+  }
 </script>
 
 
