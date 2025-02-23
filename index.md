@@ -20,8 +20,8 @@ layout: page
 <br>
 Jump to Sections:
 - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
-- <a href="#" onclick="setTime(1148)">00:19:08 - Teaching importance</a>  
-- <a href="#" onclick="setTime(2232)">00:37:12 - Ideas in AGI and to promote AGI</a>
+- <a href="#" onclick="setTime(1162)">00:19:22 - Teaching importance</a>  
+- <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a>
 
 <script>
 function setTime(seconds) {
