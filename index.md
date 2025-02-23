@@ -22,9 +22,9 @@ layout: page
   <div class="fieldgroup">
     <input type="radio" id="dewey" name="drone" value="dewey" />
     <label for="dewey">Dewey</label>
-  </div class="fieldgroup">
+  </div>
 
-  <div>
+  <div class="fieldgroup">
     <input type="radio" id="louie" name="drone" value="louie" />
     <label for="louie">Louie</label>
   </div>
