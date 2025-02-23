@@ -66,7 +66,7 @@ function forward10sec() {
 //     document.getElementById("message1").style.display = "none";
 //     document.getElementById("message2").style.display = "none";
 // }
- function updateMessage() {
+ function updateContent() {
     let option1 = document.getElementById("option1").checked;
     let option2 = document.getElementById("option2").checked;
     
