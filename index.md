@@ -88,7 +88,7 @@ function forward10sec() {
     // }
 
     audioPlayer.load(); // Refresh audio player to apply new source
-    audioPlayer.play(); // Auto-play new selection
+    // audioPlayer.play(); // Auto-play new selection
   }
 
   // Run when the page loads
