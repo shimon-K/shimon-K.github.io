@@ -32,12 +32,12 @@ function setTime(seconds) {
 function rewind10sec() {
   var audio = document.getElementById("audioPlayer");
   audio.currentTime -= 10;
-  #audio.play();
+  //audio.play();
 }
 function forward10sec() {
   var audio = document.getElementById("audioPlayer");
   audio.currentTime += 10;
-  #audio.play();
+  //audio.play();
 }
 
 </script>
