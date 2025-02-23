@@ -12,7 +12,7 @@ layout: page
 
 
 <audio controls id="audioPlayer" style="width: 100%;">
-  <source src="https://archive.org/download/full_podcast1/full_podcast1.mp3" type="audio/mpeg">
+  <source src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <button id="rewind" onclick="rewind10sec()">Rewind 10&nbsp;s</button>
