@@ -13,18 +13,26 @@ layout: page
 <fieldset>
  <form>
     <label class="radio-inline">
-      <input type="radio" name="optradio" checked>Podcast 1
-     <audio controls id="audioPlayer" style="width: 100%;">
+      <input type="radio" name="optradio" checked>Podcast 1     
+    </label>
+    <label class="radio-inline">
+      <input type="radio" name="optradio">Podcast 2 - AI conversation
+    </label>
+ </form>
+<audio controls id="audioPlayer" style="width: 100%;">
   <source src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <button id="rewind" onclick="rewind10sec()">Rewind 10&nbsp;s</button>
 <button id="forward" onclick="forward10sec()">Forward 10&nbsp;s</button>
-<br>
-Jump to Sections:
-- <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
-- <a href="#" onclick="setTime(1162)">00:19:22 - Teaching importance</a>  
-- <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a>
+<div id="message" style="display: none;">
+    Jump to Sections:
+    - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
+    - <a href="#" onclick="setTime(1162)">00:19:22 - Teaching importance</a>  
+    - <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a>
+ </div>
+</fieldset>  
+
 
 <script>
 function setTime(seconds) {
@@ -44,14 +52,6 @@ function forward10sec() {
 }
 
 </script>
-
-    </label>
-    <label class="radio-inline">
-      <input type="radio" name="optradio">Podcast 2 - AI conversation
-    </label>
- </form>
-</fieldset>  
-
 
 
 
