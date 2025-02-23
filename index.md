@@ -26,10 +26,10 @@ layout: page
 <button id="rewind" onclick="rewind10sec()">Rewind 10&nbsp;s</button>
 <button id="forward" onclick="forward10sec()">Forward 10&nbsp;s</button>
 <div id="message1" style="display: none;">    
-    Jump to Sections:
-    - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
-    - <a href="#" onclick="setTime(1162)">00:19:22 - Teaching importance</a>  
-    - <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a>
+    Jump to Sections:<br>
+    - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a><br>
+    - <a href="#" onclick="setTime(1162)">00:19:22 - Teaching importance</a><br>
+    - <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a><br>
 </div>
 <div id="message2" style="display: none;">
     ✅ Message for **Option 2**: This is the second choice!
