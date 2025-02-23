@@ -32,7 +32,9 @@ layout: page
     - <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a><br>
 </div>
 <div id="message2" style="display: none;">
-    ✅ Message for **Option 2**: This is the second choice!
+    Jump to Sections:<br>
+    - <a href="#" onclick="setTime(0)">00:00:00 - Part 1</a><br>
+    - <a href="#" onclick="setTime(1162)">00:19:22 - Part 2</a><br>
 </div>
 </fieldset>  
 
@@ -65,8 +67,28 @@ function forward10sec() {
 //     document.getElementById("message2").style.display = "none";
 // }
  function updateMessage() {
-    document.getElementById("message1").style.display = document.getElementById("option1").checked ? "block" : "none";
-    document.getElementById("message2").style.display = document.getElementById("option2").checked ? "block" : "none";
+    let option1 = document.getElementById("option1").checked;
+    let option2 = document.getElementById("option2").checked;
+    
+    // Handle messages
+    document.getElementById("message1").style.display = option1 ? "block" : "none";
+    document.getElementById("message2").style.display = option2 ? "block" : "none";
+
+    // Handle audio source
+    let audioPlayer = document.getElementById("audioPlayer");
+    let audioSource = document.getElementById("audioSource");
+
+    if (option1) {
+      audioSource.src = "https://archive.org/download/full_podcast1/full_podcast1b.mp3";
+    } else if (option2) {
+      audioSource.src = "https://archive.org/download/full_podcast2/full_podcast2.mp3";
+    } 
+    // else {
+    //   audioSource.src = "https://archive.org/download/test-audio-file/test-audio-file.mp3";
+    // }
+
+    audioPlayer.load(); // Refresh audio player to apply new source
+    audioPlayer.play(); // Auto-play new selection
   }
 
   // Run when the page loads
