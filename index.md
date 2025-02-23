@@ -18,12 +18,10 @@ layout: page
     <input type="radio" id="huey" name="drone" value="huey" checked />
     <label for="huey">Huey</label>
   </div>
-
   <div class="fieldgroup" style="display:flex; margin-left: 10px">
     <input type="radio" id="dewey" name="drone" value="dewey" />
     <label for="dewey">Dewey</label>
   </div>
-
   <div class="fieldgroup" style="display:flex; margin-left: 10px">
     <input type="radio" id="louie" name="drone" value="louie" />
     <label for="louie">Louie</label>
