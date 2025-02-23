@@ -13,7 +13,7 @@ layout: page
 <fieldset>
  <form>
     <label class="radio-inline">
-      <input type="radio" name="option" value="1" onclick="showMessage(1)" checked>Podcast 1     
+      <input type="radio" name="option" value="1" onclick="showMessage(1)" onload="showMessage(1)" checked>Podcast 1     
     </label>
     <label class="radio-inline">
       <input type="radio" name="option" value="2" onclick="showMessage(2)">Podcast 2 - AI conversation
