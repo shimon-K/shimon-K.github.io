@@ -24,28 +24,6 @@ layout: page
  </form>
 </fieldset>  
 
-<fieldset>
-  <legend>Select a maintenance drone:</legend>
-
-  <div class="fieldgroup" style="display:flex; margin-left: 10px">
-    <input type="radio" id="huey" name="drone" value="huey" checked />
-    <label for="huey">Huey</label>
-  </div>
-  <div class="fieldgroup" style="display:flex; margin-left: 10px">
-    <input type="radio" id="dewey" name="drone" value="dewey" />
-    <label for="dewey">Dewey</label>
-  </div>
-  <div class="fieldgroup" style="display:flex; margin-left: 10px">
-    <input type="radio" id="louie" name="drone" value="louie" />
-    <label for="louie">Louie</label>
-  </div>
-</fieldset>
-
-.fieldgroup{
-   float: left;
-   width: auto;
-   margin-left: 3em;
-}
 
 <audio controls id="audioPlayer" style="width: 100%;">
   <source src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
