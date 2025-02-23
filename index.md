@@ -34,7 +34,7 @@ layout: page
 <div id="message2" style="display: none;">
     Jump to Sections:<br>
     - <a href="#" onclick="setTime(0)">00:00:00 - Part 1</a><br>
-    - <a href="#" onclick="setTime(662)">00:08:22 - Part 2</a><br>
+    - <a href="#" onclick="setTime(443)">00:07:23 - Part 2</a><br>
 </div>
 </fieldset>  
 
