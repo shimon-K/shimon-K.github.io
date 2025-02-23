@@ -11,18 +11,18 @@ layout: page
 <br/><br/><br/><br/><br/><br/>
 
 
-<fieldset style="display:block">
+<fieldset>
   <legend>Select a maintenance drone:</legend>
 
-  <div>
+  <div class="fieldgroup">
     <input type="radio" id="huey" name="drone" value="huey" checked />
     <label for="huey">Huey</label>
   </div>
 
-  <div>
+  <div class="fieldgroup">
     <input type="radio" id="dewey" name="drone" value="dewey" />
     <label for="dewey">Dewey</label>
-  </div>
+  </div class="fieldgroup">
 
   <div>
     <input type="radio" id="louie" name="drone" value="louie" />
@@ -30,7 +30,11 @@ layout: page
   </div>
 </fieldset>
 
-
+.fieldgroup{
+   float: left;
+   width: auto;
+   margin-left: 3em;
+}
 
 <audio controls id="audioPlayer" style="width: 100%;">
   <source src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
