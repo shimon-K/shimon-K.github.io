@@ -92,7 +92,7 @@ function forward10sec() {
   }
 
   // Run when the page loads
-  window.onload = updateMessage;
+  window.onload = updateContent;
 
   // Attach event listeners to update messages when selection changes
   document.querySelectorAll('input[name="option"]').forEach(radio => {
