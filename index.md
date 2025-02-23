@@ -13,19 +13,8 @@ layout: page
 <fieldset>
  <form>
     <label class="radio-inline">
-      <input type="radio" name="optradio" checked>Option 1
-    </label>
-    <label class="radio-inline">
-      <input type="radio" name="optradio">Option 2
-    </label>
-    <label class="radio-inline">
-      <input type="radio" name="optradio">Option 3
-    </label>
- </form>
-</fieldset>  
-
-
-<audio controls id="audioPlayer" style="width: 100%;">
+      <input type="radio" name="optradio" checked>Podcast 1
+     <audio controls id="audioPlayer" style="width: 100%;">
   <source src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
@@ -55,6 +44,15 @@ function forward10sec() {
 }
 
 </script>
+
+    </label>
+    <label class="radio-inline">
+      <input type="radio" name="optradio">Podcast 2 - AI conversation
+    </label>
+ </form>
+</fieldset>  
+
+
 
 
 
