@@ -10,6 +10,10 @@ layout: page
 
 <br/><br/><br/><br/><br/><br/>
 
+input {
+    display: table-cell;
+    vertical-align: middle
+}
 
 <fieldset>
   <legend>Select a maintenance drone:</legend>
