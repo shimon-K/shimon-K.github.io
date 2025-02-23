@@ -52,11 +52,10 @@ function forward10sec() {
 }
 function showText() {
     document.getElementById("message").style.display = "block";
-  }
-
-  function hideText() {
+}
+function hideText() {
     document.getElementById("message").style.display = "none";
-  }
+}
 </script>
 
 
