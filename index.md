@@ -17,6 +17,7 @@ layout: page
 </audio>
 <button id="rewind" onclick="rewind10sec()">Rewind 10&nbsp;s</button>
 <button id="forward" onclick="forward10sec()">Forward 10&nbsp;s</button>
+<br>
 Jump to Sections:
 - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a>  
 - <a href="#" onclick="setTime(1148)">00:19:08 - Teaching importance</a>  
