@@ -13,10 +13,10 @@ layout: page
 <fieldset>
  <form>
     <label class="radio-inline">
-      <input type="radio" name="optradio" checked>Podcast 1     
+      <input type="radio" name="option" value="1" onclick="showMessage(1) checked>Podcast 1     
     </label>
     <label class="radio-inline">
-      <input type="radio" name="optradio">Podcast 2 - AI conversation
+      <input type="radio" name="option" value="2" onclick="showMessage(2)>Podcast 2 - AI conversation
     </label>
  </form>
 <audio controls id="audioPlayer" style="width: 100%;">
@@ -50,11 +50,13 @@ function forward10sec() {
   audio.currentTime += 10;
   //audio.play();
 }
-function showText() {
-    document.getElementById("message").style.display = "block";
+function showMessage(option) {
+    document.getElementById("message1").style.display = (option === 1) ? "block" : "none";
+    document.getElementById("message2").style.display = (option === 2) ? "block" : "none";
 }
-function hideText() {
-    document.getElementById("message").style.display = "none";
+function hideMessages() {
+    document.getElementById("message1").style.display = "none";
+    document.getElementById("message2").style.display = "none";
 }
 </script>
 
