@@ -11,6 +11,7 @@ layout: page
 <br/><br/><br/><br/><br/><br/>
 
 <fieldset>
+ <legend>2025 PodCasts:</legend>
  <form>
     <label class="radio-inline">
       <input type="radio" name="option" value="1" id="option1" checked>Podcast 1     
@@ -20,7 +21,7 @@ layout: page
     </label>
  </form>
 <audio controls id="audioPlayer" style="width: 100%;">
-  <source id="audioSource" src="https://archive.org/download/full_podcast1/full_podcast1b.mp3" type="audio/mpeg">
+  <source id="audioSource" src="https://archive.org/download/full_podcast1/full_podcast1c.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <button id="rewind" onclick="rewind10sec()">Rewind 10&nbsp;s</button>
@@ -79,7 +80,7 @@ function forward10sec() {
     let audioSource = document.getElementById("audioSource");
 
     if (option1) {
-      audioSource.src = "https://archive.org/download/full_podcast1/full_podcast1b.mp3";
+      audioSource.src = "https://archive.org/download/full_podcast1/full_podcast1c.mp3";
     } else if (option2) {
       audioSource.src = "https://archive.org/download/full_podcast2/full_podcast2.mp3";
     } 
