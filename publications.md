@@ -5,6 +5,8 @@ title: Media
 ---
 
 
+For publications in education studies, see [here](https://shimon-k.github.io/AGI-Course/en/Deep%20Learning/01-4#pub_education).
+
 
 <fieldset>
  <legend>2025 PodCasts:</legend>
@@ -149,6 +151,8 @@ Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(se
 
 
 
+<a id="pub_education"> </a>
+# Publications in my studies
 
 ## Masters Degree
 
