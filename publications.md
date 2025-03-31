@@ -7,6 +7,7 @@ title: Media
 
 For publications in education studies, see [here](https://shimon-k.github.io/publications.html#pub_education).
 
+<br/><br/><br/>
 
 <fieldset>
  <legend>2025 PodCasts:</legend>
@@ -143,12 +144,7 @@ function forward10sec() {
 </div>
 
 
-## Reviewing Role
-
-Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(see “Call to Arms” award)](https://ecai2023.eu/pca), and at Transportation Research Record (TRR): [here](https://journals.sagepub.com/doi/10.1177/03611981231155024), [here](https://journals.sagepub.com/doi/epub/10.1177/03611981221077091), and [here](https://www.webofscience.com/wos/author/record/GPK-8305-2022).
-
-
-
+<br/><br/><br/>
 
 
 <a id="pub_education"> </a>
@@ -176,5 +172,13 @@ The research is mainly based on "Planning and Reinforcement Learning" (046203) [
 - Preference commands in traffic signal control via Double Deep Q-Network (in progress)
 
 - Converting textual instructions into preference commands for traffic signal control (in progress)
+
+
+
+## Reviewing Role
+
+Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(see “Call to Arms” award)](https://ecai2023.eu/pca), and at Transportation Research Record (TRR): [here](https://journals.sagepub.com/doi/10.1177/03611981231155024), [here](https://journals.sagepub.com/doi/epub/10.1177/03611981221077091), and [here](https://www.webofscience.com/wos/author/record/GPK-8305-2022).
+
+
 
 
