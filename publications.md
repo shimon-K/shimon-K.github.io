@@ -6,30 +6,101 @@ title: Media
 
 
 
-## Masters Degree
+<fieldset>
+ <legend>2025 PodCasts:</legend>
+ <form>
+    <label class="radio-inline">
+      <input type="radio" name="option" value="1" id="option1" checked>Podcast 1     
+    </label>
+    <label class="radio-inline">
+      <input type="radio" name="option" value="2" id="option2">Podcast 2 - AI conversation
+    </label>
+ </form>
+<audio controls id="audioPlayer" style="width: 100%;">
+  <source id="audioSource" src="https://archive.org/download/full_podcast1/full_podcast1c.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<button id="rewind" onclick="rewind10sec()">Rewind 10&nbsp;s</button>
+<button id="forward" onclick="forward10sec()">Forward 10&nbsp;s</button>
+<div id="message1" style="display: none;">    
+    Jump to Sections:<br>
+    - <a href="#" onclick="setTime(0)">00:00:00 - Background and AGI verse AI</a><br>
+    - <a href="#" onclick="setTime(1162)">00:19:22 - Teaching importance</a><br>
+    - <a href="#" onclick="setTime(2245)">00:37:25 - Ideas in AGI and to promote AGI</a><br>
+</div>
+<div id="message2" style="display: none;">
+    Jump to Sections:<br>
+    - <a href="#" onclick="setTime(0)">00:00:00 - Part 1</a><br>
+    - <a href="#" onclick="setTime(443)">00:07:23 - Part 2</a><br>
+</div>
+</fieldset>  
 
-The research is mainly based on "Systems and Control" (017003) [Course](https://shimon-K.github.io/cv.html#Control), specifically on the ideas of Interpolating Control (IC) and Model Predictive Control (MPC).
-
-- Robust Traffic Signal Control for Uncertain Road Networks (M.Sc Thesis) [[Abstract](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] [[Full pdf](https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/Shimon_Theses_ALL.pdf)]
-
-- Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[ECC19 Abstract](https://ieeexplore.ieee.org/document/8795981)] [[GSC19 Abstract](https://iaac.technion.ac.il/workshops/2019/GSC19abstracts.pdf)] [[Full pdf](https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/RobustICSignal_ECC19_v18.pdf)]
 
 
 
 
-## PhD Degree
+<script>
+function setTime(seconds) {
+  var audio = document.getElementById("audioPlayer");
+  audio.currentTime = seconds;
+  audio.play();
+}
+function rewind10sec() {
+  var audio = document.getElementById("audioPlayer");
+  audio.currentTime -= 10;
+  //audio.play();
+}
+function forward10sec() {
+  var audio = document.getElementById("audioPlayer");
+  audio.currentTime += 10;
+  //audio.play();
+}
+// function showMessage(option) {
+//     document.getElementById("message1").style.display = (option === 1) ? "block" : "none";
+//     document.getElementById("message2").style.display = (option === 2) ? "block" : "none";
+// }
+// function hideMessages() {
+//     document.getElementById("message1").style.display = "none";
+//     document.getElementById("message2").style.display = "none";
+// }
+ function updateContent() {
+    let option1 = document.getElementById("option1").checked;
+    let option2 = document.getElementById("option2").checked;
+    
+    // Handle messages
+    document.getElementById("message1").style.display = option1 ? "block" : "none";
+    document.getElementById("message2").style.display = option2 ? "block" : "none";
 
-The research is mainly based on "Planning and Reinforcement Learning" (046203) [Course](https://students.technion.ac.il/local/technionsearch/course/46203), specifically on the ideas of Q-learning, Deep-Q-Learning (DQN). Included implementation of graph neural networks (GNNs), both in supervised learning and in reinforcement learning approaches. Also fine-tuning GPT language model with GNNs on synthetic dataset.
+    // Handle audio source
+    let audioPlayer = document.getElementById("audioPlayer");
+    let audioSource = document.getElementById("audioSource");
 
-- Artificial Intelligence in Traffic Signal Control for Large-Scale Urban Networks (Ph.D. Thesis) [[Abstract - In progress](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] (Disclosed due to paper review)
+    if (option1) {
+      audioSource.src = "https://archive.org/download/full_podcast1/full_podcast1c.mp3";
+    } else if (option2) {
+      audioSource.src = "https://archive.org/download/full_podcast2/full_podcast2.mp3";
+    } 
+    // else {
+    //   audioSource.src = "https://archive.org/download/test-audio-file/test-audio-file.mp3";
+    // }
 
-- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress) [[Presented in TRB 2022 Conference](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/17520)] <!--https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]-->
+    audioPlayer.load(); // Refresh audio player to apply new source
+    // audioPlayer.play(); // Auto-play new selection
+  }
 
-- Preference commands in traffic signal control via Double Deep Q-Network (in progress)
+  // Run when the page loads
+  window.onload = updateContent;
 
-- Converting textual instructions into preference commands for traffic signal control (in progress)
+  // Attach event listeners to update messages when selection changes
+  document.querySelectorAll('input[name="option"]').forEach(radio => {
+    radio.addEventListener("change", updateContent);
+  });
+</script>
 
 
+
+
+<br><br><br>
 
 
 ## AGI papers
@@ -73,3 +144,33 @@ The research is mainly based on "Planning and Reinforcement Learning" (046203) [
 ## Reviewing Role
 
 Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(see “Call to Arms” award)](https://ecai2023.eu/pca), and at Transportation Research Record (TRR): [here](https://journals.sagepub.com/doi/10.1177/03611981231155024), [here](https://journals.sagepub.com/doi/epub/10.1177/03611981221077091), and [here](https://www.webofscience.com/wos/author/record/GPK-8305-2022).
+
+
+
+
+
+
+## Masters Degree
+
+The research is mainly based on "Systems and Control" (017003) [Course](https://shimon-K.github.io/cv.html#Control), specifically on the ideas of Interpolating Control (IC) and Model Predictive Control (MPC).
+
+- Robust Traffic Signal Control for Uncertain Road Networks (M.Sc Thesis) [[Abstract](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] [[Full pdf](https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/Shimon_Theses_ALL.pdf)]
+
+- Robust Interpolating Traffic Signal Control for Uncertain Road Networks [[ECC19 Abstract](https://ieeexplore.ieee.org/document/8795981)] [[GSC19 Abstract](https://iaac.technion.ac.il/workshops/2019/GSC19abstracts.pdf)] [[Full pdf](https://github.com/shimon-K/shimon-K.github.io/blob/main/_Publications/RobustICSignal_ECC19_v18.pdf)]
+
+
+
+
+## PhD Degree
+
+The research is mainly based on "Planning and Reinforcement Learning" (046203) [Course](https://students.technion.ac.il/local/technionsearch/course/46203), specifically on the ideas of Q-learning, Deep-Q-Learning (DQN). Included implementation of graph neural networks (GNNs), both in supervised learning and in reinforcement learning approaches. Also fine-tuning GPT language model with GNNs on synthetic dataset.
+
+- Artificial Intelligence in Traffic Signal Control for Large-Scale Urban Networks (Ph.D. Thesis) [[Abstract - In progress](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] (Disclosed due to paper review)
+
+- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress) [[Presented in TRB 2022 Conference](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/17520)] <!--https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]-->
+
+- Preference commands in traffic signal control via Double Deep Q-Network (in progress)
+
+- Converting textual instructions into preference commands for traffic signal control (in progress)
+
+
