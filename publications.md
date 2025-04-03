@@ -107,11 +107,11 @@ function forward10sec() {
 
 ## Medium Articles
 
-<a target="_blank" href="https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0" alt="Recent Article 0" height="300"> 
+- <a target="_blank" href="https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0" alt="Recent Article 0" height="300"> 
 
 <br/>
 
-<a target="_blank" href="https://medium.com/@theAGI/general-artificial-intelligence-is-it-possible-5bcf5b987029"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/1" alt="Recent Article 1"> 
+- <a target="_blank" href="https://medium.com/@theAGI/general-artificial-intelligence-is-it-possible-5bcf5b987029"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/1" alt="Recent Article 1"> 
 
 
 
