@@ -21,6 +21,7 @@ minima:
     youtube_channel: ArtificialGeneralIntelligence
     youtube_channel_name: Shimon Komarovsky
     microdotblog: Shimon-Komarovsky
+    medium: theAGI
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
