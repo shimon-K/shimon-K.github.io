@@ -105,7 +105,16 @@ function forward10sec() {
 
 <br><br><br>
 
+## Medium Articles
 
+> **[Title of Your Medium Article](https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd)**
+>  
+> _A brief description of your article._
+
+<iframe src="https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd" width="700" height="500"></iframe>
+
+
+<br><br><br>
 ## AGI papers
 
 <a id="DENN"> </a>
