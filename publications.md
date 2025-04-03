@@ -107,13 +107,9 @@ function forward10sec() {
 
 ## Medium Articles
 
-> **[Title of Your Medium Article](https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd)**
->  
-> _A brief description of your article._
-
-<iframe src="https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd" width="700" height="500"></iframe>
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/1" alt="Recent Article 1"> 
 
 
 
