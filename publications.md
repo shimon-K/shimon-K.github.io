@@ -103,17 +103,19 @@ function forward10sec() {
 
 
 
-<br><br><br>
+<br/><br/><br/>
 
 ## Medium Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0" alt="Recent Article 0"> 
+
+<br/>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/1" alt="Recent Article 1"> 
 
 
 
-<br><br><br>
+<br/><br/><br/>
 ## AGI papers
 
 <a id="DENN"> </a>
