@@ -175,7 +175,7 @@ The research is mainly based on "Planning and Reinforcement Learning" (046203) [
 
 - Artificial Intelligence in Traffic Signal Control for Large-Scale Urban Networks (Ph.D. Thesis) [[Abstract - In progress](https://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=32352)] (Disclosed due to paper review)
 
-- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks (in progress) [[Presented in TRB 2022 Conference](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/17520)] <!--https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]-->
+- Spatio-temporal Graph Convolutional Neural Network for traffic signal control in large-scale urban networks [[Full Article](https://www.sciencedirect.com/science/article/pii/S2590198225001617)] [[Presented in TRB 2022 Conference](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/17520)] <!--https://onlinepubs.trb.org/onlinepubs/am/SessionsEvents.pdf)]-->
 
 - Preference commands in traffic signal control via Double Deep Q-Network (in progress)
 
