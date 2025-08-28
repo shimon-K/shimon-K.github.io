@@ -22,16 +22,18 @@ For publications in education studies, see [here](https://shimon-k.github.io/pub
 <a target="_blank" href="https://alumni.technion.ac.il/podcasts/shimon/"><img src="https://shimon-k.github.io/Graphics/technionists.jpg" alt="Recent Article 0"></a>
 
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://alumni.technion.ac.il/podcasts/shimon/" target="_blank" style="text-decoration: none; color: #0055aa;">
-    <img 
-      src="https://shimon-k.github.io/Graphics/technionists.jpg" 
-      alt="Technion Alumni Podcast - Shimon" 
-      style="width: 250px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"
-    >
-    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">🎧 Listen to My Technion Alumni Podcast</p>
-  </a>
-</div>
+
+<a href="https://alumni.technion.ac.il/podcasts/shimon/" target="_blank" style="text-decoration: none;">
+  <img 
+    src="https://alumni.technion.ac.il/wp-content/uploads/2023/06/podcast-cover.jpg" 
+    alt="Technion Alumni Podcast - Shimon" 
+    style="width: 300px; max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  >
+</a>
+
+
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://alumni.technion.ac.il/podcasts/shimon/" target="_blank" style="text-decoration: none; color: #0055aa;">
