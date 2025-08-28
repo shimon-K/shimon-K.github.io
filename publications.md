@@ -12,6 +12,16 @@ For publications in education studies, see [here](https://shimon-k.github.io/pub
 
 ## Podcasts
 
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://alumni.technion.ac.il/podcasts/shimon/" target="_blank" style="text-decoration: none; color: #0055aa;">
+    <img 
+      src="https://alumni.technion.ac.il/wp-content/uploads/2023/06/podcast-cover.jpg" 
+      alt="Technion Alumni Podcast - Shimon" 
+      style="width: 250px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"
+    >
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">🎧 Listen to My Technion Alumni Podcast</p>
+  </a>
+</div>
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://alumni.technion.ac.il/podcasts/shimon/" target="_blank" style="text-decoration: none; color: #0055aa;">
