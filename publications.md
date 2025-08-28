@@ -39,7 +39,10 @@ For publications in education studies, see [here](https://shimon-k.github.io/pub
       alt="Technion Alumni Podcast - Shimon" 
       style="width: 250px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);"
     >
-    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">🎧 Listen to My Technion Alumni Podcast\\(for Hebrew speakers)</p>
+    <p style="margin-top: 10px; font-size: 18px; font-weight: bold;">
+      🎧 Listen to My Technion Alumni Podcast <br>
+      (for Hebrew speakers)
+    </p>
   </a>
 </div>
 
