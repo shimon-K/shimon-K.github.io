@@ -25,7 +25,7 @@ For publications in education studies, see [here](https://shimon-k.github.io/pub
 
 <a href="https://alumni.technion.ac.il/podcasts/shimon/" target="_blank" style="text-decoration: none;">
   <img 
-    src="https://alumni.technion.ac.il/wp-content/uploads/2023/06/podcast-cover.jpg" 
+    src="https://shimon-k.github.io/Graphics/technionists.jpg" 
     alt="Technion Alumni Podcast - Shimon" 
     style="width: 300px; max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;"
     onmouseover="this.style.transform='scale(1.05)'" 
