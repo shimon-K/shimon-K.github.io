@@ -15,6 +15,10 @@ For publications in education studies, see [here](https://shimon-k.github.io/pub
 
 <!--https://github.com/shimon-K/shimon-K.github.io/blob/main/Graphics/technionists.jpg-->
 
+
+[![Listen to my Technion Alumni Podcast](https://shimon-k.github.io/Graphics/technionists.jpg)](https://alumni.technion.ac.il/podcasts/shimon/)
+
+
 <a target="_blank" href="https://alumni.technion.ac.il/podcasts/shimon/"><img src="https://shimon-k.github.io/Graphics/technionists.jpg" alt="Recent Article 0"></a>
 
 
