@@ -6,7 +6,7 @@ layout: page
 ![My face](https://shimon-k.github.io/Graphics/my_profile2c.jpg)
 </span>-->
 
-<img align="left" src="my_profile2c.jpg" width="15%" height="15%">
+<img align="left" src="https://shimon-k.github.io/Graphics/my_profile2c.jpg" width="15%" height="15%">
 
 <br/><br/><br/><br/><br/><br/>
 
