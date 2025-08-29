@@ -160,7 +160,7 @@ function forward10sec() {
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
     <figcaption style="font-weight: bold; font-size: 24px;">Dynamic and Evolving Neural Network (DENN)</figcaption>
-    <img src="DENN.gif" alt="Image 1" style="width: 100%;">
+    <img src="https://shimon-k.github.io/Graphics/DENN.gif" alt="Image 1" style="width: 100%;">
   </figure>
 </div>
 
@@ -173,7 +173,7 @@ function forward10sec() {
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
     <figcaption style="font-weight: bold; font-size: 24px;">Associative Knowledge Representation Model (AKREM)</figcaption>
-    <img src="AKREM_for_site_long_version (2).gif" alt="Image 1" style="width: 100%;">
+    <img src="https://shimon-k.github.io/Graphics/AKREM_for_site_long_version (2).gif" alt="Image 1" style="width: 100%;">
   </figure>
 </div>
 
@@ -186,7 +186,7 @@ function forward10sec() {
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 0 0px; text-align: center;">
     <figcaption style="font-weight: bold; font-size: 24px;">Model of Models (MOM)</figcaption>
-    <img src="MOM_5min_site.gif" alt="Image 3" style="width: 100%;">
+    <img src="https://shimon-k.github.io/Graphics/MOM_5min_site.gif" alt="Image 3" style="width: 100%;">
   </figure>
 </div>
 
