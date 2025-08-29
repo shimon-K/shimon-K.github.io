@@ -222,6 +222,18 @@ The research is mainly based on "Planning and Reinforcement Learning" (046203) [
 
 
 
+## Post-Doc Role
+
+
+Research around applying and implementing AI tools in optimization and modeling problems in Water distribution Systems (WDSs).
+
+- Assessing equitable access to safe and affordable water during COVID-19: Agent-based modeling for tap water avoidance behaviors [Full Article](https://www.sciencedirect.com/science/article/pii/S2210670725003920)
+
+- Assessing the Sensitivity of Sociotechnical Water Distribution Systems to Uncertainty in Consumer Behaviors: Social Distancing and Demand Changes During the COVID-19 Pandemic [Full Article](https://www.mdpi.com/2073-4441/17/13/1965)
+
+- Equitable Access to Affordable and Clean Water in Pre-Pandemic, Pandemic, and Post-Pandemic Modes of Work [Full Article](https://ascelibrary.org/doi/abs/10.1061/9780784486184.056)
+
+
 ## Reviewing Role
 
 Also reviewed papers at [ECAI2023 conference](https://ecai2023.eu/reviewer) [(see “Call to Arms” award)](https://ecai2023.eu/pca), and at Transportation Research Record (TRR): [here](https://journals.sagepub.com/doi/10.1177/03611981231155024), [here](https://journals.sagepub.com/doi/epub/10.1177/03611981221077091), and [here](https://www.webofscience.com/wos/author/record/GPK-8305-2022).
