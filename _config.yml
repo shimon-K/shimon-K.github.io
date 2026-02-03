@@ -9,7 +9,7 @@ minima:
     - { platform: twitter, user_url: "https://twitter.com/ShimonKom" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/shimon-komarovsky-71669925/" }    
     - { platform: youtube, user_url: "https://www.youtube.com/c/ArtificialGeneralIntelligence" }  
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=whKPveEAAAAJ%26hl" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=whKPveEAAAAJ" }
     - { platform: flickr,         user_url: "https://www.flickr.com/photos/whKPveEAAAAJ&hl" }
     - { platform: microdotblog,   user_url: "https://micro.blog/Shimon-Komarovsky" }
   social_links2:
