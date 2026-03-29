@@ -5,7 +5,7 @@ title: Media
 ---
 
 
-For publications in education studies, see [here](https://shimon-k.github.io/publications.html#pub_education).
+For publications in academic studies, see [here](https://shimon-k.github.io/publications.html#pub_education).
 
 <br/><br/><br/>
 
