@@ -39,7 +39,7 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
             - *Supervised Learning* (Generative vs Discriminative classification, Logistic Regression, Naïve Bayes, Decision Trees, k-Nearest-Neighbors, Neural Networks)
             - *Clustering* (k-Means, GMM via EM, hierarchical, DBSCAN)
 
-        - **Large Language Models (LLMs):**
+	- **Large Language Models (LLMs):**
             - Text Representations, contextual embeddings, knowledge graphs and RAG, CLIP
             - Transformers, LLM pipeline (pre-training, post-training: SFT, RFT)
             - Transformer types, Transformer Alternatives (Mamba, RWKV, RetNet)
