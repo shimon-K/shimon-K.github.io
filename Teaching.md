@@ -25,7 +25,7 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 
 - [AGI Course](https://shimon-K.github.io/AGI-Course/)<!--()--> (in construction)
 - [Machine Learning (ML) and Natural Language Processing (NLP), in Hebrew](https://info.braude.ac.il/yedion/fireflyweb.aspx?prgname=S_CourseDetails&arguments=-N41197,-N1,-N1,-N261041442&Lang=E) or [here](https://info.braude.ac.il/info/2026/0041197.pdf)
-	        **Detailed subjects learned:**	
+<br>  **Detailed subjects learned:**	
 	- **AI math background:**
 		- *Linear Algebra* (linear & non-linear transformations, matrix and vector multiplications, tensors, norms, inner product, cosine distance and other distances, eigen-decomposition)
 		- *Calculus and optimization* (properties, chain rule, gradient descent, scalar/vector/matrix derivatives, Taylor expansion)
