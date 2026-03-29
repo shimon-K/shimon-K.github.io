@@ -216,35 +216,35 @@ title: Curriculum vitae (CV)
     <tr>
       <td rowspan="2">Edward de Bono</td>
       <td rowspan="1" style="font-size:12px">Parallel/Lateral Thinking (1995)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.amazon.com/Parallel-Thinking-Socratic-Edward-1995-09-28/dp/B019TLPS0W">Book</a></td>
     </tr>
     <tr>
       <td rowspan="1" style="font-size:12px">I Am Right, You Are Wrong (1990)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.goodreads.com/book/show/98483.I_Am_Right_You_Are_Wrong">Book</a></td>
     </tr>
     <tr>
       <td rowspan="1">French, C. C., & Colman, A. M.</td>
       <td rowspan="1" style="font-size:12px">Cognitive psychology (1995)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.awesomebooks.com/book/9780582278103/cognitive-psychology-longman-essential-psychology/used">Book</a></td>
     </tr>    
     <tr>
       <td rowspan="1">Elizabeth F. Loftus</td>
       <td rowspan="1" style="font-size:12px">Visual Perception: An Introduction (2012)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.researchgate.net/publication/287258957_Visual_perception_An_introduction_third_edition">Book</a></td>
     </tr>
     <tr>
       <td rowspan="2">Jeff Hawkins</td>
       <td rowspan="1" style="font-size:12px">On Intelligence (2004)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines-ebook/dp/B003J4VE5Y">Book</a></td>
     </tr>
     <tr>
       <td rowspan="1" style="font-size:12px">A Thousand Brains: A New Theory of Intelligence (2021)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675819">Book</a></td>
     </tr>
     <tr>
       <td rowspan="1">Elaine Rich, Kevin Knight</td>
       <td rowspan="1" style="font-size:12px">Artificial Intelligence (1991)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.amazon.com/Artificial-Intelligence-Kevin-Knight-Elaine/dp/0070087709">Book</a></td>
     </tr>
     
   </tbody>
