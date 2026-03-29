@@ -29,18 +29,18 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
   **Detailed subjects learned:**
 	
 	- **AI math background:**
-            - *Linear Algebra* (linear & non-linear transformations, matrix and vector multiplications, tensors, norms, inner product, cosine distance and other distances, eigen-decomposition)
-            - *Calculus and optimization* (properties, chain rule, gradient descent, scalar/vector/matrix derivatives, Taylor expansion)
-            - *Probability* (random variables, statistical measures, joint/marginal/conditional probability, distributions, bayes rule, expectation, entropy, parameter estimation via MLE and MAP)
+		- *Linear Algebra* (linear & non-linear transformations, matrix and vector multiplications, tensors, norms, inner product, cosine distance and other distances, eigen-decomposition)
+		- *Calculus and optimization* (properties, chain rule, gradient descent, scalar/vector/matrix derivatives, Taylor expansion)
+		- *Probability* (random variables, statistical measures, joint/marginal/conditional probability, distributions, bayes rule, expectation, entropy, parameter estimation via MLE and MAP)
 	
 	- **Machine learning (ML):**
-            - ML pipeline
-            - *Linear models* (Covariance matrix, Linear regression/classifier, SVM)
-            - *Supervised Learning* (Generative vs Discriminative classification, Logistic Regression, Naïve Bayes, Decision Trees, k-Nearest-Neighbors, Neural Networks)
-            - *Clustering* (k-Means, GMM via EM, hierarchical, DBSCAN)
+		- ML pipeline
+		- *Linear models* (Covariance matrix, Linear regression/classifier, SVM)
+		- *Supervised Learning* (Generative vs Discriminative classification, Logistic Regression, Naïve Bayes, Decision Trees, k-Nearest-Neighbors, Neural Networks)
+		- *Clustering* (k-Means, GMM via EM, hierarchical, DBSCAN)
 
 	- **Large Language Models (LLMs):**
-            - Text Representations, contextual embeddings, knowledge graphs and RAG, CLIP
-            - Transformers, LLM pipeline (pre-training, post-training: SFT, RFT)
-            - Transformer types, Transformer Alternatives (Mamba, RWKV, RetNet)
-            - *Agent Systems* (Evolution, Types, Frameworks, Protocols, Autonomy measure, Agentic RL, Agentic memory)
+		- Text Representations, contextual embeddings, knowledge graphs and RAG, CLIP
+		- Transformers, LLM pipeline (pre-training, post-training: SFT, RFT)
+		- Transformer types, Transformer Alternatives (Mamba, RWKV, RetNet)
+		- *Agent Systems* (Evolution, Types, Frameworks, Protocols, Autonomy measure, Agentic RL, Agentic memory)
