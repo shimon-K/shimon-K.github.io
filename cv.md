@@ -205,7 +205,7 @@ title: Curriculum vitae (CV)
       <td rowspan="9" align="center" class="vertical-th" style="font-size:30px">Books and Articles</td>
       <td rowspan="1">Copeland, Jack</td>
       <td rowspan="1" style="font-size:12px">Artificial Intelligence: A Philosophical Introduction (1993)</td>
-      <td rowspan="1">Book</td>
+      <td rowspan="1"><a href="https://www.amazon.com/-/he/B-Jack-Copeland/dp/B015X3W9UW">Book</a></td>
       <td class="vertical-th" rowspan="9" align="center">AIsummary.docx</td>
     </tr>
     <tr>
