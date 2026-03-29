@@ -149,11 +149,8 @@ function forward10sec() {
 
 <a target="_blank" href="https://letsai.co.il/agi-race-israel/">
   <img src="https://letsai.co.il/wp-content/uploads/2026/03/path-to-agi-1024x683.jpg" alt="The AGI Race" style="width: 150px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-The AGI Race: While we are improving bots, the world is fighting for control of the future – Featured on *LetsAI*
+The AGI Race: While we are improving bots, the world is fighting for control of the future – Featured on *LetsAI* (in Hebrew)
 </a>
-
-
-[**The AGI Race in Israel**](https://letsai.co.il/agi-race-israel/) – A featured discussion on the landscape of AGI development in Israel via *LetsAI*.
 
 <a target="_blank" href="https://medium.com/@theAGI/rethinking-education-for-inventors-navigating-the-information-age-7e30817071dd"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theAGI/0" alt="Recent Article 0"></a>
 
