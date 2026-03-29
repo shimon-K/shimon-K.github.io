@@ -33,7 +33,7 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
             - *Calculus and optimization* (properties, chain rule, gradient descent, scalar/vector/matrix derivatives, Taylor expansion)
             - *Probability* (random variables, statistical measures, joint/marginal/conditional probability, distributions, bayes rule, expectation, entropy, parameter estimation via MLE and MAP)
 	
-        - **Machine learning (ML):**
+	- **Machine learning (ML):**
             - ML pipeline
             - *Linear models* (Covariance matrix, Linear regression/classifier, SVM)
             - *Supervised Learning* (Generative vs Discriminative classification, Logistic Regression, Naïve Bayes, Decision Trees, k-Nearest-Neighbors, Neural Networks)
