@@ -42,3 +42,85 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 		- Transformers, LLM pipeline (pre-training, post-training: SFT, RFT)
 		- Transformer types, Transformer Alternatives (Mamba, RWKV, RetNet)
 		- *Agent Systems* (Evolution, Types, Frameworks, Protocols, Autonomy measure, Agentic RL, Agentic memory)
+- [Deep Generative Models, in Hebrew](https://www.hit.ac.il/students/regulations-newsletters/yedion-data-science/) or [here](https://www.hit.ac.il/wp-content/uploads/2026/10/%D7%9E%D7%93%D7%A2%D7%99-%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D-%D7%99%D7%93%D7%99%D7%A2%D7%95%D7%9F-%D7%AA%D7%A9%D7%A2%D7%96.pdf)
+<br>  **Detailed subjects learned:**	
+	- **Introduction:**
+		- Discriminative vs Generative models
+		- Visible and Latent features of the data
+		- Generative models tasks
+		- Conditional and Unconditional generative versions of different generative model families
+		- *Joint Probability* definition and examples; its different decompositions (chain rule, Bayesian network, Markov chains, and n-grams), and its MLE objective
+	
+	- **Autoregressive (AR) Models:**
+		- Examples in vision and language
+                - Explicit Density Estimation via MLE optimization
+                - Fully Visible Sigmoid Belief Network (FVSBN)
+                - Neural Autoregressive Density Estimation (NADE)
+                - Masked autoencoder (AE) for Distribution Estimation (MADE)
+                - CNN and RNN based models
+
+	- **Latent Variable models:**
+		- Shallow latent model - Gaussian Mixture Model (GMM)
+		- *Variational AE (VAE)* comparison to GMM and to AE
+                - *VAE objective derivation*: Evidence lower bound (ELBO), Importance sampling, Monte Carlo (MC) approximation, Stochastic Variational Inference (SVI), reparameterization trick, Amortized Inference
+		- *VAE Latent space*: 2D visualization, arithmetic and interpolation operations
+		- *Hierarchical VAE (HVAE)*: NVAE, Markovian HVAE (MHVAE), Non-Markovian HVAE
+                - *Additonal VAEs*: Beta-VAE, 
+                - *Discrete latent space*: discrete latent variables necessity, Discrete VAE – by discretization, Discrete VAE – by sampling, Reperameterization for Discrete VAE, VAE+AR: Vector-Quantized VAE (VQ-VAE) and VQ-VAE – Hierarchical extension (VQ-VAE-2)
+
+	- **Normalizing flow models:**
+		- Flow model versus VAE
+		- Change of Variables formula in 1D and in general
+		- Cascade or a flow of transformations
+		- Efficient flow modeling requirements and Basic invertible flows
+		- Method 1: Nonlinear Independent Components Estimation (NICE)
+		- Method 2: Real-NVP: Non-volume preserving extension of NICE
+		- Method 3: *Continuous AR models as flow models*: Masked Autoregressive Flow (MAF), Inverse Autoregressive Flow (IAF), Parallel Wavenet
+		- Method 4: MintNet (Song et al., 2019)
+		- Method 5: Gaussianization Flows (Meng et al., 2020)
+		- Continuous-time flows
+
+	- **Generative Adversarial Network (GAN) model:**
+		- Likelihood issue and alternative: two-sample test objective
+		- GAN minimax objective and algorithm; JS divergence; GAN optimal discriminator and generator
+		- Deep Convolutional GAN (DCGAN)
+		- *f-GAN*: f divergence, Variational Divergence Minimization
+		- *WGAN*: Wasserstein (Earth-Mover) distance, WGAN vs GAN
+                - Latent representations in GANs and Bidirectional GAN (BiGAN)
+                - Conditional GAN (cGAN)
+                - Progressive generation (of higher resolution): LapGAN and ProgressiveGAN
+                - Other GANs: CycleGAN, Style GAN, and VQ-GAN
+	- **Energy-Based Models (EBMs):**
+                - EBM vs GAN; Likelihood based learning; definitions
+                - Applications: Ising model, Product of Experts, Restricted Boltzmann machine (RBM) and Deep Boltzmann machine (DBM)
+                - *Training EBM via Sampling*: Contrastive Divergence (CD), Markov Chain Monte Carlo (MCMC), Metropolis-Hastings MCMC, unadjusted Langevin MCMC
+                - *Training EBM without Sampling*: Score Matching, Noise Contrastive Estimation, and Adversarial training
+
+	- **Diffusion models:**
+                - *Diffusion models as score-based models*: The Score Function and Fisher Divergence, Methods (Denoising Score Matching (Vincent, 2011) and Tweedie’s formula, Sliced score matching), pitfalls, Langevin dynamics sampling, multiple noise scales: Annealed Langevin Dynamics and Noise Conditional Score Network (NCSN), infinite noise scales: stochastic processes and SDEs, Predictor-Corrector sampling methods
+                - *Diffusion models as (hierarchical) VAEs - DDPM*: encoder model and decoder HVAE model; ELBO objective derivation; training, evaluation and inference algorithms, Architectures (U-Net, Diffusion Transformer (DiT))
+                - *Diffusion models as normalizing flow models*: Discrete and Continuous diffusion processes via ODE and SDE 
+                - *Efficient sampling strategies*: Accelerated sampling and DDIM, DDIM vs DDPM, Denoising Diffusion GANs, Nested Diffusion, Parallel ODE solving, Distillation, Latent and stable diffusion model, 
+                - *Controllable generation*: Conditional generation – Classifier Guidance and Classifier-free Guidance, Consistency Models, Multi-Scale Synthesis, Text2Image
+                - *Diffusion Models for Discrete Data*: Continuous vs Discrete Data; Concrete Score: Method 1 – Implicit Score Entropy, Method 2 – Denoising Score Entropy, sampling via Markov discrete chain and via continuous-time Markov chain (CTMC); Diffusion LLMs
+
+	- **Evaluation of Generative Models:**
+                - Density Estimation or Compression
+                - Kernel Density Estimation (KDE)
+                - Inception Scores (IS)
+<!--Inception Scores: Frechet Inception Distance (FID) vs Kernel Inception Distance (KID)
+Sampling/generation (Importance Sampling, Sample quality)
+Latent representation learning (Clustering, Lossy Compression, Disentanglement)-->
+                - Frechet Inception Distance (FID)
+                - Kernel Inception Distance (KID)
+                - Precision and Recall; Negative Log-Likelihiood (NLL)
+
+	- **Linear Inverse Problems:**
+                - defintions and examples; linear and non-linear problems
+                - Solving linear inverse problems: via Bayesian approach (Maximum A Posteriori (MAP) estimator and Minimum Mean-Squared Error (MMSE) estimator), via Generator, via denoisers, via Diffusion
+                - distortion-perception trade-off
+
+
+
+
+
