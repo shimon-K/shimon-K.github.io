@@ -38,10 +38,18 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 		- *Clustering* (k-Means, GMM via EM, hierarchical, DBSCAN)
 
 	- **Large Language Models (LLMs):**
-		- Text Representations, contextual embeddings, knowledge graphs and RAG, CLIP
-		- Transformers, LLM pipeline (pre-training, post-training: SFT, RFT)
-		- Transformer types, Transformer Alternatives (Mamba, RWKV, RetNet)
-		- *Agent Systems* (Evolution, Types, Frameworks, Protocols, Autonomy measure, Agentic RL, Agentic memory)
+		- Text Representations, contextual/non-contextual/multimodal embeddings, knowledge graphs and RAG, CLIP, ViT, VLM
+		- Transformers, LLM process (attention, decoding), LLM pipeline (pre-training, post-training: SFT, RFT)
+		- Models: GLM, DeepSeek, OpenAI GPT-6 Astra, Qwen, Kimi K2-3, 
+		- Transformer types, Transformer Alternatives (Mamba/JAMBA, RWKV, RetNet, Nemotron, Titans, LFM)
+		- World models and JEPA
+		- Prompt/Context/Loop/Graph/Harness/Agent Engineering
+		- Action Transformers, LAM, VLA
+		- *Agent Systems* (Evolution, Types, Agentic RAG, Skills, Frameworks, Protocols, Autonomy measure, Agentic RL, Agentic memory, Agentic harness)
+		- *Agent Systems* examples: Clawdbot, Moltbot, and OpenClaw; DeepAgent, OpenResearcher, Deep Research agents, Autoresearch, AutoAgent; 
+
+
+
 - [Deep Generative Models, in Hebrew](https://www.hit.ac.il/students/regulations-newsletters/yedion-data-science/) or [here](https://www.hit.ac.il/wp-content/uploads/2026/10/%D7%9E%D7%93%D7%A2%D7%99-%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D-%D7%99%D7%93%D7%99%D7%A2%D7%95%D7%9F-%D7%AA%D7%A9%D7%A2%D7%96.pdf)
 <br>  **Detailed subjects learned:**	
 	- **Introduction:**
