@@ -86,10 +86,10 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 		- Deep Convolutional GAN (DCGAN)
 		- *f-GAN*: f divergence, Variational Divergence Minimization
 		- *WGAN*: Wasserstein (Earth-Mover) distance, WGAN vs GAN
-                - Latent representations in GANs and Bidirectional GAN (BiGAN)
-                - Conditional GAN (cGAN)
-                - Progressive generation (of higher resolution): LapGAN and ProgressiveGAN
-                - Other GANs: CycleGAN, Style GAN, and VQ-GAN
+		- Latent representations in GANs and Bidirectional GAN (BiGAN)
+		- Conditional GAN (cGAN)
+		- Progressive generation (of higher resolution): LapGAN and ProgressiveGAN
+		- Other GANs: CycleGAN, Style GAN, and VQ-GAN
 
 	- **Energy-Based Models (EBMs):**
                 - EBM vs GAN; Likelihood based learning; definitions
