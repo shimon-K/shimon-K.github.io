@@ -65,7 +65,7 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
                 - *VAE objective derivation*: Evidence lower bound (ELBO), Importance sampling, Monte Carlo (MC) approximation, Stochastic Variational Inference (SVI), reparameterization trick, Amortized Inference
 		- *VAE Latent space*: 2D visualization, arithmetic and interpolation operations
 		- *Hierarchical VAE (HVAE)*: NVAE, Markovian HVAE (MHVAE), Non-Markovian HVAE
-                - *Additonal VAEs*: Beta-VAE, 
+                - *Additonal VAEs*: Beta-VAE, and more
                 - *Discrete latent space*: discrete latent variables necessity, Discrete VAE – by discretization, Discrete VAE – by sampling, Reperameterization for Discrete VAE, VAE+AR: Vector-Quantized VAE (VQ-VAE) and VQ-VAE – Hierarchical extension (VQ-VAE-2)
 
 	- **Normalizing flow models:**
@@ -92,34 +92,34 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
 		- Other GANs: CycleGAN, Style GAN, and VQ-GAN
 
 	- **Energy-Based Models (EBMs):**
-                - EBM vs GAN; Likelihood based learning; definitions
-                - Applications: Ising model, Product of Experts, Restricted Boltzmann machine (RBM) and Deep Boltzmann machine (DBM)
-                - *Training EBM via Sampling*: Contrastive Divergence (CD), Markov Chain Monte Carlo (MCMC), Metropolis-Hastings MCMC, unadjusted Langevin MCMC
-                - *Training EBM without Sampling*: Score Matching, Noise Contrastive Estimation, and Adversarial training
+		- EBM vs GAN; Likelihood based learning; definitions
+		- Applications: Ising model, Product of Experts, Restricted Boltzmann machine (RBM) and Deep Boltzmann machine (DBM)
+		- *Training EBM via Sampling*: Contrastive Divergence (CD), Markov Chain Monte Carlo (MCMC), Metropolis-Hastings MCMC, unadjusted Langevin MCMC
+		- *Training EBM without Sampling*: Score Matching, Noise Contrastive Estimation, and Adversarial training
 
 	- **Diffusion models:**
-                - *Diffusion models as score-based models*: The Score Function and Fisher Divergence, Methods (Denoising Score Matching (Vincent, 2011) and Tweedie’s formula, Sliced score matching), pitfalls, Langevin dynamics sampling, multiple noise scales: Annealed Langevin Dynamics and Noise Conditional Score Network (NCSN), infinite noise scales: stochastic processes and SDEs, Predictor-Corrector sampling methods
-                - *Diffusion models as (hierarchical) VAEs - DDPM*: encoder model and decoder HVAE model; ELBO objective derivation; training, evaluation and inference algorithms, Architectures (U-Net, Diffusion Transformer (DiT))
-                - *Diffusion models as normalizing flow models*: Discrete and Continuous diffusion processes via ODE and SDE 
-                - *Efficient sampling strategies*: Accelerated sampling and DDIM, DDIM vs DDPM, Denoising Diffusion GANs, Nested Diffusion, Parallel ODE solving, Distillation, Latent and stable diffusion model, 
-                - *Controllable generation*: Conditional generation – Classifier Guidance and Classifier-free Guidance, Consistency Models, Multi-Scale Synthesis, Text2Image
-                - *Diffusion Models for Discrete Data*: Continuous vs Discrete Data; Concrete Score: Method 1 – Implicit Score Entropy, Method 2 – Denoising Score Entropy, sampling via Markov discrete chain and via continuous-time Markov chain (CTMC); Diffusion LLMs
+		- *Diffusion models as score-based models*: The Score Function and Fisher Divergence, Methods (Denoising Score Matching (Vincent, 2011) and Tweedie’s formula, Sliced score matching), pitfalls, Langevin dynamics sampling, multiple noise scales: Annealed Langevin Dynamics and Noise Conditional Score Network (NCSN), infinite noise scales: stochastic processes and SDEs, Predictor-Corrector sampling methods
+		- *Diffusion models as (hierarchical) VAEs - DDPM*: encoder model and decoder HVAE model; ELBO objective derivation; training, evaluation and inference algorithms, Architectures (U-Net, Diffusion Transformer (DiT))
+		- *Diffusion models as normalizing flow models*: Discrete and Continuous diffusion processes via ODE and SDE 
+		- *Efficient sampling strategies*: Accelerated sampling and DDIM, DDIM vs DDPM, Denoising Diffusion GANs, Nested Diffusion, Parallel ODE solving, Distillation, Latent and stable diffusion model, 
+		- *Controllable generation*: Conditional generation – Classifier Guidance and Classifier-free Guidance, Consistency Models, Multi-Scale Synthesis, Text2Image
+		- *Diffusion Models for Discrete Data*: Continuous vs Discrete Data; Concrete Score: Method 1 – Implicit Score Entropy, Method 2 – Denoising Score Entropy, sampling via Markov discrete chain and via continuous-time Markov chain (CTMC); Diffusion LLMs
 
 	- **Evaluation of Generative Models:**
-                - Density Estimation or Compression
-                - Kernel Density Estimation (KDE)
-                - Inception Scores (IS)
+		- Density Estimation or Compression
+		- Kernel Density Estimation (KDE)
+		- Inception Scores (IS)
 <!--Inception Scores: Frechet Inception Distance (FID) vs Kernel Inception Distance (KID)
 Sampling/generation (Importance Sampling, Sample quality)
 Latent representation learning (Clustering, Lossy Compression, Disentanglement)-->
-                - Frechet Inception Distance (FID)
-                - Kernel Inception Distance (KID)
-                - Precision and Recall; Negative Log-Likelihiood (NLL)
+		- Frechet Inception Distance (FID)
+		- Kernel Inception Distance (KID)
+		- Precision and Recall; Negative Log-Likelihiood (NLL)
 
 	- **Linear Inverse Problems:**
-                - defintions and examples; linear and non-linear problems
-                - Solving linear inverse problems: via Bayesian approach (Maximum A Posteriori (MAP) estimator and Minimum Mean-Squared Error (MMSE) estimator), via Generator, via denoisers, via Diffusion
-                - distortion-perception trade-off
+		- defintions and examples; linear and non-linear problems
+		- Solving linear inverse problems: via Bayesian approach (Maximum A Posteriori (MAP) estimator and Minimum Mean-Squared Error (MMSE) estimator), via Generator, via denoisers, via Diffusion
+		- distortion-perception trade-off
 
 
 
