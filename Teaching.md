@@ -90,6 +90,7 @@ Finally, I believe in coarse-to-fine hierarchy, like AKREM, to be realized every
                 - Conditional GAN (cGAN)
                 - Progressive generation (of higher resolution): LapGAN and ProgressiveGAN
                 - Other GANs: CycleGAN, Style GAN, and VQ-GAN
+
 	- **Energy-Based Models (EBMs):**
                 - EBM vs GAN; Likelihood based learning; definitions
                 - Applications: Ising model, Product of Experts, Restricted Boltzmann machine (RBM) and Deep Boltzmann machine (DBM)
